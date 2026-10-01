@@ -1,0 +1,1341 @@
+id	realm	city	kind	name	description	access	hours	minRank	rarity
+LOC_00001	Aeloria	Valdora	HOUSE	Casa de Valdora	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00002	Aeloria	Valdora	SHOP	Loja de Valdora	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00003	Aeloria	Valdora	RESTAURANT	Restaurante de Valdora	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00004	Aeloria	Valdora	MARKET	Feira de Valdora	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00005	Aeloria	Valdora	PALACE	Palácio de Valdora	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00006	Aeloria	Valdora	DUNGEON	Dungeon de Valdora	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00007	Aeloria	Valdora	CULT	Local cultista de Valdora	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00008	Aeloria	Valdora	GUARD	Posto da Guarda de Valdora	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00009	Aeloria	Valdora	ACADEMY	Academia de Valdora	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00010	Aeloria	Valdora	LIBRARY	Biblioteca de Valdora	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00011	Aeloria	Valdora	BLACKSMITH	Ferraria de Valdora	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00012	Aeloria	Valdora	GUILD	Guilda dos Aventureiros de Valdora	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00013	Aeloria	Valdora	TEMPLE	Templo de Valdora	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00014	Aeloria	Valdora	ALCHEMY	Laboratório de Alquimia de Valdora	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00015	Aeloria	Valdora	TAVERN	Taverna de Valdora	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00016	Aeloria	Valdora	STABLE	Estábulo de Valdora	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00017	Aeloria	Valdora	MAGE_TOWER	Torre de Magos de Valdora	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00018	Aeloria	Valdora	ARENA	Arena de Valdora	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00019	Aeloria	Valdora	DOCK	Cais de Valdora	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00020	Aeloria	Valdora	SHRINE	Santuário de Valdora	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00021	Aeloria	Drakensport	HOUSE	Casa de Drakensport	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00022	Aeloria	Drakensport	SHOP	Loja de Drakensport	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00023	Aeloria	Drakensport	RESTAURANT	Restaurante de Drakensport	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00024	Aeloria	Drakensport	MARKET	Feira de Drakensport	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00025	Aeloria	Drakensport	PALACE	Palácio de Drakensport	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00026	Aeloria	Drakensport	DUNGEON	Dungeon de Drakensport	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00027	Aeloria	Drakensport	CULT	Local cultista de Drakensport	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00028	Aeloria	Drakensport	GUARD	Posto da Guarda de Drakensport	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00029	Aeloria	Drakensport	ACADEMY	Academia de Drakensport	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00030	Aeloria	Drakensport	LIBRARY	Biblioteca de Drakensport	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00031	Aeloria	Drakensport	BLACKSMITH	Ferraria de Drakensport	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00032	Aeloria	Drakensport	GUILD	Guilda dos Aventureiros de Drakensport	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00033	Aeloria	Drakensport	TEMPLE	Templo de Drakensport	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00034	Aeloria	Drakensport	ALCHEMY	Laboratório de Alquimia de Drakensport	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00035	Aeloria	Drakensport	TAVERN	Taverna de Drakensport	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00036	Aeloria	Drakensport	STABLE	Estábulo de Drakensport	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00037	Aeloria	Drakensport	MAGE_TOWER	Torre de Magos de Drakensport	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00038	Aeloria	Drakensport	ARENA	Arena de Drakensport	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00039	Aeloria	Drakensport	DOCK	Cais de Drakensport	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00040	Aeloria	Drakensport	SHRINE	Santuário de Drakensport	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00041	Aeloria	Lunareth	HOUSE	Casa de Lunareth	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00042	Aeloria	Lunareth	SHOP	Loja de Lunareth	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00043	Aeloria	Lunareth	RESTAURANT	Restaurante de Lunareth	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00044	Aeloria	Lunareth	MARKET	Feira de Lunareth	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00045	Aeloria	Lunareth	PALACE	Palácio de Lunareth	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00046	Aeloria	Lunareth	DUNGEON	Dungeon de Lunareth	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00047	Aeloria	Lunareth	CULT	Local cultista de Lunareth	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00048	Aeloria	Lunareth	GUARD	Posto da Guarda de Lunareth	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00049	Aeloria	Lunareth	ACADEMY	Academia de Lunareth	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00050	Aeloria	Lunareth	LIBRARY	Biblioteca de Lunareth	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00051	Aeloria	Lunareth	BLACKSMITH	Ferraria de Lunareth	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00052	Aeloria	Lunareth	GUILD	Guilda dos Aventureiros de Lunareth	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00053	Aeloria	Lunareth	TEMPLE	Templo de Lunareth	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00054	Aeloria	Lunareth	ALCHEMY	Laboratório de Alquimia de Lunareth	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00055	Aeloria	Lunareth	TAVERN	Taverna de Lunareth	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00056	Aeloria	Lunareth	STABLE	Estábulo de Lunareth	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00057	Aeloria	Lunareth	MAGE_TOWER	Torre de Magos de Lunareth	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00058	Aeloria	Lunareth	ARENA	Arena de Lunareth	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00059	Aeloria	Lunareth	DOCK	Cais de Lunareth	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00060	Aeloria	Lunareth	SHRINE	Santuário de Lunareth	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00061	Aeloria	Cindralith	HOUSE	Casa de Cindralith	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00062	Aeloria	Cindralith	SHOP	Loja de Cindralith	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00063	Aeloria	Cindralith	RESTAURANT	Restaurante de Cindralith	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00064	Aeloria	Cindralith	MARKET	Feira de Cindralith	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00065	Aeloria	Cindralith	PALACE	Palácio de Cindralith	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00066	Aeloria	Cindralith	DUNGEON	Dungeon de Cindralith	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00067	Aeloria	Cindralith	CULT	Local cultista de Cindralith	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00068	Aeloria	Cindralith	GUARD	Posto da Guarda de Cindralith	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00069	Aeloria	Cindralith	ACADEMY	Academia de Cindralith	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00070	Aeloria	Cindralith	LIBRARY	Biblioteca de Cindralith	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00071	Aeloria	Cindralith	BLACKSMITH	Ferraria de Cindralith	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00072	Aeloria	Cindralith	GUILD	Guilda dos Aventureiros de Cindralith	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00073	Aeloria	Cindralith	TEMPLE	Templo de Cindralith	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00074	Aeloria	Cindralith	ALCHEMY	Laboratório de Alquimia de Cindralith	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00075	Aeloria	Cindralith	TAVERN	Taverna de Cindralith	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00076	Aeloria	Cindralith	STABLE	Estábulo de Cindralith	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00077	Aeloria	Cindralith	MAGE_TOWER	Torre de Magos de Cindralith	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00078	Aeloria	Cindralith	ARENA	Arena de Cindralith	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00079	Aeloria	Cindralith	DOCK	Cais de Cindralith	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00080	Aeloria	Cindralith	SHRINE	Santuário de Cindralith	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00081	Aeloria	Feyndral	HOUSE	Casa de Feyndral	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00082	Aeloria	Feyndral	SHOP	Loja de Feyndral	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00083	Aeloria	Feyndral	RESTAURANT	Restaurante de Feyndral	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00084	Aeloria	Feyndral	MARKET	Feira de Feyndral	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00085	Aeloria	Feyndral	PALACE	Palácio de Feyndral	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00086	Aeloria	Feyndral	DUNGEON	Dungeon de Feyndral	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00087	Aeloria	Feyndral	CULT	Local cultista de Feyndral	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00088	Aeloria	Feyndral	GUARD	Posto da Guarda de Feyndral	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00089	Aeloria	Feyndral	ACADEMY	Academia de Feyndral	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00090	Aeloria	Feyndral	LIBRARY	Biblioteca de Feyndral	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00091	Aeloria	Feyndral	BLACKSMITH	Ferraria de Feyndral	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00092	Aeloria	Feyndral	GUILD	Guilda dos Aventureiros de Feyndral	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00093	Aeloria	Feyndral	TEMPLE	Templo de Feyndral	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00094	Aeloria	Feyndral	ALCHEMY	Laboratório de Alquimia de Feyndral	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00095	Aeloria	Feyndral	TAVERN	Taverna de Feyndral	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00096	Aeloria	Feyndral	STABLE	Estábulo de Feyndral	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00097	Aeloria	Feyndral	MAGE_TOWER	Torre de Magos de Feyndral	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00098	Aeloria	Feyndral	ARENA	Arena de Feyndral	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00099	Aeloria	Feyndral	DOCK	Cais de Feyndral	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00100	Aeloria	Feyndral	SHRINE	Santuário de Feyndral	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00101	Aeloria	Arvenholt	HOUSE	Casa de Arvenholt	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00102	Aeloria	Arvenholt	SHOP	Loja de Arvenholt	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00103	Aeloria	Arvenholt	RESTAURANT	Restaurante de Arvenholt	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00104	Aeloria	Arvenholt	MARKET	Feira de Arvenholt	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00105	Aeloria	Arvenholt	PALACE	Palácio de Arvenholt	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00106	Aeloria	Arvenholt	DUNGEON	Dungeon de Arvenholt	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00107	Aeloria	Arvenholt	CULT	Local cultista de Arvenholt	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00108	Aeloria	Arvenholt	GUARD	Posto da Guarda de Arvenholt	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00109	Aeloria	Arvenholt	ACADEMY	Academia de Arvenholt	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00110	Aeloria	Arvenholt	LIBRARY	Biblioteca de Arvenholt	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00111	Aeloria	Arvenholt	BLACKSMITH	Ferraria de Arvenholt	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00112	Aeloria	Arvenholt	GUILD	Guilda dos Aventureiros de Arvenholt	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00113	Aeloria	Arvenholt	TEMPLE	Templo de Arvenholt	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00114	Aeloria	Arvenholt	ALCHEMY	Laboratório de Alquimia de Arvenholt	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00115	Aeloria	Arvenholt	TAVERN	Taverna de Arvenholt	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00116	Aeloria	Arvenholt	STABLE	Estábulo de Arvenholt	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00117	Aeloria	Arvenholt	MAGE_TOWER	Torre de Magos de Arvenholt	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00118	Aeloria	Arvenholt	ARENA	Arena de Arvenholt	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00119	Aeloria	Arvenholt	DOCK	Cais de Arvenholt	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00120	Aeloria	Arvenholt	SHRINE	Santuário de Arvenholt	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00121	Aeloria	Brighthollow	HOUSE	Casa de Brighthollow	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00122	Aeloria	Brighthollow	SHOP	Loja de Brighthollow	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00123	Aeloria	Brighthollow	RESTAURANT	Restaurante de Brighthollow	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00124	Aeloria	Brighthollow	MARKET	Feira de Brighthollow	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00125	Aeloria	Brighthollow	PALACE	Palácio de Brighthollow	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00126	Aeloria	Brighthollow	DUNGEON	Dungeon de Brighthollow	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00127	Aeloria	Brighthollow	CULT	Local cultista de Brighthollow	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00128	Aeloria	Brighthollow	GUARD	Posto da Guarda de Brighthollow	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00129	Aeloria	Brighthollow	ACADEMY	Academia de Brighthollow	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00130	Aeloria	Brighthollow	LIBRARY	Biblioteca de Brighthollow	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00131	Aeloria	Brighthollow	BLACKSMITH	Ferraria de Brighthollow	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00132	Aeloria	Brighthollow	GUILD	Guilda dos Aventureiros de Brighthollow	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00133	Aeloria	Brighthollow	TEMPLE	Templo de Brighthollow	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00134	Aeloria	Brighthollow	ALCHEMY	Laboratório de Alquimia de Brighthollow	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00135	Aeloria	Brighthollow	TAVERN	Taverna de Brighthollow	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00136	Aeloria	Brighthollow	STABLE	Estábulo de Brighthollow	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00137	Aeloria	Brighthollow	MAGE_TOWER	Torre de Magos de Brighthollow	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00138	Aeloria	Brighthollow	ARENA	Arena de Brighthollow	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00139	Aeloria	Brighthollow	DOCK	Cais de Brighthollow	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00140	Aeloria	Brighthollow	SHRINE	Santuário de Brighthollow	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00141	Aeloria	Caelwyn	HOUSE	Casa de Caelwyn	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00142	Aeloria	Caelwyn	SHOP	Loja de Caelwyn	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00143	Aeloria	Caelwyn	RESTAURANT	Restaurante de Caelwyn	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00144	Aeloria	Caelwyn	MARKET	Feira de Caelwyn	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00145	Aeloria	Caelwyn	PALACE	Palácio de Caelwyn	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00146	Aeloria	Caelwyn	DUNGEON	Dungeon de Caelwyn	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00147	Aeloria	Caelwyn	CULT	Local cultista de Caelwyn	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00148	Aeloria	Caelwyn	GUARD	Posto da Guarda de Caelwyn	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00149	Aeloria	Caelwyn	ACADEMY	Academia de Caelwyn	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00150	Aeloria	Caelwyn	LIBRARY	Biblioteca de Caelwyn	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00151	Aeloria	Caelwyn	BLACKSMITH	Ferraria de Caelwyn	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00152	Aeloria	Caelwyn	GUILD	Guilda dos Aventureiros de Caelwyn	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00153	Aeloria	Caelwyn	TEMPLE	Templo de Caelwyn	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00154	Aeloria	Caelwyn	ALCHEMY	Laboratório de Alquimia de Caelwyn	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00155	Aeloria	Caelwyn	TAVERN	Taverna de Caelwyn	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00156	Aeloria	Caelwyn	STABLE	Estábulo de Caelwyn	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00157	Aeloria	Caelwyn	MAGE_TOWER	Torre de Magos de Caelwyn	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00158	Aeloria	Caelwyn	ARENA	Arena de Caelwyn	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00159	Aeloria	Caelwyn	DOCK	Cais de Caelwyn	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00160	Aeloria	Caelwyn	SHRINE	Santuário de Caelwyn	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00161	Aeloria	Duskmere	HOUSE	Casa de Duskmere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00162	Aeloria	Duskmere	SHOP	Loja de Duskmere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00163	Aeloria	Duskmere	RESTAURANT	Restaurante de Duskmere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00164	Aeloria	Duskmere	MARKET	Feira de Duskmere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00165	Aeloria	Duskmere	PALACE	Palácio de Duskmere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00166	Aeloria	Duskmere	DUNGEON	Dungeon de Duskmere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00167	Aeloria	Duskmere	CULT	Local cultista de Duskmere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00168	Aeloria	Duskmere	GUARD	Posto da Guarda de Duskmere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00169	Aeloria	Duskmere	ACADEMY	Academia de Duskmere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00170	Aeloria	Duskmere	LIBRARY	Biblioteca de Duskmere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00171	Aeloria	Duskmere	BLACKSMITH	Ferraria de Duskmere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00172	Aeloria	Duskmere	GUILD	Guilda dos Aventureiros de Duskmere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00173	Aeloria	Duskmere	TEMPLE	Templo de Duskmere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00174	Aeloria	Duskmere	ALCHEMY	Laboratório de Alquimia de Duskmere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00175	Aeloria	Duskmere	TAVERN	Taverna de Duskmere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00176	Aeloria	Duskmere	STABLE	Estábulo de Duskmere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00177	Aeloria	Duskmere	MAGE_TOWER	Torre de Magos de Duskmere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00178	Aeloria	Duskmere	ARENA	Arena de Duskmere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00179	Aeloria	Duskmere	DOCK	Cais de Duskmere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00180	Aeloria	Duskmere	SHRINE	Santuário de Duskmere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00181	Aeloria	Eldrath	HOUSE	Casa de Eldrath	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00182	Aeloria	Eldrath	SHOP	Loja de Eldrath	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00183	Aeloria	Eldrath	RESTAURANT	Restaurante de Eldrath	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00184	Aeloria	Eldrath	MARKET	Feira de Eldrath	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00185	Aeloria	Eldrath	PALACE	Palácio de Eldrath	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00186	Aeloria	Eldrath	DUNGEON	Dungeon de Eldrath	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00187	Aeloria	Eldrath	CULT	Local cultista de Eldrath	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00188	Aeloria	Eldrath	GUARD	Posto da Guarda de Eldrath	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00189	Aeloria	Eldrath	ACADEMY	Academia de Eldrath	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00190	Aeloria	Eldrath	LIBRARY	Biblioteca de Eldrath	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00191	Aeloria	Eldrath	BLACKSMITH	Ferraria de Eldrath	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00192	Aeloria	Eldrath	GUILD	Guilda dos Aventureiros de Eldrath	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00193	Aeloria	Eldrath	TEMPLE	Templo de Eldrath	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00194	Aeloria	Eldrath	ALCHEMY	Laboratório de Alquimia de Eldrath	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00195	Aeloria	Eldrath	TAVERN	Taverna de Eldrath	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00196	Aeloria	Eldrath	STABLE	Estábulo de Eldrath	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00197	Aeloria	Eldrath	MAGE_TOWER	Torre de Magos de Eldrath	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00198	Aeloria	Eldrath	ARENA	Arena de Eldrath	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00199	Aeloria	Eldrath	DOCK	Cais de Eldrath	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00200	Aeloria	Eldrath	SHRINE	Santuário de Eldrath	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00201	Aeloria	Fenndral	HOUSE	Casa de Fenndral	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00202	Aeloria	Fenndral	SHOP	Loja de Fenndral	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00203	Aeloria	Fenndral	RESTAURANT	Restaurante de Fenndral	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00204	Aeloria	Fenndral	MARKET	Feira de Fenndral	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00205	Aeloria	Fenndral	PALACE	Palácio de Fenndral	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00206	Aeloria	Fenndral	DUNGEON	Dungeon de Fenndral	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00207	Aeloria	Fenndral	CULT	Local cultista de Fenndral	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00208	Aeloria	Fenndral	GUARD	Posto da Guarda de Fenndral	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00209	Aeloria	Fenndral	ACADEMY	Academia de Fenndral	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00210	Aeloria	Fenndral	LIBRARY	Biblioteca de Fenndral	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00211	Aeloria	Fenndral	BLACKSMITH	Ferraria de Fenndral	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00212	Aeloria	Fenndral	GUILD	Guilda dos Aventureiros de Fenndral	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00213	Aeloria	Fenndral	TEMPLE	Templo de Fenndral	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00214	Aeloria	Fenndral	ALCHEMY	Laboratório de Alquimia de Fenndral	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00215	Aeloria	Fenndral	TAVERN	Taverna de Fenndral	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00216	Aeloria	Fenndral	STABLE	Estábulo de Fenndral	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00217	Aeloria	Fenndral	MAGE_TOWER	Torre de Magos de Fenndral	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00218	Aeloria	Fenndral	ARENA	Arena de Fenndral	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00219	Aeloria	Fenndral	DOCK	Cais de Fenndral	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00220	Aeloria	Fenndral	SHRINE	Santuário de Fenndral	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00221	Aeloria	Greystone	HOUSE	Casa de Greystone	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00222	Aeloria	Greystone	SHOP	Loja de Greystone	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00223	Aeloria	Greystone	RESTAURANT	Restaurante de Greystone	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00224	Aeloria	Greystone	MARKET	Feira de Greystone	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00225	Aeloria	Greystone	PALACE	Palácio de Greystone	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00226	Aeloria	Greystone	DUNGEON	Dungeon de Greystone	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00227	Aeloria	Greystone	CULT	Local cultista de Greystone	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00228	Aeloria	Greystone	GUARD	Posto da Guarda de Greystone	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00229	Aeloria	Greystone	ACADEMY	Academia de Greystone	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00230	Aeloria	Greystone	LIBRARY	Biblioteca de Greystone	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00231	Aeloria	Greystone	BLACKSMITH	Ferraria de Greystone	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00232	Aeloria	Greystone	GUILD	Guilda dos Aventureiros de Greystone	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00233	Aeloria	Greystone	TEMPLE	Templo de Greystone	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00234	Aeloria	Greystone	ALCHEMY	Laboratório de Alquimia de Greystone	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00235	Aeloria	Greystone	TAVERN	Taverna de Greystone	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00236	Aeloria	Greystone	STABLE	Estábulo de Greystone	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00237	Aeloria	Greystone	MAGE_TOWER	Torre de Magos de Greystone	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00238	Aeloria	Greystone	ARENA	Arena de Greystone	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00239	Aeloria	Greystone	DOCK	Cais de Greystone	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00240	Aeloria	Greystone	SHRINE	Santuário de Greystone	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00241	Aeloria	Hallowspire	HOUSE	Casa de Hallowspire	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00242	Aeloria	Hallowspire	SHOP	Loja de Hallowspire	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00243	Aeloria	Hallowspire	RESTAURANT	Restaurante de Hallowspire	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00244	Aeloria	Hallowspire	MARKET	Feira de Hallowspire	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00245	Aeloria	Hallowspire	PALACE	Palácio de Hallowspire	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00246	Aeloria	Hallowspire	DUNGEON	Dungeon de Hallowspire	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00247	Aeloria	Hallowspire	CULT	Local cultista de Hallowspire	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00248	Aeloria	Hallowspire	GUARD	Posto da Guarda de Hallowspire	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00249	Aeloria	Hallowspire	ACADEMY	Academia de Hallowspire	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00250	Aeloria	Hallowspire	LIBRARY	Biblioteca de Hallowspire	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00251	Aeloria	Hallowspire	BLACKSMITH	Ferraria de Hallowspire	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00252	Aeloria	Hallowspire	GUILD	Guilda dos Aventureiros de Hallowspire	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00253	Aeloria	Hallowspire	TEMPLE	Templo de Hallowspire	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00254	Aeloria	Hallowspire	ALCHEMY	Laboratório de Alquimia de Hallowspire	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00255	Aeloria	Hallowspire	TAVERN	Taverna de Hallowspire	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00256	Aeloria	Hallowspire	STABLE	Estábulo de Hallowspire	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00257	Aeloria	Hallowspire	MAGE_TOWER	Torre de Magos de Hallowspire	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00258	Aeloria	Hallowspire	ARENA	Arena de Hallowspire	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00259	Aeloria	Hallowspire	DOCK	Cais de Hallowspire	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00260	Aeloria	Hallowspire	SHRINE	Santuário de Hallowspire	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00261	Aeloria	Ironvale	HOUSE	Casa de Ironvale	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00262	Aeloria	Ironvale	SHOP	Loja de Ironvale	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00263	Aeloria	Ironvale	RESTAURANT	Restaurante de Ironvale	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00264	Aeloria	Ironvale	MARKET	Feira de Ironvale	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00265	Aeloria	Ironvale	PALACE	Palácio de Ironvale	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00266	Aeloria	Ironvale	DUNGEON	Dungeon de Ironvale	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00267	Aeloria	Ironvale	CULT	Local cultista de Ironvale	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00268	Aeloria	Ironvale	GUARD	Posto da Guarda de Ironvale	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00269	Aeloria	Ironvale	ACADEMY	Academia de Ironvale	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00270	Aeloria	Ironvale	LIBRARY	Biblioteca de Ironvale	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00271	Aeloria	Ironvale	BLACKSMITH	Ferraria de Ironvale	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00272	Aeloria	Ironvale	GUILD	Guilda dos Aventureiros de Ironvale	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00273	Aeloria	Ironvale	TEMPLE	Templo de Ironvale	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00274	Aeloria	Ironvale	ALCHEMY	Laboratório de Alquimia de Ironvale	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00275	Aeloria	Ironvale	TAVERN	Taverna de Ironvale	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00276	Aeloria	Ironvale	STABLE	Estábulo de Ironvale	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00277	Aeloria	Ironvale	MAGE_TOWER	Torre de Magos de Ironvale	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00278	Aeloria	Ironvale	ARENA	Arena de Ironvale	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00279	Aeloria	Ironvale	DOCK	Cais de Ironvale	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00280	Aeloria	Ironvale	SHRINE	Santuário de Ironvale	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00281	Aeloria	Jorathen	HOUSE	Casa de Jorathen	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00282	Aeloria	Jorathen	SHOP	Loja de Jorathen	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00283	Aeloria	Jorathen	RESTAURANT	Restaurante de Jorathen	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00284	Aeloria	Jorathen	MARKET	Feira de Jorathen	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00285	Aeloria	Jorathen	PALACE	Palácio de Jorathen	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00286	Aeloria	Jorathen	DUNGEON	Dungeon de Jorathen	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00287	Aeloria	Jorathen	CULT	Local cultista de Jorathen	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00288	Aeloria	Jorathen	GUARD	Posto da Guarda de Jorathen	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00289	Aeloria	Jorathen	ACADEMY	Academia de Jorathen	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00290	Aeloria	Jorathen	LIBRARY	Biblioteca de Jorathen	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00291	Aeloria	Jorathen	BLACKSMITH	Ferraria de Jorathen	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00292	Aeloria	Jorathen	GUILD	Guilda dos Aventureiros de Jorathen	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00293	Aeloria	Jorathen	TEMPLE	Templo de Jorathen	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00294	Aeloria	Jorathen	ALCHEMY	Laboratório de Alquimia de Jorathen	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00295	Aeloria	Jorathen	TAVERN	Taverna de Jorathen	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00296	Aeloria	Jorathen	STABLE	Estábulo de Jorathen	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00297	Aeloria	Jorathen	MAGE_TOWER	Torre de Magos de Jorathen	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00298	Aeloria	Jorathen	ARENA	Arena de Jorathen	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00299	Aeloria	Jorathen	DOCK	Cais de Jorathen	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00300	Aeloria	Jorathen	SHRINE	Santuário de Jorathen	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00301	Aeloria	Kaelmoor	HOUSE	Casa de Kaelmoor	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00302	Aeloria	Kaelmoor	SHOP	Loja de Kaelmoor	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00303	Aeloria	Kaelmoor	RESTAURANT	Restaurante de Kaelmoor	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00304	Aeloria	Kaelmoor	MARKET	Feira de Kaelmoor	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00305	Aeloria	Kaelmoor	PALACE	Palácio de Kaelmoor	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00306	Aeloria	Kaelmoor	DUNGEON	Dungeon de Kaelmoor	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00307	Aeloria	Kaelmoor	CULT	Local cultista de Kaelmoor	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00308	Aeloria	Kaelmoor	GUARD	Posto da Guarda de Kaelmoor	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00309	Aeloria	Kaelmoor	ACADEMY	Academia de Kaelmoor	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00310	Aeloria	Kaelmoor	LIBRARY	Biblioteca de Kaelmoor	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00311	Aeloria	Kaelmoor	BLACKSMITH	Ferraria de Kaelmoor	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00312	Aeloria	Kaelmoor	GUILD	Guilda dos Aventureiros de Kaelmoor	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00313	Aeloria	Kaelmoor	TEMPLE	Templo de Kaelmoor	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00314	Aeloria	Kaelmoor	ALCHEMY	Laboratório de Alquimia de Kaelmoor	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00315	Aeloria	Kaelmoor	TAVERN	Taverna de Kaelmoor	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00316	Aeloria	Kaelmoor	STABLE	Estábulo de Kaelmoor	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00317	Aeloria	Kaelmoor	MAGE_TOWER	Torre de Magos de Kaelmoor	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00318	Aeloria	Kaelmoor	ARENA	Arena de Kaelmoor	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00319	Aeloria	Kaelmoor	DOCK	Cais de Kaelmoor	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00320	Aeloria	Kaelmoor	SHRINE	Santuário de Kaelmoor	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00321	Aeloria	Loryndor	HOUSE	Casa de Loryndor	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00322	Aeloria	Loryndor	SHOP	Loja de Loryndor	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00323	Aeloria	Loryndor	RESTAURANT	Restaurante de Loryndor	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00324	Aeloria	Loryndor	MARKET	Feira de Loryndor	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00325	Aeloria	Loryndor	PALACE	Palácio de Loryndor	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00326	Aeloria	Loryndor	DUNGEON	Dungeon de Loryndor	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00327	Aeloria	Loryndor	CULT	Local cultista de Loryndor	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00328	Aeloria	Loryndor	GUARD	Posto da Guarda de Loryndor	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00329	Aeloria	Loryndor	ACADEMY	Academia de Loryndor	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00330	Aeloria	Loryndor	LIBRARY	Biblioteca de Loryndor	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00331	Aeloria	Loryndor	BLACKSMITH	Ferraria de Loryndor	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00332	Aeloria	Loryndor	GUILD	Guilda dos Aventureiros de Loryndor	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00333	Aeloria	Loryndor	TEMPLE	Templo de Loryndor	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00334	Aeloria	Loryndor	ALCHEMY	Laboratório de Alquimia de Loryndor	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00335	Aeloria	Loryndor	TAVERN	Taverna de Loryndor	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00336	Aeloria	Loryndor	STABLE	Estábulo de Loryndor	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00337	Aeloria	Loryndor	MAGE_TOWER	Torre de Magos de Loryndor	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00338	Aeloria	Loryndor	ARENA	Arena de Loryndor	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00339	Aeloria	Loryndor	DOCK	Cais de Loryndor	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00340	Aeloria	Loryndor	SHRINE	Santuário de Loryndor	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00341	Aeloria	Myrendale	HOUSE	Casa de Myrendale	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00342	Aeloria	Myrendale	SHOP	Loja de Myrendale	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00343	Aeloria	Myrendale	RESTAURANT	Restaurante de Myrendale	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00344	Aeloria	Myrendale	MARKET	Feira de Myrendale	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00345	Aeloria	Myrendale	PALACE	Palácio de Myrendale	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00346	Aeloria	Myrendale	DUNGEON	Dungeon de Myrendale	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00347	Aeloria	Myrendale	CULT	Local cultista de Myrendale	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00348	Aeloria	Myrendale	GUARD	Posto da Guarda de Myrendale	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00349	Aeloria	Myrendale	ACADEMY	Academia de Myrendale	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00350	Aeloria	Myrendale	LIBRARY	Biblioteca de Myrendale	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00351	Aeloria	Myrendale	BLACKSMITH	Ferraria de Myrendale	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00352	Aeloria	Myrendale	GUILD	Guilda dos Aventureiros de Myrendale	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00353	Aeloria	Myrendale	TEMPLE	Templo de Myrendale	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00354	Aeloria	Myrendale	ALCHEMY	Laboratório de Alquimia de Myrendale	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00355	Aeloria	Myrendale	TAVERN	Taverna de Myrendale	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00356	Aeloria	Myrendale	STABLE	Estábulo de Myrendale	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00357	Aeloria	Myrendale	MAGE_TOWER	Torre de Magos de Myrendale	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00358	Aeloria	Myrendale	ARENA	Arena de Myrendale	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00359	Aeloria	Myrendale	DOCK	Cais de Myrendale	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00360	Aeloria	Myrendale	SHRINE	Santuário de Myrendale	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00361	Aeloria	Norhaven	HOUSE	Casa de Norhaven	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00362	Aeloria	Norhaven	SHOP	Loja de Norhaven	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00363	Aeloria	Norhaven	RESTAURANT	Restaurante de Norhaven	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00364	Aeloria	Norhaven	MARKET	Feira de Norhaven	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00365	Aeloria	Norhaven	PALACE	Palácio de Norhaven	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00366	Aeloria	Norhaven	DUNGEON	Dungeon de Norhaven	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00367	Aeloria	Norhaven	CULT	Local cultista de Norhaven	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00368	Aeloria	Norhaven	GUARD	Posto da Guarda de Norhaven	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00369	Aeloria	Norhaven	ACADEMY	Academia de Norhaven	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00370	Aeloria	Norhaven	LIBRARY	Biblioteca de Norhaven	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00371	Aeloria	Norhaven	BLACKSMITH	Ferraria de Norhaven	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00372	Aeloria	Norhaven	GUILD	Guilda dos Aventureiros de Norhaven	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00373	Aeloria	Norhaven	TEMPLE	Templo de Norhaven	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00374	Aeloria	Norhaven	ALCHEMY	Laboratório de Alquimia de Norhaven	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00375	Aeloria	Norhaven	TAVERN	Taverna de Norhaven	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00376	Aeloria	Norhaven	STABLE	Estábulo de Norhaven	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00377	Aeloria	Norhaven	MAGE_TOWER	Torre de Magos de Norhaven	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00378	Aeloria	Norhaven	ARENA	Arena de Norhaven	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00379	Aeloria	Norhaven	DOCK	Cais de Norhaven	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00380	Aeloria	Norhaven	SHRINE	Santuário de Norhaven	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00381	Aeloria	Oathmere	HOUSE	Casa de Oathmere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00382	Aeloria	Oathmere	SHOP	Loja de Oathmere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00383	Aeloria	Oathmere	RESTAURANT	Restaurante de Oathmere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00384	Aeloria	Oathmere	MARKET	Feira de Oathmere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00385	Aeloria	Oathmere	PALACE	Palácio de Oathmere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00386	Aeloria	Oathmere	DUNGEON	Dungeon de Oathmere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00387	Aeloria	Oathmere	CULT	Local cultista de Oathmere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00388	Aeloria	Oathmere	GUARD	Posto da Guarda de Oathmere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00389	Aeloria	Oathmere	ACADEMY	Academia de Oathmere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00390	Aeloria	Oathmere	LIBRARY	Biblioteca de Oathmere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00391	Aeloria	Oathmere	BLACKSMITH	Ferraria de Oathmere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00392	Aeloria	Oathmere	GUILD	Guilda dos Aventureiros de Oathmere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00393	Aeloria	Oathmere	TEMPLE	Templo de Oathmere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00394	Aeloria	Oathmere	ALCHEMY	Laboratório de Alquimia de Oathmere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00395	Aeloria	Oathmere	TAVERN	Taverna de Oathmere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00396	Aeloria	Oathmere	STABLE	Estábulo de Oathmere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00397	Aeloria	Oathmere	MAGE_TOWER	Torre de Magos de Oathmere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00398	Aeloria	Oathmere	ARENA	Arena de Oathmere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00399	Aeloria	Oathmere	DOCK	Cais de Oathmere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00400	Aeloria	Oathmere	SHRINE	Santuário de Oathmere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00401	Aeloria	Pyrelith	HOUSE	Casa de Pyrelith	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00402	Aeloria	Pyrelith	SHOP	Loja de Pyrelith	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00403	Aeloria	Pyrelith	RESTAURANT	Restaurante de Pyrelith	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00404	Aeloria	Pyrelith	MARKET	Feira de Pyrelith	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00405	Aeloria	Pyrelith	PALACE	Palácio de Pyrelith	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00406	Aeloria	Pyrelith	DUNGEON	Dungeon de Pyrelith	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00407	Aeloria	Pyrelith	CULT	Local cultista de Pyrelith	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00408	Aeloria	Pyrelith	GUARD	Posto da Guarda de Pyrelith	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00409	Aeloria	Pyrelith	ACADEMY	Academia de Pyrelith	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00410	Aeloria	Pyrelith	LIBRARY	Biblioteca de Pyrelith	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00411	Aeloria	Pyrelith	BLACKSMITH	Ferraria de Pyrelith	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00412	Aeloria	Pyrelith	GUILD	Guilda dos Aventureiros de Pyrelith	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00413	Aeloria	Pyrelith	TEMPLE	Templo de Pyrelith	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00414	Aeloria	Pyrelith	ALCHEMY	Laboratório de Alquimia de Pyrelith	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00415	Aeloria	Pyrelith	TAVERN	Taverna de Pyrelith	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00416	Aeloria	Pyrelith	STABLE	Estábulo de Pyrelith	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00417	Aeloria	Pyrelith	MAGE_TOWER	Torre de Magos de Pyrelith	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00418	Aeloria	Pyrelith	ARENA	Arena de Pyrelith	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00419	Aeloria	Pyrelith	DOCK	Cais de Pyrelith	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00420	Aeloria	Pyrelith	SHRINE	Santuário de Pyrelith	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00421	Aeloria	Quenndral	HOUSE	Casa de Quenndral	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00422	Aeloria	Quenndral	SHOP	Loja de Quenndral	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00423	Aeloria	Quenndral	RESTAURANT	Restaurante de Quenndral	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00424	Aeloria	Quenndral	MARKET	Feira de Quenndral	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00425	Aeloria	Quenndral	PALACE	Palácio de Quenndral	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00426	Aeloria	Quenndral	DUNGEON	Dungeon de Quenndral	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00427	Aeloria	Quenndral	CULT	Local cultista de Quenndral	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00428	Aeloria	Quenndral	GUARD	Posto da Guarda de Quenndral	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00429	Aeloria	Quenndral	ACADEMY	Academia de Quenndral	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00430	Aeloria	Quenndral	LIBRARY	Biblioteca de Quenndral	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00431	Aeloria	Quenndral	BLACKSMITH	Ferraria de Quenndral	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00432	Aeloria	Quenndral	GUILD	Guilda dos Aventureiros de Quenndral	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00433	Aeloria	Quenndral	TEMPLE	Templo de Quenndral	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00434	Aeloria	Quenndral	ALCHEMY	Laboratório de Alquimia de Quenndral	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00435	Aeloria	Quenndral	TAVERN	Taverna de Quenndral	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00436	Aeloria	Quenndral	STABLE	Estábulo de Quenndral	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00437	Aeloria	Quenndral	MAGE_TOWER	Torre de Magos de Quenndral	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00438	Aeloria	Quenndral	ARENA	Arena de Quenndral	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00439	Aeloria	Quenndral	DOCK	Cais de Quenndral	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00440	Aeloria	Quenndral	SHRINE	Santuário de Quenndral	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00441	Aeloria	Rivenholt	HOUSE	Casa de Rivenholt	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00442	Aeloria	Rivenholt	SHOP	Loja de Rivenholt	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00443	Aeloria	Rivenholt	RESTAURANT	Restaurante de Rivenholt	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00444	Aeloria	Rivenholt	MARKET	Feira de Rivenholt	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00445	Aeloria	Rivenholt	PALACE	Palácio de Rivenholt	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00446	Aeloria	Rivenholt	DUNGEON	Dungeon de Rivenholt	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00447	Aeloria	Rivenholt	CULT	Local cultista de Rivenholt	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00448	Aeloria	Rivenholt	GUARD	Posto da Guarda de Rivenholt	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00449	Aeloria	Rivenholt	ACADEMY	Academia de Rivenholt	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00450	Aeloria	Rivenholt	LIBRARY	Biblioteca de Rivenholt	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00451	Aeloria	Rivenholt	BLACKSMITH	Ferraria de Rivenholt	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00452	Aeloria	Rivenholt	GUILD	Guilda dos Aventureiros de Rivenholt	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00453	Aeloria	Rivenholt	TEMPLE	Templo de Rivenholt	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00454	Aeloria	Rivenholt	ALCHEMY	Laboratório de Alquimia de Rivenholt	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00455	Aeloria	Rivenholt	TAVERN	Taverna de Rivenholt	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00456	Aeloria	Rivenholt	STABLE	Estábulo de Rivenholt	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00457	Aeloria	Rivenholt	MAGE_TOWER	Torre de Magos de Rivenholt	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00458	Aeloria	Rivenholt	ARENA	Arena de Rivenholt	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00459	Aeloria	Rivenholt	DOCK	Cais de Rivenholt	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00460	Aeloria	Rivenholt	SHRINE	Santuário de Rivenholt	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00461	Aeloria	Sylthar	HOUSE	Casa de Sylthar	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00462	Aeloria	Sylthar	SHOP	Loja de Sylthar	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00463	Aeloria	Sylthar	RESTAURANT	Restaurante de Sylthar	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00464	Aeloria	Sylthar	MARKET	Feira de Sylthar	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00465	Aeloria	Sylthar	PALACE	Palácio de Sylthar	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00466	Aeloria	Sylthar	DUNGEON	Dungeon de Sylthar	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00467	Aeloria	Sylthar	CULT	Local cultista de Sylthar	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00468	Aeloria	Sylthar	GUARD	Posto da Guarda de Sylthar	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00469	Aeloria	Sylthar	ACADEMY	Academia de Sylthar	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00470	Aeloria	Sylthar	LIBRARY	Biblioteca de Sylthar	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00471	Aeloria	Sylthar	BLACKSMITH	Ferraria de Sylthar	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00472	Aeloria	Sylthar	GUILD	Guilda dos Aventureiros de Sylthar	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00473	Aeloria	Sylthar	TEMPLE	Templo de Sylthar	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00474	Aeloria	Sylthar	ALCHEMY	Laboratório de Alquimia de Sylthar	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00475	Aeloria	Sylthar	TAVERN	Taverna de Sylthar	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00476	Aeloria	Sylthar	STABLE	Estábulo de Sylthar	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00477	Aeloria	Sylthar	MAGE_TOWER	Torre de Magos de Sylthar	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00478	Aeloria	Sylthar	ARENA	Arena de Sylthar	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00479	Aeloria	Sylthar	DOCK	Cais de Sylthar	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00480	Aeloria	Sylthar	SHRINE	Santuário de Sylthar	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00481	Aeloria	Thornmere	HOUSE	Casa de Thornmere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00482	Aeloria	Thornmere	SHOP	Loja de Thornmere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00483	Aeloria	Thornmere	RESTAURANT	Restaurante de Thornmere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00484	Aeloria	Thornmere	MARKET	Feira de Thornmere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00485	Aeloria	Thornmere	PALACE	Palácio de Thornmere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00486	Aeloria	Thornmere	DUNGEON	Dungeon de Thornmere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00487	Aeloria	Thornmere	CULT	Local cultista de Thornmere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00488	Aeloria	Thornmere	GUARD	Posto da Guarda de Thornmere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00489	Aeloria	Thornmere	ACADEMY	Academia de Thornmere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00490	Aeloria	Thornmere	LIBRARY	Biblioteca de Thornmere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00491	Aeloria	Thornmere	BLACKSMITH	Ferraria de Thornmere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00492	Aeloria	Thornmere	GUILD	Guilda dos Aventureiros de Thornmere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00493	Aeloria	Thornmere	TEMPLE	Templo de Thornmere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00494	Aeloria	Thornmere	ALCHEMY	Laboratório de Alquimia de Thornmere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00495	Aeloria	Thornmere	TAVERN	Taverna de Thornmere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00496	Aeloria	Thornmere	STABLE	Estábulo de Thornmere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00497	Aeloria	Thornmere	MAGE_TOWER	Torre de Magos de Thornmere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00498	Aeloria	Thornmere	ARENA	Arena de Thornmere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00499	Aeloria	Thornmere	DOCK	Cais de Thornmere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00500	Aeloria	Thornmere	SHRINE	Santuário de Thornmere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00501	Aeloria	Umbravale	HOUSE	Casa de Umbravale	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00502	Aeloria	Umbravale	SHOP	Loja de Umbravale	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00503	Aeloria	Umbravale	RESTAURANT	Restaurante de Umbravale	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00504	Aeloria	Umbravale	MARKET	Feira de Umbravale	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00505	Aeloria	Umbravale	PALACE	Palácio de Umbravale	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00506	Aeloria	Umbravale	DUNGEON	Dungeon de Umbravale	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00507	Aeloria	Umbravale	CULT	Local cultista de Umbravale	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00508	Aeloria	Umbravale	GUARD	Posto da Guarda de Umbravale	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00509	Aeloria	Umbravale	ACADEMY	Academia de Umbravale	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00510	Aeloria	Umbravale	LIBRARY	Biblioteca de Umbravale	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00511	Aeloria	Umbravale	BLACKSMITH	Ferraria de Umbravale	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00512	Aeloria	Umbravale	GUILD	Guilda dos Aventureiros de Umbravale	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00513	Aeloria	Umbravale	TEMPLE	Templo de Umbravale	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00514	Aeloria	Umbravale	ALCHEMY	Laboratório de Alquimia de Umbravale	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00515	Aeloria	Umbravale	TAVERN	Taverna de Umbravale	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00516	Aeloria	Umbravale	STABLE	Estábulo de Umbravale	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00517	Aeloria	Umbravale	MAGE_TOWER	Torre de Magos de Umbravale	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00518	Aeloria	Umbravale	ARENA	Arena de Umbravale	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00519	Aeloria	Umbravale	DOCK	Cais de Umbravale	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00520	Aeloria	Umbravale	SHRINE	Santuário de Umbravale	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00521	Aeloria	Veyndaril	HOUSE	Casa de Veyndaril	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00522	Aeloria	Veyndaril	SHOP	Loja de Veyndaril	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00523	Aeloria	Veyndaril	RESTAURANT	Restaurante de Veyndaril	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00524	Aeloria	Veyndaril	MARKET	Feira de Veyndaril	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00525	Aeloria	Veyndaril	PALACE	Palácio de Veyndaril	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00526	Aeloria	Veyndaril	DUNGEON	Dungeon de Veyndaril	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00527	Aeloria	Veyndaril	CULT	Local cultista de Veyndaril	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00528	Aeloria	Veyndaril	GUARD	Posto da Guarda de Veyndaril	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00529	Aeloria	Veyndaril	ACADEMY	Academia de Veyndaril	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00530	Aeloria	Veyndaril	LIBRARY	Biblioteca de Veyndaril	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00531	Aeloria	Veyndaril	BLACKSMITH	Ferraria de Veyndaril	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00532	Aeloria	Veyndaril	GUILD	Guilda dos Aventureiros de Veyndaril	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00533	Aeloria	Veyndaril	TEMPLE	Templo de Veyndaril	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00534	Aeloria	Veyndaril	ALCHEMY	Laboratório de Alquimia de Veyndaril	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00535	Aeloria	Veyndaril	TAVERN	Taverna de Veyndaril	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00536	Aeloria	Veyndaril	STABLE	Estábulo de Veyndaril	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00537	Aeloria	Veyndaril	MAGE_TOWER	Torre de Magos de Veyndaril	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00538	Aeloria	Veyndaril	ARENA	Arena de Veyndaril	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00539	Aeloria	Veyndaril	DOCK	Cais de Veyndaril	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00540	Aeloria	Veyndaril	SHRINE	Santuário de Veyndaril	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00541	Aeloria	Windralith	HOUSE	Casa de Windralith	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00542	Aeloria	Windralith	SHOP	Loja de Windralith	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00543	Aeloria	Windralith	RESTAURANT	Restaurante de Windralith	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00544	Aeloria	Windralith	MARKET	Feira de Windralith	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00545	Aeloria	Windralith	PALACE	Palácio de Windralith	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00546	Aeloria	Windralith	DUNGEON	Dungeon de Windralith	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00547	Aeloria	Windralith	CULT	Local cultista de Windralith	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00548	Aeloria	Windralith	GUARD	Posto da Guarda de Windralith	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00549	Aeloria	Windralith	ACADEMY	Academia de Windralith	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00550	Aeloria	Windralith	LIBRARY	Biblioteca de Windralith	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00551	Aeloria	Windralith	BLACKSMITH	Ferraria de Windralith	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00552	Aeloria	Windralith	GUILD	Guilda dos Aventureiros de Windralith	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00553	Aeloria	Windralith	TEMPLE	Templo de Windralith	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00554	Aeloria	Windralith	ALCHEMY	Laboratório de Alquimia de Windralith	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00555	Aeloria	Windralith	TAVERN	Taverna de Windralith	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00556	Aeloria	Windralith	STABLE	Estábulo de Windralith	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00557	Aeloria	Windralith	MAGE_TOWER	Torre de Magos de Windralith	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00558	Aeloria	Windralith	ARENA	Arena de Windralith	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00559	Aeloria	Windralith	DOCK	Cais de Windralith	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00560	Aeloria	Windralith	SHRINE	Santuário de Windralith	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00561	Aeloria	Xandralor	HOUSE	Casa de Xandralor	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00562	Aeloria	Xandralor	SHOP	Loja de Xandralor	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00563	Aeloria	Xandralor	RESTAURANT	Restaurante de Xandralor	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00564	Aeloria	Xandralor	MARKET	Feira de Xandralor	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00565	Aeloria	Xandralor	PALACE	Palácio de Xandralor	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00566	Aeloria	Xandralor	DUNGEON	Dungeon de Xandralor	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00567	Aeloria	Xandralor	CULT	Local cultista de Xandralor	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00568	Aeloria	Xandralor	GUARD	Posto da Guarda de Xandralor	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00569	Aeloria	Xandralor	ACADEMY	Academia de Xandralor	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00570	Aeloria	Xandralor	LIBRARY	Biblioteca de Xandralor	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00571	Aeloria	Xandralor	BLACKSMITH	Ferraria de Xandralor	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00572	Aeloria	Xandralor	GUILD	Guilda dos Aventureiros de Xandralor	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00573	Aeloria	Xandralor	TEMPLE	Templo de Xandralor	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00574	Aeloria	Xandralor	ALCHEMY	Laboratório de Alquimia de Xandralor	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00575	Aeloria	Xandralor	TAVERN	Taverna de Xandralor	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00576	Aeloria	Xandralor	STABLE	Estábulo de Xandralor	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00577	Aeloria	Xandralor	MAGE_TOWER	Torre de Magos de Xandralor	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00578	Aeloria	Xandralor	ARENA	Arena de Xandralor	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00579	Aeloria	Xandralor	DOCK	Cais de Xandralor	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00580	Aeloria	Xandralor	SHRINE	Santuário de Xandralor	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00581	Aeloria	Ylthmere	HOUSE	Casa de Ylthmere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00582	Aeloria	Ylthmere	SHOP	Loja de Ylthmere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00583	Aeloria	Ylthmere	RESTAURANT	Restaurante de Ylthmere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00584	Aeloria	Ylthmere	MARKET	Feira de Ylthmere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00585	Aeloria	Ylthmere	PALACE	Palácio de Ylthmere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00586	Aeloria	Ylthmere	DUNGEON	Dungeon de Ylthmere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00587	Aeloria	Ylthmere	CULT	Local cultista de Ylthmere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00588	Aeloria	Ylthmere	GUARD	Posto da Guarda de Ylthmere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00589	Aeloria	Ylthmere	ACADEMY	Academia de Ylthmere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00590	Aeloria	Ylthmere	LIBRARY	Biblioteca de Ylthmere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00591	Aeloria	Ylthmere	BLACKSMITH	Ferraria de Ylthmere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00592	Aeloria	Ylthmere	GUILD	Guilda dos Aventureiros de Ylthmere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00593	Aeloria	Ylthmere	TEMPLE	Templo de Ylthmere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00594	Aeloria	Ylthmere	ALCHEMY	Laboratório de Alquimia de Ylthmere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00595	Aeloria	Ylthmere	TAVERN	Taverna de Ylthmere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00596	Aeloria	Ylthmere	STABLE	Estábulo de Ylthmere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00597	Aeloria	Ylthmere	MAGE_TOWER	Torre de Magos de Ylthmere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00598	Aeloria	Ylthmere	ARENA	Arena de Ylthmere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00599	Aeloria	Ylthmere	DOCK	Cais de Ylthmere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00600	Aeloria	Ylthmere	SHRINE	Santuário de Ylthmere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00601	Aeloria	Zorathen	HOUSE	Casa de Zorathen	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00602	Aeloria	Zorathen	SHOP	Loja de Zorathen	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00603	Aeloria	Zorathen	RESTAURANT	Restaurante de Zorathen	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00604	Aeloria	Zorathen	MARKET	Feira de Zorathen	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00605	Aeloria	Zorathen	PALACE	Palácio de Zorathen	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00606	Aeloria	Zorathen	DUNGEON	Dungeon de Zorathen	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00607	Aeloria	Zorathen	CULT	Local cultista de Zorathen	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00608	Aeloria	Zorathen	GUARD	Posto da Guarda de Zorathen	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00609	Aeloria	Zorathen	ACADEMY	Academia de Zorathen	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00610	Aeloria	Zorathen	LIBRARY	Biblioteca de Zorathen	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00611	Aeloria	Zorathen	BLACKSMITH	Ferraria de Zorathen	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00612	Aeloria	Zorathen	GUILD	Guilda dos Aventureiros de Zorathen	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00613	Aeloria	Zorathen	TEMPLE	Templo de Zorathen	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00614	Aeloria	Zorathen	ALCHEMY	Laboratório de Alquimia de Zorathen	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00615	Aeloria	Zorathen	TAVERN	Taverna de Zorathen	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00616	Aeloria	Zorathen	STABLE	Estábulo de Zorathen	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00617	Aeloria	Zorathen	MAGE_TOWER	Torre de Magos de Zorathen	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00618	Aeloria	Zorathen	ARENA	Arena de Zorathen	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00619	Aeloria	Zorathen	DOCK	Cais de Zorathen	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00620	Aeloria	Zorathen	SHRINE	Santuário de Zorathen	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00621	Aeloria	Ashenford	HOUSE	Casa de Ashenford	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00622	Aeloria	Ashenford	SHOP	Loja de Ashenford	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00623	Aeloria	Ashenford	RESTAURANT	Restaurante de Ashenford	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00624	Aeloria	Ashenford	MARKET	Feira de Ashenford	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00625	Aeloria	Ashenford	PALACE	Palácio de Ashenford	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00626	Aeloria	Ashenford	DUNGEON	Dungeon de Ashenford	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00627	Aeloria	Ashenford	CULT	Local cultista de Ashenford	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00628	Aeloria	Ashenford	GUARD	Posto da Guarda de Ashenford	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00629	Aeloria	Ashenford	ACADEMY	Academia de Ashenford	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00630	Aeloria	Ashenford	LIBRARY	Biblioteca de Ashenford	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00631	Aeloria	Ashenford	BLACKSMITH	Ferraria de Ashenford	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00632	Aeloria	Ashenford	GUILD	Guilda dos Aventureiros de Ashenford	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00633	Aeloria	Ashenford	TEMPLE	Templo de Ashenford	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00634	Aeloria	Ashenford	ALCHEMY	Laboratório de Alquimia de Ashenford	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00635	Aeloria	Ashenford	TAVERN	Taverna de Ashenford	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00636	Aeloria	Ashenford	STABLE	Estábulo de Ashenford	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00637	Aeloria	Ashenford	MAGE_TOWER	Torre de Magos de Ashenford	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00638	Aeloria	Ashenford	ARENA	Arena de Ashenford	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00639	Aeloria	Ashenford	DOCK	Cais de Ashenford	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00640	Aeloria	Ashenford	SHRINE	Santuário de Ashenford	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00641	Aeloria	Blackmere	HOUSE	Casa de Blackmere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00642	Aeloria	Blackmere	SHOP	Loja de Blackmere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00643	Aeloria	Blackmere	RESTAURANT	Restaurante de Blackmere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00644	Aeloria	Blackmere	MARKET	Feira de Blackmere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00645	Aeloria	Blackmere	PALACE	Palácio de Blackmere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00646	Aeloria	Blackmere	DUNGEON	Dungeon de Blackmere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00647	Aeloria	Blackmere	CULT	Local cultista de Blackmere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00648	Aeloria	Blackmere	GUARD	Posto da Guarda de Blackmere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00649	Aeloria	Blackmere	ACADEMY	Academia de Blackmere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00650	Aeloria	Blackmere	LIBRARY	Biblioteca de Blackmere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00651	Aeloria	Blackmere	BLACKSMITH	Ferraria de Blackmere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00652	Aeloria	Blackmere	GUILD	Guilda dos Aventureiros de Blackmere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00653	Aeloria	Blackmere	TEMPLE	Templo de Blackmere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00654	Aeloria	Blackmere	ALCHEMY	Laboratório de Alquimia de Blackmere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00655	Aeloria	Blackmere	TAVERN	Taverna de Blackmere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00656	Aeloria	Blackmere	STABLE	Estábulo de Blackmere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00657	Aeloria	Blackmere	MAGE_TOWER	Torre de Magos de Blackmere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00658	Aeloria	Blackmere	ARENA	Arena de Blackmere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00659	Aeloria	Blackmere	DOCK	Cais de Blackmere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00660	Aeloria	Blackmere	SHRINE	Santuário de Blackmere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00661	Aeloria	Crestwyn	HOUSE	Casa de Crestwyn	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00662	Aeloria	Crestwyn	SHOP	Loja de Crestwyn	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00663	Aeloria	Crestwyn	RESTAURANT	Restaurante de Crestwyn	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00664	Aeloria	Crestwyn	MARKET	Feira de Crestwyn	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00665	Aeloria	Crestwyn	PALACE	Palácio de Crestwyn	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00666	Aeloria	Crestwyn	DUNGEON	Dungeon de Crestwyn	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00667	Aeloria	Crestwyn	CULT	Local cultista de Crestwyn	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00668	Aeloria	Crestwyn	GUARD	Posto da Guarda de Crestwyn	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00669	Aeloria	Crestwyn	ACADEMY	Academia de Crestwyn	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00670	Aeloria	Crestwyn	LIBRARY	Biblioteca de Crestwyn	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00671	Aeloria	Crestwyn	BLACKSMITH	Ferraria de Crestwyn	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00672	Aeloria	Crestwyn	GUILD	Guilda dos Aventureiros de Crestwyn	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00673	Aeloria	Crestwyn	TEMPLE	Templo de Crestwyn	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00674	Aeloria	Crestwyn	ALCHEMY	Laboratório de Alquimia de Crestwyn	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00675	Aeloria	Crestwyn	TAVERN	Taverna de Crestwyn	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00676	Aeloria	Crestwyn	STABLE	Estábulo de Crestwyn	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00677	Aeloria	Crestwyn	MAGE_TOWER	Torre de Magos de Crestwyn	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00678	Aeloria	Crestwyn	ARENA	Arena de Crestwyn	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00679	Aeloria	Crestwyn	DOCK	Cais de Crestwyn	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00680	Aeloria	Crestwyn	SHRINE	Santuário de Crestwyn	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00681	Aeloria	Dawnspire	HOUSE	Casa de Dawnspire	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00682	Aeloria	Dawnspire	SHOP	Loja de Dawnspire	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00683	Aeloria	Dawnspire	RESTAURANT	Restaurante de Dawnspire	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00684	Aeloria	Dawnspire	MARKET	Feira de Dawnspire	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00685	Aeloria	Dawnspire	PALACE	Palácio de Dawnspire	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00686	Aeloria	Dawnspire	DUNGEON	Dungeon de Dawnspire	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00687	Aeloria	Dawnspire	CULT	Local cultista de Dawnspire	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00688	Aeloria	Dawnspire	GUARD	Posto da Guarda de Dawnspire	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00689	Aeloria	Dawnspire	ACADEMY	Academia de Dawnspire	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00690	Aeloria	Dawnspire	LIBRARY	Biblioteca de Dawnspire	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00691	Aeloria	Dawnspire	BLACKSMITH	Ferraria de Dawnspire	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00692	Aeloria	Dawnspire	GUILD	Guilda dos Aventureiros de Dawnspire	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00693	Aeloria	Dawnspire	TEMPLE	Templo de Dawnspire	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00694	Aeloria	Dawnspire	ALCHEMY	Laboratório de Alquimia de Dawnspire	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00695	Aeloria	Dawnspire	TAVERN	Taverna de Dawnspire	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00696	Aeloria	Dawnspire	STABLE	Estábulo de Dawnspire	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00697	Aeloria	Dawnspire	MAGE_TOWER	Torre de Magos de Dawnspire	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00698	Aeloria	Dawnspire	ARENA	Arena de Dawnspire	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00699	Aeloria	Dawnspire	DOCK	Cais de Dawnspire	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00700	Aeloria	Dawnspire	SHRINE	Santuário de Dawnspire	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00701	Aeloria	Emberholt	HOUSE	Casa de Emberholt	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00702	Aeloria	Emberholt	SHOP	Loja de Emberholt	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00703	Aeloria	Emberholt	RESTAURANT	Restaurante de Emberholt	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00704	Aeloria	Emberholt	MARKET	Feira de Emberholt	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00705	Aeloria	Emberholt	PALACE	Palácio de Emberholt	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00706	Aeloria	Emberholt	DUNGEON	Dungeon de Emberholt	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00707	Aeloria	Emberholt	CULT	Local cultista de Emberholt	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00708	Aeloria	Emberholt	GUARD	Posto da Guarda de Emberholt	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00709	Aeloria	Emberholt	ACADEMY	Academia de Emberholt	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00710	Aeloria	Emberholt	LIBRARY	Biblioteca de Emberholt	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00711	Aeloria	Emberholt	BLACKSMITH	Ferraria de Emberholt	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00712	Aeloria	Emberholt	GUILD	Guilda dos Aventureiros de Emberholt	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00713	Aeloria	Emberholt	TEMPLE	Templo de Emberholt	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00714	Aeloria	Emberholt	ALCHEMY	Laboratório de Alquimia de Emberholt	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00715	Aeloria	Emberholt	TAVERN	Taverna de Emberholt	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00716	Aeloria	Emberholt	STABLE	Estábulo de Emberholt	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00717	Aeloria	Emberholt	MAGE_TOWER	Torre de Magos de Emberholt	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00718	Aeloria	Emberholt	ARENA	Arena de Emberholt	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00719	Aeloria	Emberholt	DOCK	Cais de Emberholt	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00720	Aeloria	Emberholt	SHRINE	Santuário de Emberholt	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00721	Aeloria	Frostmere	HOUSE	Casa de Frostmere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00722	Aeloria	Frostmere	SHOP	Loja de Frostmere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00723	Aeloria	Frostmere	RESTAURANT	Restaurante de Frostmere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00724	Aeloria	Frostmere	MARKET	Feira de Frostmere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00725	Aeloria	Frostmere	PALACE	Palácio de Frostmere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00726	Aeloria	Frostmere	DUNGEON	Dungeon de Frostmere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00727	Aeloria	Frostmere	CULT	Local cultista de Frostmere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00728	Aeloria	Frostmere	GUARD	Posto da Guarda de Frostmere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00729	Aeloria	Frostmere	ACADEMY	Academia de Frostmere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00730	Aeloria	Frostmere	LIBRARY	Biblioteca de Frostmere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00731	Aeloria	Frostmere	BLACKSMITH	Ferraria de Frostmere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00732	Aeloria	Frostmere	GUILD	Guilda dos Aventureiros de Frostmere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00733	Aeloria	Frostmere	TEMPLE	Templo de Frostmere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00734	Aeloria	Frostmere	ALCHEMY	Laboratório de Alquimia de Frostmere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00735	Aeloria	Frostmere	TAVERN	Taverna de Frostmere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00736	Aeloria	Frostmere	STABLE	Estábulo de Frostmere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00737	Aeloria	Frostmere	MAGE_TOWER	Torre de Magos de Frostmere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00738	Aeloria	Frostmere	ARENA	Arena de Frostmere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00739	Aeloria	Frostmere	DOCK	Cais de Frostmere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00740	Aeloria	Frostmere	SHRINE	Santuário de Frostmere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00741	Aeloria	Goldhaven	HOUSE	Casa de Goldhaven	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00742	Aeloria	Goldhaven	SHOP	Loja de Goldhaven	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00743	Aeloria	Goldhaven	RESTAURANT	Restaurante de Goldhaven	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00744	Aeloria	Goldhaven	MARKET	Feira de Goldhaven	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00745	Aeloria	Goldhaven	PALACE	Palácio de Goldhaven	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00746	Aeloria	Goldhaven	DUNGEON	Dungeon de Goldhaven	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00747	Aeloria	Goldhaven	CULT	Local cultista de Goldhaven	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00748	Aeloria	Goldhaven	GUARD	Posto da Guarda de Goldhaven	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00749	Aeloria	Goldhaven	ACADEMY	Academia de Goldhaven	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00750	Aeloria	Goldhaven	LIBRARY	Biblioteca de Goldhaven	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00751	Aeloria	Goldhaven	BLACKSMITH	Ferraria de Goldhaven	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00752	Aeloria	Goldhaven	GUILD	Guilda dos Aventureiros de Goldhaven	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00753	Aeloria	Goldhaven	TEMPLE	Templo de Goldhaven	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00754	Aeloria	Goldhaven	ALCHEMY	Laboratório de Alquimia de Goldhaven	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00755	Aeloria	Goldhaven	TAVERN	Taverna de Goldhaven	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00756	Aeloria	Goldhaven	STABLE	Estábulo de Goldhaven	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00757	Aeloria	Goldhaven	MAGE_TOWER	Torre de Magos de Goldhaven	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00758	Aeloria	Goldhaven	ARENA	Arena de Goldhaven	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00759	Aeloria	Goldhaven	DOCK	Cais de Goldhaven	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00760	Aeloria	Goldhaven	SHRINE	Santuário de Goldhaven	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00761	Aeloria	Highspire	HOUSE	Casa de Highspire	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00762	Aeloria	Highspire	SHOP	Loja de Highspire	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00763	Aeloria	Highspire	RESTAURANT	Restaurante de Highspire	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00764	Aeloria	Highspire	MARKET	Feira de Highspire	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00765	Aeloria	Highspire	PALACE	Palácio de Highspire	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00766	Aeloria	Highspire	DUNGEON	Dungeon de Highspire	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00767	Aeloria	Highspire	CULT	Local cultista de Highspire	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00768	Aeloria	Highspire	GUARD	Posto da Guarda de Highspire	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00769	Aeloria	Highspire	ACADEMY	Academia de Highspire	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00770	Aeloria	Highspire	LIBRARY	Biblioteca de Highspire	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00771	Aeloria	Highspire	BLACKSMITH	Ferraria de Highspire	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00772	Aeloria	Highspire	GUILD	Guilda dos Aventureiros de Highspire	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00773	Aeloria	Highspire	TEMPLE	Templo de Highspire	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00774	Aeloria	Highspire	ALCHEMY	Laboratório de Alquimia de Highspire	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00775	Aeloria	Highspire	TAVERN	Taverna de Highspire	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00776	Aeloria	Highspire	STABLE	Estábulo de Highspire	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00777	Aeloria	Highspire	MAGE_TOWER	Torre de Magos de Highspire	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00778	Aeloria	Highspire	ARENA	Arena de Highspire	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00779	Aeloria	Highspire	DOCK	Cais de Highspire	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00780	Aeloria	Highspire	SHRINE	Santuário de Highspire	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00781	Aeloria	Irondral	HOUSE	Casa de Irondral	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00782	Aeloria	Irondral	SHOP	Loja de Irondral	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00783	Aeloria	Irondral	RESTAURANT	Restaurante de Irondral	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00784	Aeloria	Irondral	MARKET	Feira de Irondral	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00785	Aeloria	Irondral	PALACE	Palácio de Irondral	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00786	Aeloria	Irondral	DUNGEON	Dungeon de Irondral	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00787	Aeloria	Irondral	CULT	Local cultista de Irondral	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00788	Aeloria	Irondral	GUARD	Posto da Guarda de Irondral	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00789	Aeloria	Irondral	ACADEMY	Academia de Irondral	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00790	Aeloria	Irondral	LIBRARY	Biblioteca de Irondral	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00791	Aeloria	Irondral	BLACKSMITH	Ferraria de Irondral	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00792	Aeloria	Irondral	GUILD	Guilda dos Aventureiros de Irondral	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00793	Aeloria	Irondral	TEMPLE	Templo de Irondral	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00794	Aeloria	Irondral	ALCHEMY	Laboratório de Alquimia de Irondral	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00795	Aeloria	Irondral	TAVERN	Taverna de Irondral	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00796	Aeloria	Irondral	STABLE	Estábulo de Irondral	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00797	Aeloria	Irondral	MAGE_TOWER	Torre de Magos de Irondral	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00798	Aeloria	Irondral	ARENA	Arena de Irondral	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00799	Aeloria	Irondral	DOCK	Cais de Irondral	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00800	Aeloria	Irondral	SHRINE	Santuário de Irondral	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00801	Aeloria	Jorwyn	HOUSE	Casa de Jorwyn	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00802	Aeloria	Jorwyn	SHOP	Loja de Jorwyn	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00803	Aeloria	Jorwyn	RESTAURANT	Restaurante de Jorwyn	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00804	Aeloria	Jorwyn	MARKET	Feira de Jorwyn	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00805	Aeloria	Jorwyn	PALACE	Palácio de Jorwyn	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00806	Aeloria	Jorwyn	DUNGEON	Dungeon de Jorwyn	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00807	Aeloria	Jorwyn	CULT	Local cultista de Jorwyn	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00808	Aeloria	Jorwyn	GUARD	Posto da Guarda de Jorwyn	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00809	Aeloria	Jorwyn	ACADEMY	Academia de Jorwyn	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00810	Aeloria	Jorwyn	LIBRARY	Biblioteca de Jorwyn	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00811	Aeloria	Jorwyn	BLACKSMITH	Ferraria de Jorwyn	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00812	Aeloria	Jorwyn	GUILD	Guilda dos Aventureiros de Jorwyn	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00813	Aeloria	Jorwyn	TEMPLE	Templo de Jorwyn	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00814	Aeloria	Jorwyn	ALCHEMY	Laboratório de Alquimia de Jorwyn	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00815	Aeloria	Jorwyn	TAVERN	Taverna de Jorwyn	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00816	Aeloria	Jorwyn	STABLE	Estábulo de Jorwyn	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00817	Aeloria	Jorwyn	MAGE_TOWER	Torre de Magos de Jorwyn	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00818	Aeloria	Jorwyn	ARENA	Arena de Jorwyn	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00819	Aeloria	Jorwyn	DOCK	Cais de Jorwyn	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00820	Aeloria	Jorwyn	SHRINE	Santuário de Jorwyn	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00821	Aeloria	Kethralith	HOUSE	Casa de Kethralith	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00822	Aeloria	Kethralith	SHOP	Loja de Kethralith	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00823	Aeloria	Kethralith	RESTAURANT	Restaurante de Kethralith	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00824	Aeloria	Kethralith	MARKET	Feira de Kethralith	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00825	Aeloria	Kethralith	PALACE	Palácio de Kethralith	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00826	Aeloria	Kethralith	DUNGEON	Dungeon de Kethralith	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00827	Aeloria	Kethralith	CULT	Local cultista de Kethralith	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00828	Aeloria	Kethralith	GUARD	Posto da Guarda de Kethralith	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00829	Aeloria	Kethralith	ACADEMY	Academia de Kethralith	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00830	Aeloria	Kethralith	LIBRARY	Biblioteca de Kethralith	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00831	Aeloria	Kethralith	BLACKSMITH	Ferraria de Kethralith	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00832	Aeloria	Kethralith	GUILD	Guilda dos Aventureiros de Kethralith	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00833	Aeloria	Kethralith	TEMPLE	Templo de Kethralith	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00834	Aeloria	Kethralith	ALCHEMY	Laboratório de Alquimia de Kethralith	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00835	Aeloria	Kethralith	TAVERN	Taverna de Kethralith	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00836	Aeloria	Kethralith	STABLE	Estábulo de Kethralith	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00837	Aeloria	Kethralith	MAGE_TOWER	Torre de Magos de Kethralith	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00838	Aeloria	Kethralith	ARENA	Arena de Kethralith	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00839	Aeloria	Kethralith	DOCK	Cais de Kethralith	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00840	Aeloria	Kethralith	SHRINE	Santuário de Kethralith	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00841	Aeloria	Lorwynne	HOUSE	Casa de Lorwynne	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00842	Aeloria	Lorwynne	SHOP	Loja de Lorwynne	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00843	Aeloria	Lorwynne	RESTAURANT	Restaurante de Lorwynne	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00844	Aeloria	Lorwynne	MARKET	Feira de Lorwynne	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00845	Aeloria	Lorwynne	PALACE	Palácio de Lorwynne	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00846	Aeloria	Lorwynne	DUNGEON	Dungeon de Lorwynne	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00847	Aeloria	Lorwynne	CULT	Local cultista de Lorwynne	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00848	Aeloria	Lorwynne	GUARD	Posto da Guarda de Lorwynne	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00849	Aeloria	Lorwynne	ACADEMY	Academia de Lorwynne	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00850	Aeloria	Lorwynne	LIBRARY	Biblioteca de Lorwynne	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00851	Aeloria	Lorwynne	BLACKSMITH	Ferraria de Lorwynne	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00852	Aeloria	Lorwynne	GUILD	Guilda dos Aventureiros de Lorwynne	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00853	Aeloria	Lorwynne	TEMPLE	Templo de Lorwynne	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00854	Aeloria	Lorwynne	ALCHEMY	Laboratório de Alquimia de Lorwynne	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00855	Aeloria	Lorwynne	TAVERN	Taverna de Lorwynne	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00856	Aeloria	Lorwynne	STABLE	Estábulo de Lorwynne	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00857	Aeloria	Lorwynne	MAGE_TOWER	Torre de Magos de Lorwynne	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00858	Aeloria	Lorwynne	ARENA	Arena de Lorwynne	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00859	Aeloria	Lorwynne	DOCK	Cais de Lorwynne	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00860	Aeloria	Lorwynne	SHRINE	Santuário de Lorwynne	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00861	Aeloria	Mistvale	HOUSE	Casa de Mistvale	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00862	Aeloria	Mistvale	SHOP	Loja de Mistvale	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00863	Aeloria	Mistvale	RESTAURANT	Restaurante de Mistvale	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00864	Aeloria	Mistvale	MARKET	Feira de Mistvale	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00865	Aeloria	Mistvale	PALACE	Palácio de Mistvale	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00866	Aeloria	Mistvale	DUNGEON	Dungeon de Mistvale	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00867	Aeloria	Mistvale	CULT	Local cultista de Mistvale	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00868	Aeloria	Mistvale	GUARD	Posto da Guarda de Mistvale	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00869	Aeloria	Mistvale	ACADEMY	Academia de Mistvale	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00870	Aeloria	Mistvale	LIBRARY	Biblioteca de Mistvale	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00871	Aeloria	Mistvale	BLACKSMITH	Ferraria de Mistvale	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00872	Aeloria	Mistvale	GUILD	Guilda dos Aventureiros de Mistvale	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00873	Aeloria	Mistvale	TEMPLE	Templo de Mistvale	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00874	Aeloria	Mistvale	ALCHEMY	Laboratório de Alquimia de Mistvale	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00875	Aeloria	Mistvale	TAVERN	Taverna de Mistvale	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00876	Aeloria	Mistvale	STABLE	Estábulo de Mistvale	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00877	Aeloria	Mistvale	MAGE_TOWER	Torre de Magos de Mistvale	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00878	Aeloria	Mistvale	ARENA	Arena de Mistvale	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00879	Aeloria	Mistvale	DOCK	Cais de Mistvale	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00880	Aeloria	Mistvale	SHRINE	Santuário de Mistvale	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00881	Aeloria	Netherholt	HOUSE	Casa de Netherholt	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00882	Aeloria	Netherholt	SHOP	Loja de Netherholt	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00883	Aeloria	Netherholt	RESTAURANT	Restaurante de Netherholt	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00884	Aeloria	Netherholt	MARKET	Feira de Netherholt	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00885	Aeloria	Netherholt	PALACE	Palácio de Netherholt	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00886	Aeloria	Netherholt	DUNGEON	Dungeon de Netherholt	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00887	Aeloria	Netherholt	CULT	Local cultista de Netherholt	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00888	Aeloria	Netherholt	GUARD	Posto da Guarda de Netherholt	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00889	Aeloria	Netherholt	ACADEMY	Academia de Netherholt	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00890	Aeloria	Netherholt	LIBRARY	Biblioteca de Netherholt	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00891	Aeloria	Netherholt	BLACKSMITH	Ferraria de Netherholt	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00892	Aeloria	Netherholt	GUILD	Guilda dos Aventureiros de Netherholt	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00893	Aeloria	Netherholt	TEMPLE	Templo de Netherholt	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00894	Aeloria	Netherholt	ALCHEMY	Laboratório de Alquimia de Netherholt	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00895	Aeloria	Netherholt	TAVERN	Taverna de Netherholt	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00896	Aeloria	Netherholt	STABLE	Estábulo de Netherholt	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00897	Aeloria	Netherholt	MAGE_TOWER	Torre de Magos de Netherholt	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00898	Aeloria	Netherholt	ARENA	Arena de Netherholt	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00899	Aeloria	Netherholt	DOCK	Cais de Netherholt	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00900	Aeloria	Netherholt	SHRINE	Santuário de Netherholt	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00901	Aeloria	Oakmere	HOUSE	Casa de Oakmere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00902	Aeloria	Oakmere	SHOP	Loja de Oakmere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00903	Aeloria	Oakmere	RESTAURANT	Restaurante de Oakmere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00904	Aeloria	Oakmere	MARKET	Feira de Oakmere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00905	Aeloria	Oakmere	PALACE	Palácio de Oakmere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00906	Aeloria	Oakmere	DUNGEON	Dungeon de Oakmere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00907	Aeloria	Oakmere	CULT	Local cultista de Oakmere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00908	Aeloria	Oakmere	GUARD	Posto da Guarda de Oakmere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00909	Aeloria	Oakmere	ACADEMY	Academia de Oakmere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00910	Aeloria	Oakmere	LIBRARY	Biblioteca de Oakmere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00911	Aeloria	Oakmere	BLACKSMITH	Ferraria de Oakmere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00912	Aeloria	Oakmere	GUILD	Guilda dos Aventureiros de Oakmere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00913	Aeloria	Oakmere	TEMPLE	Templo de Oakmere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00914	Aeloria	Oakmere	ALCHEMY	Laboratório de Alquimia de Oakmere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00915	Aeloria	Oakmere	TAVERN	Taverna de Oakmere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00916	Aeloria	Oakmere	STABLE	Estábulo de Oakmere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00917	Aeloria	Oakmere	MAGE_TOWER	Torre de Magos de Oakmere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00918	Aeloria	Oakmere	ARENA	Arena de Oakmere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00919	Aeloria	Oakmere	DOCK	Cais de Oakmere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00920	Aeloria	Oakmere	SHRINE	Santuário de Oakmere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00921	Aeloria	Prismere	HOUSE	Casa de Prismere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00922	Aeloria	Prismere	SHOP	Loja de Prismere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00923	Aeloria	Prismere	RESTAURANT	Restaurante de Prismere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00924	Aeloria	Prismere	MARKET	Feira de Prismere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00925	Aeloria	Prismere	PALACE	Palácio de Prismere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00926	Aeloria	Prismere	DUNGEON	Dungeon de Prismere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00927	Aeloria	Prismere	CULT	Local cultista de Prismere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00928	Aeloria	Prismere	GUARD	Posto da Guarda de Prismere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00929	Aeloria	Prismere	ACADEMY	Academia de Prismere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00930	Aeloria	Prismere	LIBRARY	Biblioteca de Prismere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00931	Aeloria	Prismere	BLACKSMITH	Ferraria de Prismere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00932	Aeloria	Prismere	GUILD	Guilda dos Aventureiros de Prismere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00933	Aeloria	Prismere	TEMPLE	Templo de Prismere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00934	Aeloria	Prismere	ALCHEMY	Laboratório de Alquimia de Prismere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00935	Aeloria	Prismere	TAVERN	Taverna de Prismere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00936	Aeloria	Prismere	STABLE	Estábulo de Prismere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00937	Aeloria	Prismere	MAGE_TOWER	Torre de Magos de Prismere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00938	Aeloria	Prismere	ARENA	Arena de Prismere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00939	Aeloria	Prismere	DOCK	Cais de Prismere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00940	Aeloria	Prismere	SHRINE	Santuário de Prismere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00941	Aeloria	Quorathen	HOUSE	Casa de Quorathen	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00942	Aeloria	Quorathen	SHOP	Loja de Quorathen	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00943	Aeloria	Quorathen	RESTAURANT	Restaurante de Quorathen	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00944	Aeloria	Quorathen	MARKET	Feira de Quorathen	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00945	Aeloria	Quorathen	PALACE	Palácio de Quorathen	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00946	Aeloria	Quorathen	DUNGEON	Dungeon de Quorathen	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00947	Aeloria	Quorathen	CULT	Local cultista de Quorathen	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00948	Aeloria	Quorathen	GUARD	Posto da Guarda de Quorathen	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00949	Aeloria	Quorathen	ACADEMY	Academia de Quorathen	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00950	Aeloria	Quorathen	LIBRARY	Biblioteca de Quorathen	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00951	Aeloria	Quorathen	BLACKSMITH	Ferraria de Quorathen	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00952	Aeloria	Quorathen	GUILD	Guilda dos Aventureiros de Quorathen	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00953	Aeloria	Quorathen	TEMPLE	Templo de Quorathen	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00954	Aeloria	Quorathen	ALCHEMY	Laboratório de Alquimia de Quorathen	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00955	Aeloria	Quorathen	TAVERN	Taverna de Quorathen	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00956	Aeloria	Quorathen	STABLE	Estábulo de Quorathen	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00957	Aeloria	Quorathen	MAGE_TOWER	Torre de Magos de Quorathen	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00958	Aeloria	Quorathen	ARENA	Arena de Quorathen	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00959	Aeloria	Quorathen	DOCK	Cais de Quorathen	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00960	Aeloria	Quorathen	SHRINE	Santuário de Quorathen	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00961	Aeloria	Runedral	HOUSE	Casa de Runedral	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00962	Aeloria	Runedral	SHOP	Loja de Runedral	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00963	Aeloria	Runedral	RESTAURANT	Restaurante de Runedral	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00964	Aeloria	Runedral	MARKET	Feira de Runedral	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00965	Aeloria	Runedral	PALACE	Palácio de Runedral	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00966	Aeloria	Runedral	DUNGEON	Dungeon de Runedral	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00967	Aeloria	Runedral	CULT	Local cultista de Runedral	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00968	Aeloria	Runedral	GUARD	Posto da Guarda de Runedral	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00969	Aeloria	Runedral	ACADEMY	Academia de Runedral	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00970	Aeloria	Runedral	LIBRARY	Biblioteca de Runedral	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00971	Aeloria	Runedral	BLACKSMITH	Ferraria de Runedral	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00972	Aeloria	Runedral	GUILD	Guilda dos Aventureiros de Runedral	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00973	Aeloria	Runedral	TEMPLE	Templo de Runedral	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00974	Aeloria	Runedral	ALCHEMY	Laboratório de Alquimia de Runedral	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00975	Aeloria	Runedral	TAVERN	Taverna de Runedral	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00976	Aeloria	Runedral	STABLE	Estábulo de Runedral	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00977	Aeloria	Runedral	MAGE_TOWER	Torre de Magos de Runedral	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00978	Aeloria	Runedral	ARENA	Arena de Runedral	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00979	Aeloria	Runedral	DOCK	Cais de Runedral	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_00980	Aeloria	Runedral	SHRINE	Santuário de Runedral	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_00981	Aeloria	Stormhaven	HOUSE	Casa de Stormhaven	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_00982	Aeloria	Stormhaven	SHOP	Loja de Stormhaven	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_00983	Aeloria	Stormhaven	RESTAURANT	Restaurante de Stormhaven	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_00984	Aeloria	Stormhaven	MARKET	Feira de Stormhaven	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_00985	Aeloria	Stormhaven	PALACE	Palácio de Stormhaven	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00986	Aeloria	Stormhaven	DUNGEON	Dungeon de Stormhaven	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_00987	Aeloria	Stormhaven	CULT	Local cultista de Stormhaven	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00988	Aeloria	Stormhaven	GUARD	Posto da Guarda de Stormhaven	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_00989	Aeloria	Stormhaven	ACADEMY	Academia de Stormhaven	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00990	Aeloria	Stormhaven	LIBRARY	Biblioteca de Stormhaven	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_00991	Aeloria	Stormhaven	BLACKSMITH	Ferraria de Stormhaven	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_00992	Aeloria	Stormhaven	GUILD	Guilda dos Aventureiros de Stormhaven	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_00993	Aeloria	Stormhaven	TEMPLE	Templo de Stormhaven	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_00994	Aeloria	Stormhaven	ALCHEMY	Laboratório de Alquimia de Stormhaven	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_00995	Aeloria	Stormhaven	TAVERN	Taverna de Stormhaven	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_00996	Aeloria	Stormhaven	STABLE	Estábulo de Stormhaven	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_00997	Aeloria	Stormhaven	MAGE_TOWER	Torre de Magos de Stormhaven	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_00998	Aeloria	Stormhaven	ARENA	Arena de Stormhaven	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_00999	Aeloria	Stormhaven	DOCK	Cais de Stormhaven	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01000	Aeloria	Stormhaven	SHRINE	Santuário de Stormhaven	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01001	Aeloria	Tindralith	HOUSE	Casa de Tindralith	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01002	Aeloria	Tindralith	SHOP	Loja de Tindralith	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01003	Aeloria	Tindralith	RESTAURANT	Restaurante de Tindralith	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01004	Aeloria	Tindralith	MARKET	Feira de Tindralith	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01005	Aeloria	Tindralith	PALACE	Palácio de Tindralith	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01006	Aeloria	Tindralith	DUNGEON	Dungeon de Tindralith	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01007	Aeloria	Tindralith	CULT	Local cultista de Tindralith	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01008	Aeloria	Tindralith	GUARD	Posto da Guarda de Tindralith	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01009	Aeloria	Tindralith	ACADEMY	Academia de Tindralith	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01010	Aeloria	Tindralith	LIBRARY	Biblioteca de Tindralith	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01011	Aeloria	Tindralith	BLACKSMITH	Ferraria de Tindralith	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01012	Aeloria	Tindralith	GUILD	Guilda dos Aventureiros de Tindralith	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01013	Aeloria	Tindralith	TEMPLE	Templo de Tindralith	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01014	Aeloria	Tindralith	ALCHEMY	Laboratório de Alquimia de Tindralith	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01015	Aeloria	Tindralith	TAVERN	Taverna de Tindralith	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01016	Aeloria	Tindralith	STABLE	Estábulo de Tindralith	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01017	Aeloria	Tindralith	MAGE_TOWER	Torre de Magos de Tindralith	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01018	Aeloria	Tindralith	ARENA	Arena de Tindralith	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01019	Aeloria	Tindralith	DOCK	Cais de Tindralith	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01020	Aeloria	Tindralith	SHRINE	Santuário de Tindralith	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01021	Aeloria	Ulthmere	HOUSE	Casa de Ulthmere	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01022	Aeloria	Ulthmere	SHOP	Loja de Ulthmere	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01023	Aeloria	Ulthmere	RESTAURANT	Restaurante de Ulthmere	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01024	Aeloria	Ulthmere	MARKET	Feira de Ulthmere	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01025	Aeloria	Ulthmere	PALACE	Palácio de Ulthmere	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01026	Aeloria	Ulthmere	DUNGEON	Dungeon de Ulthmere	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01027	Aeloria	Ulthmere	CULT	Local cultista de Ulthmere	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01028	Aeloria	Ulthmere	GUARD	Posto da Guarda de Ulthmere	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01029	Aeloria	Ulthmere	ACADEMY	Academia de Ulthmere	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01030	Aeloria	Ulthmere	LIBRARY	Biblioteca de Ulthmere	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01031	Aeloria	Ulthmere	BLACKSMITH	Ferraria de Ulthmere	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01032	Aeloria	Ulthmere	GUILD	Guilda dos Aventureiros de Ulthmere	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01033	Aeloria	Ulthmere	TEMPLE	Templo de Ulthmere	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01034	Aeloria	Ulthmere	ALCHEMY	Laboratório de Alquimia de Ulthmere	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01035	Aeloria	Ulthmere	TAVERN	Taverna de Ulthmere	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01036	Aeloria	Ulthmere	STABLE	Estábulo de Ulthmere	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01037	Aeloria	Ulthmere	MAGE_TOWER	Torre de Magos de Ulthmere	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01038	Aeloria	Ulthmere	ARENA	Arena de Ulthmere	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01039	Aeloria	Ulthmere	DOCK	Cais de Ulthmere	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01040	Aeloria	Ulthmere	SHRINE	Santuário de Ulthmere	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01041	Aeloria	Verdralith	HOUSE	Casa de Verdralith	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01042	Aeloria	Verdralith	SHOP	Loja de Verdralith	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01043	Aeloria	Verdralith	RESTAURANT	Restaurante de Verdralith	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01044	Aeloria	Verdralith	MARKET	Feira de Verdralith	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01045	Aeloria	Verdralith	PALACE	Palácio de Verdralith	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01046	Aeloria	Verdralith	DUNGEON	Dungeon de Verdralith	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01047	Aeloria	Verdralith	CULT	Local cultista de Verdralith	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01048	Aeloria	Verdralith	GUARD	Posto da Guarda de Verdralith	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01049	Aeloria	Verdralith	ACADEMY	Academia de Verdralith	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01050	Aeloria	Verdralith	LIBRARY	Biblioteca de Verdralith	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01051	Aeloria	Verdralith	BLACKSMITH	Ferraria de Verdralith	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01052	Aeloria	Verdralith	GUILD	Guilda dos Aventureiros de Verdralith	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01053	Aeloria	Verdralith	TEMPLE	Templo de Verdralith	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01054	Aeloria	Verdralith	ALCHEMY	Laboratório de Alquimia de Verdralith	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01055	Aeloria	Verdralith	TAVERN	Taverna de Verdralith	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01056	Aeloria	Verdralith	STABLE	Estábulo de Verdralith	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01057	Aeloria	Verdralith	MAGE_TOWER	Torre de Magos de Verdralith	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01058	Aeloria	Verdralith	ARENA	Arena de Verdralith	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01059	Aeloria	Verdralith	DOCK	Cais de Verdralith	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01060	Aeloria	Verdralith	SHRINE	Santuário de Verdralith	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01061	Aeloria	Wyrmhaven	HOUSE	Casa de Wyrmhaven	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01062	Aeloria	Wyrmhaven	SHOP	Loja de Wyrmhaven	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01063	Aeloria	Wyrmhaven	RESTAURANT	Restaurante de Wyrmhaven	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01064	Aeloria	Wyrmhaven	MARKET	Feira de Wyrmhaven	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01065	Aeloria	Wyrmhaven	PALACE	Palácio de Wyrmhaven	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01066	Aeloria	Wyrmhaven	DUNGEON	Dungeon de Wyrmhaven	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01067	Aeloria	Wyrmhaven	CULT	Local cultista de Wyrmhaven	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01068	Aeloria	Wyrmhaven	GUARD	Posto da Guarda de Wyrmhaven	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01069	Aeloria	Wyrmhaven	ACADEMY	Academia de Wyrmhaven	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01070	Aeloria	Wyrmhaven	LIBRARY	Biblioteca de Wyrmhaven	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01071	Aeloria	Wyrmhaven	BLACKSMITH	Ferraria de Wyrmhaven	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01072	Aeloria	Wyrmhaven	GUILD	Guilda dos Aventureiros de Wyrmhaven	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01073	Aeloria	Wyrmhaven	TEMPLE	Templo de Wyrmhaven	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01074	Aeloria	Wyrmhaven	ALCHEMY	Laboratório de Alquimia de Wyrmhaven	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01075	Aeloria	Wyrmhaven	TAVERN	Taverna de Wyrmhaven	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01076	Aeloria	Wyrmhaven	STABLE	Estábulo de Wyrmhaven	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01077	Aeloria	Wyrmhaven	MAGE_TOWER	Torre de Magos de Wyrmhaven	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01078	Aeloria	Wyrmhaven	ARENA	Arena de Wyrmhaven	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01079	Aeloria	Wyrmhaven	DOCK	Cais de Wyrmhaven	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01080	Aeloria	Wyrmhaven	SHRINE	Santuário de Wyrmhaven	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01081	Aeloria	Xyrelith	HOUSE	Casa de Xyrelith	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01082	Aeloria	Xyrelith	SHOP	Loja de Xyrelith	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01083	Aeloria	Xyrelith	RESTAURANT	Restaurante de Xyrelith	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01084	Aeloria	Xyrelith	MARKET	Feira de Xyrelith	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01085	Aeloria	Xyrelith	PALACE	Palácio de Xyrelith	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01086	Aeloria	Xyrelith	DUNGEON	Dungeon de Xyrelith	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01087	Aeloria	Xyrelith	CULT	Local cultista de Xyrelith	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01088	Aeloria	Xyrelith	GUARD	Posto da Guarda de Xyrelith	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01089	Aeloria	Xyrelith	ACADEMY	Academia de Xyrelith	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01090	Aeloria	Xyrelith	LIBRARY	Biblioteca de Xyrelith	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01091	Aeloria	Xyrelith	BLACKSMITH	Ferraria de Xyrelith	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01092	Aeloria	Xyrelith	GUILD	Guilda dos Aventureiros de Xyrelith	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01093	Aeloria	Xyrelith	TEMPLE	Templo de Xyrelith	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01094	Aeloria	Xyrelith	ALCHEMY	Laboratório de Alquimia de Xyrelith	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01095	Aeloria	Xyrelith	TAVERN	Taverna de Xyrelith	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01096	Aeloria	Xyrelith	STABLE	Estábulo de Xyrelith	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01097	Aeloria	Xyrelith	MAGE_TOWER	Torre de Magos de Xyrelith	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01098	Aeloria	Xyrelith	ARENA	Arena de Xyrelith	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01099	Aeloria	Xyrelith	DOCK	Cais de Xyrelith	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01100	Aeloria	Xyrelith	SHRINE	Santuário de Xyrelith	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01101	Aeloria	Yndralor	HOUSE	Casa de Yndralor	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01102	Aeloria	Yndralor	SHOP	Loja de Yndralor	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01103	Aeloria	Yndralor	RESTAURANT	Restaurante de Yndralor	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01104	Aeloria	Yndralor	MARKET	Feira de Yndralor	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01105	Aeloria	Yndralor	PALACE	Palácio de Yndralor	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01106	Aeloria	Yndralor	DUNGEON	Dungeon de Yndralor	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01107	Aeloria	Yndralor	CULT	Local cultista de Yndralor	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01108	Aeloria	Yndralor	GUARD	Posto da Guarda de Yndralor	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01109	Aeloria	Yndralor	ACADEMY	Academia de Yndralor	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01110	Aeloria	Yndralor	LIBRARY	Biblioteca de Yndralor	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01111	Aeloria	Yndralor	BLACKSMITH	Ferraria de Yndralor	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01112	Aeloria	Yndralor	GUILD	Guilda dos Aventureiros de Yndralor	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01113	Aeloria	Yndralor	TEMPLE	Templo de Yndralor	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01114	Aeloria	Yndralor	ALCHEMY	Laboratório de Alquimia de Yndralor	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01115	Aeloria	Yndralor	TAVERN	Taverna de Yndralor	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01116	Aeloria	Yndralor	STABLE	Estábulo de Yndralor	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01117	Aeloria	Yndralor	MAGE_TOWER	Torre de Magos de Yndralor	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01118	Aeloria	Yndralor	ARENA	Arena de Yndralor	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01119	Aeloria	Yndralor	DOCK	Cais de Yndralor	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01120	Aeloria	Yndralor	SHRINE	Santuário de Yndralor	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01121	Aeloria	Zephyrholt	HOUSE	Casa de Zephyrholt	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01122	Aeloria	Zephyrholt	SHOP	Loja de Zephyrholt	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01123	Aeloria	Zephyrholt	RESTAURANT	Restaurante de Zephyrholt	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01124	Aeloria	Zephyrholt	MARKET	Feira de Zephyrholt	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01125	Aeloria	Zephyrholt	PALACE	Palácio de Zephyrholt	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01126	Aeloria	Zephyrholt	DUNGEON	Dungeon de Zephyrholt	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01127	Aeloria	Zephyrholt	CULT	Local cultista de Zephyrholt	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01128	Aeloria	Zephyrholt	GUARD	Posto da Guarda de Zephyrholt	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01129	Aeloria	Zephyrholt	ACADEMY	Academia de Zephyrholt	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01130	Aeloria	Zephyrholt	LIBRARY	Biblioteca de Zephyrholt	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01131	Aeloria	Zephyrholt	BLACKSMITH	Ferraria de Zephyrholt	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01132	Aeloria	Zephyrholt	GUILD	Guilda dos Aventureiros de Zephyrholt	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01133	Aeloria	Zephyrholt	TEMPLE	Templo de Zephyrholt	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01134	Aeloria	Zephyrholt	ALCHEMY	Laboratório de Alquimia de Zephyrholt	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01135	Aeloria	Zephyrholt	TAVERN	Taverna de Zephyrholt	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01136	Aeloria	Zephyrholt	STABLE	Estábulo de Zephyrholt	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01137	Aeloria	Zephyrholt	MAGE_TOWER	Torre de Magos de Zephyrholt	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01138	Aeloria	Zephyrholt	ARENA	Arena de Zephyrholt	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01139	Aeloria	Zephyrholt	DOCK	Cais de Zephyrholt	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01140	Aeloria	Zephyrholt	SHRINE	Santuário de Zephyrholt	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01141	Aeloria	Branthollow	HOUSE	Casa de Branthollow	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01142	Aeloria	Branthollow	SHOP	Loja de Branthollow	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01143	Aeloria	Branthollow	RESTAURANT	Restaurante de Branthollow	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01144	Aeloria	Branthollow	MARKET	Feira de Branthollow	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01145	Aeloria	Branthollow	PALACE	Palácio de Branthollow	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01146	Aeloria	Branthollow	DUNGEON	Dungeon de Branthollow	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01147	Aeloria	Branthollow	CULT	Local cultista de Branthollow	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01148	Aeloria	Branthollow	GUARD	Posto da Guarda de Branthollow	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01149	Aeloria	Branthollow	ACADEMY	Academia de Branthollow	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01150	Aeloria	Branthollow	LIBRARY	Biblioteca de Branthollow	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01151	Aeloria	Branthollow	BLACKSMITH	Ferraria de Branthollow	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01152	Aeloria	Branthollow	GUILD	Guilda dos Aventureiros de Branthollow	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01153	Aeloria	Branthollow	TEMPLE	Templo de Branthollow	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01154	Aeloria	Branthollow	ALCHEMY	Laboratório de Alquimia de Branthollow	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01155	Aeloria	Branthollow	TAVERN	Taverna de Branthollow	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01156	Aeloria	Branthollow	STABLE	Estábulo de Branthollow	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01157	Aeloria	Branthollow	MAGE_TOWER	Torre de Magos de Branthollow	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01158	Aeloria	Branthollow	ARENA	Arena de Branthollow	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01159	Aeloria	Branthollow	DOCK	Cais de Branthollow	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01160	Aeloria	Branthollow	SHRINE	Santuário de Branthollow	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01161	Tharun	Stone-Âmbar	HOUSE	Casa de Stone-Âmbar	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01162	Tharun	Stone-Âmbar	SHOP	Loja de Stone-Âmbar	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01163	Tharun	Stone-Âmbar	RESTAURANT	Restaurante de Stone-Âmbar	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01164	Tharun	Stone-Âmbar	MARKET	Feira de Stone-Âmbar	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01165	Tharun	Stone-Âmbar	PALACE	Palácio de Stone-Âmbar	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01166	Tharun	Stone-Âmbar	DUNGEON	Dungeon de Stone-Âmbar	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01167	Tharun	Stone-Âmbar	CULT	Local cultista de Stone-Âmbar	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01168	Tharun	Stone-Âmbar	GUARD	Posto da Guarda de Stone-Âmbar	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01169	Tharun	Stone-Âmbar	ACADEMY	Academia de Stone-Âmbar	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01170	Tharun	Stone-Âmbar	LIBRARY	Biblioteca de Stone-Âmbar	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01171	Tharun	Stone-Âmbar	BLACKSMITH	Ferraria de Stone-Âmbar	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01172	Tharun	Stone-Âmbar	GUILD	Guilda dos Aventureiros de Stone-Âmbar	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01173	Tharun	Stone-Âmbar	TEMPLE	Templo de Stone-Âmbar	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01174	Tharun	Stone-Âmbar	ALCHEMY	Laboratório de Alquimia de Stone-Âmbar	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01175	Tharun	Stone-Âmbar	TAVERN	Taverna de Stone-Âmbar	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01176	Tharun	Stone-Âmbar	STABLE	Estábulo de Stone-Âmbar	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01177	Tharun	Stone-Âmbar	MAGE_TOWER	Torre de Magos de Stone-Âmbar	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01178	Tharun	Stone-Âmbar	ARENA	Arena de Stone-Âmbar	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01179	Tharun	Stone-Âmbar	DOCK	Cais de Stone-Âmbar	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01180	Tharun	Stone-Âmbar	SHRINE	Santuário de Stone-Âmbar	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01181	Nyssara	Emerald Tide	HOUSE	Casa de Emerald Tide	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01182	Nyssara	Emerald Tide	SHOP	Loja de Emerald Tide	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01183	Nyssara	Emerald Tide	RESTAURANT	Restaurante de Emerald Tide	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01184	Nyssara	Emerald Tide	MARKET	Feira de Emerald Tide	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01185	Nyssara	Emerald Tide	PALACE	Palácio de Emerald Tide	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01186	Nyssara	Emerald Tide	DUNGEON	Dungeon de Emerald Tide	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01187	Nyssara	Emerald Tide	CULT	Local cultista de Emerald Tide	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01188	Nyssara	Emerald Tide	GUARD	Posto da Guarda de Emerald Tide	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01189	Nyssara	Emerald Tide	ACADEMY	Academia de Emerald Tide	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01190	Nyssara	Emerald Tide	LIBRARY	Biblioteca de Emerald Tide	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01191	Nyssara	Emerald Tide	BLACKSMITH	Ferraria de Emerald Tide	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01192	Nyssara	Emerald Tide	GUILD	Guilda dos Aventureiros de Emerald Tide	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01193	Nyssara	Emerald Tide	TEMPLE	Templo de Emerald Tide	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01194	Nyssara	Emerald Tide	ALCHEMY	Laboratório de Alquimia de Emerald Tide	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01195	Nyssara	Emerald Tide	TAVERN	Taverna de Emerald Tide	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01196	Nyssara	Emerald Tide	STABLE	Estábulo de Emerald Tide	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01197	Nyssara	Emerald Tide	MAGE_TOWER	Torre de Magos de Emerald Tide	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01198	Nyssara	Emerald Tide	ARENA	Arena de Emerald Tide	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01199	Nyssara	Emerald Tide	DOCK	Cais de Emerald Tide	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01200	Nyssara	Emerald Tide	SHRINE	Santuário de Emerald Tide	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01201	Valkyrion	Volmeria	HOUSE	Casa de Volmeria	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01202	Valkyrion	Volmeria	SHOP	Loja de Volmeria	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01203	Valkyrion	Volmeria	RESTAURANT	Restaurante de Volmeria	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01204	Valkyrion	Volmeria	MARKET	Feira de Volmeria	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01205	Valkyrion	Volmeria	PALACE	Palácio de Volmeria	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01206	Valkyrion	Volmeria	DUNGEON	Dungeon de Volmeria	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01207	Valkyrion	Volmeria	CULT	Local cultista de Volmeria	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01208	Valkyrion	Volmeria	GUARD	Posto da Guarda de Volmeria	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01209	Valkyrion	Volmeria	ACADEMY	Academia de Volmeria	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01210	Valkyrion	Volmeria	LIBRARY	Biblioteca de Volmeria	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01211	Valkyrion	Volmeria	BLACKSMITH	Ferraria de Volmeria	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01212	Valkyrion	Volmeria	GUILD	Guilda dos Aventureiros de Volmeria	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01213	Valkyrion	Volmeria	TEMPLE	Templo de Volmeria	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01214	Valkyrion	Volmeria	ALCHEMY	Laboratório de Alquimia de Volmeria	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01215	Valkyrion	Volmeria	TAVERN	Taverna de Volmeria	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01216	Valkyrion	Volmeria	STABLE	Estábulo de Volmeria	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01217	Valkyrion	Volmeria	MAGE_TOWER	Torre de Magos de Volmeria	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01218	Valkyrion	Volmeria	ARENA	Arena de Volmeria	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01219	Valkyrion	Volmeria	DOCK	Cais de Volmeria	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01220	Valkyrion	Volmeria	SHRINE	Santuário de Volmeria	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01221	Eshmara	Brumas	HOUSE	Casa de Brumas	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01222	Eshmara	Brumas	SHOP	Loja de Brumas	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01223	Eshmara	Brumas	RESTAURANT	Restaurante de Brumas	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01224	Eshmara	Brumas	MARKET	Feira de Brumas	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01225	Eshmara	Brumas	PALACE	Palácio de Brumas	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01226	Eshmara	Brumas	DUNGEON	Dungeon de Brumas	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01227	Eshmara	Brumas	CULT	Local cultista de Brumas	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01228	Eshmara	Brumas	GUARD	Posto da Guarda de Brumas	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01229	Eshmara	Brumas	ACADEMY	Academia de Brumas	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01230	Eshmara	Brumas	LIBRARY	Biblioteca de Brumas	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01231	Eshmara	Brumas	BLACKSMITH	Ferraria de Brumas	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01232	Eshmara	Brumas	GUILD	Guilda dos Aventureiros de Brumas	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01233	Eshmara	Brumas	TEMPLE	Templo de Brumas	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01234	Eshmara	Brumas	ALCHEMY	Laboratório de Alquimia de Brumas	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01235	Eshmara	Brumas	TAVERN	Taverna de Brumas	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01236	Eshmara	Brumas	STABLE	Estábulo de Brumas	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01237	Eshmara	Brumas	MAGE_TOWER	Torre de Magos de Brumas	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01238	Eshmara	Brumas	ARENA	Arena de Brumas	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01239	Eshmara	Brumas	DOCK	Cais de Brumas	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01240	Eshmara	Brumas	SHRINE	Santuário de Brumas	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01241	Kethruun	Sandbones	HOUSE	Casa de Sandbones	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01242	Kethruun	Sandbones	SHOP	Loja de Sandbones	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01243	Kethruun	Sandbones	RESTAURANT	Restaurante de Sandbones	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01244	Kethruun	Sandbones	MARKET	Feira de Sandbones	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01245	Kethruun	Sandbones	PALACE	Palácio de Sandbones	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01246	Kethruun	Sandbones	DUNGEON	Dungeon de Sandbones	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01247	Kethruun	Sandbones	CULT	Local cultista de Sandbones	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01248	Kethruun	Sandbones	GUARD	Posto da Guarda de Sandbones	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01249	Kethruun	Sandbones	ACADEMY	Academia de Sandbones	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01250	Kethruun	Sandbones	LIBRARY	Biblioteca de Sandbones	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01251	Kethruun	Sandbones	BLACKSMITH	Ferraria de Sandbones	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01252	Kethruun	Sandbones	GUILD	Guilda dos Aventureiros de Sandbones	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01253	Kethruun	Sandbones	TEMPLE	Templo de Sandbones	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01254	Kethruun	Sandbones	ALCHEMY	Laboratório de Alquimia de Sandbones	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01255	Kethruun	Sandbones	TAVERN	Taverna de Sandbones	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01256	Kethruun	Sandbones	STABLE	Estábulo de Sandbones	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01257	Kethruun	Sandbones	MAGE_TOWER	Torre de Magos de Sandbones	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01258	Kethruun	Sandbones	ARENA	Arena de Sandbones	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01259	Kethruun	Sandbones	DOCK	Cais de Sandbones	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01260	Kethruun	Sandbones	SHRINE	Santuário de Sandbones	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01261	Orinthal	Crystalia	HOUSE	Casa de Crystalia	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01262	Orinthal	Crystalia	SHOP	Loja de Crystalia	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01263	Orinthal	Crystalia	RESTAURANT	Restaurante de Crystalia	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01264	Orinthal	Crystalia	MARKET	Feira de Crystalia	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01265	Orinthal	Crystalia	PALACE	Palácio de Crystalia	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01266	Orinthal	Crystalia	DUNGEON	Dungeon de Crystalia	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01267	Orinthal	Crystalia	CULT	Local cultista de Crystalia	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01268	Orinthal	Crystalia	GUARD	Posto da Guarda de Crystalia	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01269	Orinthal	Crystalia	ACADEMY	Academia de Crystalia	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01270	Orinthal	Crystalia	LIBRARY	Biblioteca de Crystalia	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01271	Orinthal	Crystalia	BLACKSMITH	Ferraria de Crystalia	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01272	Orinthal	Crystalia	GUILD	Guilda dos Aventureiros de Crystalia	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01273	Orinthal	Crystalia	TEMPLE	Templo de Crystalia	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01274	Orinthal	Crystalia	ALCHEMY	Laboratório de Alquimia de Crystalia	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01275	Orinthal	Crystalia	TAVERN	Taverna de Crystalia	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01276	Orinthal	Crystalia	STABLE	Estábulo de Crystalia	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01277	Orinthal	Crystalia	MAGE_TOWER	Torre de Magos de Crystalia	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01278	Orinthal	Crystalia	ARENA	Arena de Crystalia	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01279	Orinthal	Crystalia	DOCK	Cais de Crystalia	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01280	Orinthal	Crystalia	SHRINE	Santuário de Crystalia	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01281	Zarim	Fornalia	HOUSE	Casa de Fornalia	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01282	Zarim	Fornalia	SHOP	Loja de Fornalia	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01283	Zarim	Fornalia	RESTAURANT	Restaurante de Fornalia	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01284	Zarim	Fornalia	MARKET	Feira de Fornalia	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01285	Zarim	Fornalia	PALACE	Palácio de Fornalia	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01286	Zarim	Fornalia	DUNGEON	Dungeon de Fornalia	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01287	Zarim	Fornalia	CULT	Local cultista de Fornalia	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01288	Zarim	Fornalia	GUARD	Posto da Guarda de Fornalia	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01289	Zarim	Fornalia	ACADEMY	Academia de Fornalia	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01290	Zarim	Fornalia	LIBRARY	Biblioteca de Fornalia	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01291	Zarim	Fornalia	BLACKSMITH	Ferraria de Fornalia	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01292	Zarim	Fornalia	GUILD	Guilda dos Aventureiros de Fornalia	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01293	Zarim	Fornalia	TEMPLE	Templo de Fornalia	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01294	Zarim	Fornalia	ALCHEMY	Laboratório de Alquimia de Fornalia	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01295	Zarim	Fornalia	TAVERN	Taverna de Fornalia	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01296	Zarim	Fornalia	STABLE	Estábulo de Fornalia	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01297	Zarim	Fornalia	MAGE_TOWER	Torre de Magos de Fornalia	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01298	Zarim	Fornalia	ARENA	Arena de Fornalia	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01299	Zarim	Fornalia	DOCK	Cais de Fornalia	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01300	Zarim	Fornalia	SHRINE	Santuário de Fornalia	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01301	Lyrien	Aerocivitus	HOUSE	Casa de Aerocivitus	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01302	Lyrien	Aerocivitus	SHOP	Loja de Aerocivitus	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01303	Lyrien	Aerocivitus	RESTAURANT	Restaurante de Aerocivitus	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01304	Lyrien	Aerocivitus	MARKET	Feira de Aerocivitus	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01305	Lyrien	Aerocivitus	PALACE	Palácio de Aerocivitus	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01306	Lyrien	Aerocivitus	DUNGEON	Dungeon de Aerocivitus	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01307	Lyrien	Aerocivitus	CULT	Local cultista de Aerocivitus	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01308	Lyrien	Aerocivitus	GUARD	Posto da Guarda de Aerocivitus	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01309	Lyrien	Aerocivitus	ACADEMY	Academia de Aerocivitus	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01310	Lyrien	Aerocivitus	LIBRARY	Biblioteca de Aerocivitus	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01311	Lyrien	Aerocivitus	BLACKSMITH	Ferraria de Aerocivitus	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01312	Lyrien	Aerocivitus	GUILD	Guilda dos Aventureiros de Aerocivitus	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01313	Lyrien	Aerocivitus	TEMPLE	Templo de Aerocivitus	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01314	Lyrien	Aerocivitus	ALCHEMY	Laboratório de Alquimia de Aerocivitus	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01315	Lyrien	Aerocivitus	TAVERN	Taverna de Aerocivitus	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01316	Lyrien	Aerocivitus	STABLE	Estábulo de Aerocivitus	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01317	Lyrien	Aerocivitus	MAGE_TOWER	Torre de Magos de Aerocivitus	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01318	Lyrien	Aerocivitus	ARENA	Arena de Aerocivitus	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01319	Lyrien	Aerocivitus	DOCK	Cais de Aerocivitus	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01320	Lyrien	Aerocivitus	SHRINE	Santuário de Aerocivitus	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON
+LOC_01321	Myrthos	Sem nome definido	HOUSE	Casa de Sem nome definido	Uma residência acessível onde histórias pessoais podem surgir.	PUBLIC	06-24	NONE	COMMON
+LOC_01322	Myrthos	Sem nome definido	SHOP	Loja de Sem nome definido	Estabelecimento com estoque variável e preços influenciados pela economia local.	PUBLIC	06-24	NONE	COMMON
+LOC_01323	Myrthos	Sem nome definido	RESTAURANT	Restaurante de Sem nome definido	Serve refeições regionais e pratos que recuperam Fome e, em alguns casos, Sede.	PUBLIC	06-24	NONE	COMMON
+LOC_01324	Myrthos	Sem nome definido	MARKET	Feira de Sem nome definido	Barracas de produtores, artesãos e viajantes; estoque muda com o calendário.	PUBLIC	06-24	NONE	COMMON
+LOC_01325	Myrthos	Sem nome definido	PALACE	Palácio de Sem nome definido	Centro político do reino, palco de audiências, intrigas e missões.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01326	Myrthos	Sem nome definido	DUNGEON	Dungeon de Sem nome definido	Entrada para uma zona de risco com monstros e tesouros.	PUBLIC	06-24	NONE	COMMON
+LOC_01327	Myrthos	Sem nome definido	CULT	Local cultista de Sem nome definido	Local reservado para cultos e rumores; o acesso depende de escolhas e reputação.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01328	Myrthos	Sem nome definido	GUARD	Posto da Guarda de Sem nome definido	Posto oficial onde se registram ocorrências, procurados e escoltas.	PUBLIC	06-24	F	COMMON
+LOC_01329	Myrthos	Sem nome definido	ACADEMY	Academia de Sem nome definido	Espaço de ensino e treinamento quando houver instituição local.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01330	Myrthos	Sem nome definido	LIBRARY	Biblioteca de Sem nome definido	Coleções, mapas, grimórios e registros históricos.	PUBLIC	06-24	NONE	COMMON
+LOC_01331	Myrthos	Sem nome definido	BLACKSMITH	Ferraria de Sem nome definido	Oficina para comprar, reparar e aprimorar equipamento.	PUBLIC	06-24	NONE	COMMON
+LOC_01332	Myrthos	Sem nome definido	GUILD	Guilda dos Aventureiros de Sem nome definido	Ponto de encontro de aventureiros, contratos e formação de grupos.	PUBLIC	06-24	F	COMMON
+LOC_01333	Myrthos	Sem nome definido	TEMPLE	Templo de Sem nome definido	Local de bênçãos, cura e rituais.	PUBLIC	06-24	NONE	COMMON
+LOC_01334	Myrthos	Sem nome definido	ALCHEMY	Laboratório de Alquimia de Sem nome definido	Oficina para poções, reagentes e pesquisa.	PUBLIC	06-24	NONE	COMMON
+LOC_01335	Myrthos	Sem nome definido	TAVERN	Taverna de Sem nome definido	Ponto social onde rumores e pedidos aparecem.	PUBLIC	06-24	NONE	COMMON
+LOC_01336	Myrthos	Sem nome definido	STABLE	Estábulo de Sem nome definido	Animais, montarias, carroças e cuidados de viagem.	PUBLIC	06-24	NONE	COMMON
+LOC_01337	Myrthos	Sem nome definido	MAGE_TOWER	Torre de Magos de Sem nome definido	Centro de estudo arcano, com grimórios e professores.	CONDITIONAL	06-24	NONE	COMMON
+LOC_01338	Myrthos	Sem nome definido	ARENA	Arena de Sem nome definido	Competições e treinamento supervisionado.	PUBLIC	06-24	NONE	COMMON
+LOC_01339	Myrthos	Sem nome definido	DOCK	Cais de Sem nome definido	Embarques, comércio e viagens aquáticas.	PUBLIC	06-24	NONE	COMMON
+LOC_01340	Myrthos	Sem nome definido	SHRINE	Santuário de Sem nome definido	Pequeno local sagrado ligado à história regional.	PUBLIC	06-24	NONE	COMMON

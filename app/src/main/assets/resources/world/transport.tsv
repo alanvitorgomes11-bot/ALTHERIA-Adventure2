@@ -1,0 +1,61 @@
+id	name	type	realm	speed	cost	capacity	riskModifier	description
+TRN_001	Cavalo de Estrada	MONTARIA	Tharun	1.20	120	1	-8	Montaria comum para viagens entre cidades.
+TRN_002	Cavalo de Guerra	MONTARIA	Valkyrion	1.30	320	1	-10	Montaria treinada para acompanhar caçadores e combatentes.
+TRN_003	Mula de Carga	CARGA	Kethruun	0.95	90	5	-4	Animal resistente para suprimentos e comércio.
+TRN_004	Carroça Leve	VEÍCULO	Zarim	0.85	160	4	-6	Veículo terrestre simples puxado por montaria.
+TRN_005	Carroça Mercante	VEÍCULO	Myrthos	0.78	420	10	-5	Veículo para rotas comerciais e cargas volumosas.
+TRN_006	Escamídeo das Planícies	MONTARIA	Tharun	1.55	900	1	-16	Montaria rara; o compêndio estabelece os Escamídeos como velozes, resistentes, caros e usados pela nobreza.
+TRN_007	Deker de Sela	MONTARIA	Valkyrion	1.45	700	1	-14	Montaria proposta de Altheria, veloz e dócil após treinamento.
+TRN_008	Deker de Carga	CARGA	Kethruun	1.05	520	6	-8	Variante proposta para transporte de mercadorias em terrenos difíceis.
+TRN_009	Balsa Fluvial	FLUVIAL	Zarim	1.00	240	8	-12	Embarcação fluvial proposta para travessias e pequenas cargas.
+TRN_010	Gôndola de Nyssara	FLUVIAL	Myrthos	1.15	480	4	-18	Embarcação costeira/fluvial de luxo, proposta de jogo.
+TRN_011	Caravana Guilda	CONVOIO	Tharun	0.72	800	20	-20	Transporte coletivo contratado pela Guilda.
+TRN_012	Carro Reforçado	VEÍCULO	Valkyrion	0.75	650	6	-12	Carro com estrutura reforçada para regiões perigosas.
+TRN_013	Cavalo de Estrada Mk.2	MONTARIA	Kethruun	1.20	200	1	-8	Montaria comum para viagens entre cidades.
+TRN_014	Cavalo de Guerra Mk.2	MONTARIA	Zarim	1.30	400	1	-10	Montaria treinada para acompanhar caçadores e combatentes.
+TRN_015	Mula de Carga Mk.2	CARGA	Myrthos	0.95	170	5	-4	Animal resistente para suprimentos e comércio.
+TRN_016	Carroça Leve Mk.2	VEÍCULO	Tharun	0.85	240	4	-6	Veículo terrestre simples puxado por montaria.
+TRN_017	Carroça Mercante Mk.2	VEÍCULO	Valkyrion	0.78	500	10	-5	Veículo para rotas comerciais e cargas volumosas.
+TRN_018	Escamídeo das Planícies Mk.2	MONTARIA	Kethruun	1.55	980	1	-16	Montaria rara; o compêndio estabelece os Escamídeos como velozes, resistentes, caros e usados pela nobreza.
+TRN_019	Deker de Sela Mk.2	MONTARIA	Zarim	1.45	780	1	-14	Montaria proposta de Altheria, veloz e dócil após treinamento.
+TRN_020	Deker de Carga Mk.2	CARGA	Myrthos	1.05	600	6	-8	Variante proposta para transporte de mercadorias em terrenos difíceis.
+TRN_021	Balsa Fluvial Mk.2	FLUVIAL	Tharun	1.00	320	8	-12	Embarcação fluvial proposta para travessias e pequenas cargas.
+TRN_022	Gôndola de Nyssara Mk.2	FLUVIAL	Valkyrion	1.15	560	4	-18	Embarcação costeira/fluvial de luxo, proposta de jogo.
+TRN_023	Caravana Guilda Mk.2	CONVOIO	Kethruun	0.72	880	20	-20	Transporte coletivo contratado pela Guilda.
+TRN_024	Carro Reforçado Mk.2	VEÍCULO	Zarim	0.75	730	6	-12	Carro com estrutura reforçada para regiões perigosas.
+TRN_025	Cavalo de Estrada Mk.3	MONTARIA	Myrthos	1.20	280	1	-8	Montaria comum para viagens entre cidades.
+TRN_026	Cavalo de Guerra Mk.3	MONTARIA	Tharun	1.30	480	1	-10	Montaria treinada para acompanhar caçadores e combatentes.
+TRN_027	Mula de Carga Mk.3	CARGA	Valkyrion	0.95	250	5	-4	Animal resistente para suprimentos e comércio.
+TRN_028	Carroça Leve Mk.3	VEÍCULO	Kethruun	0.85	320	4	-6	Veículo terrestre simples puxado por montaria.
+TRN_029	Carroça Mercante Mk.3	VEÍCULO	Zarim	0.78	580	10	-5	Veículo para rotas comerciais e cargas volumosas.
+TRN_030	Escamídeo das Planícies Mk.3	MONTARIA	Myrthos	1.55	1060	1	-16	Montaria rara; o compêndio estabelece os Escamídeos como velozes, resistentes, caros e usados pela nobreza.
+TRN_031	Deker de Sela Mk.3	MONTARIA	Tharun	1.45	860	1	-14	Montaria proposta de Altheria, veloz e dócil após treinamento.
+TRN_032	Deker de Carga Mk.3	CARGA	Valkyrion	1.05	680	6	-8	Variante proposta para transporte de mercadorias em terrenos difíceis.
+TRN_033	Balsa Fluvial Mk.3	FLUVIAL	Kethruun	1.00	400	8	-12	Embarcação fluvial proposta para travessias e pequenas cargas.
+TRN_034	Gôndola de Nyssara Mk.3	FLUVIAL	Zarim	1.15	640	4	-18	Embarcação costeira/fluvial de luxo, proposta de jogo.
+TRN_035	Caravana Guilda Mk.3	CONVOIO	Myrthos	0.72	960	20	-20	Transporte coletivo contratado pela Guilda.
+TRN_036	Carro Reforçado Mk.3	VEÍCULO	Tharun	0.75	810	6	-12	Carro com estrutura reforçada para regiões perigosas.
+TRN_037	Cavalo de Estrada Mk.4	MONTARIA	Valkyrion	1.20	360	1	-8	Montaria comum para viagens entre cidades.
+TRN_038	Cavalo de Guerra Mk.4	MONTARIA	Kethruun	1.30	560	1	-10	Montaria treinada para acompanhar caçadores e combatentes.
+TRN_039	Mula de Carga Mk.4	CARGA	Zarim	0.95	330	5	-4	Animal resistente para suprimentos e comércio.
+TRN_040	Carroça Leve Mk.4	VEÍCULO	Myrthos	0.85	400	4	-6	Veículo terrestre simples puxado por montaria.
+TRN_041	Carroça Mercante Mk.4	VEÍCULO	Tharun	0.78	660	10	-5	Veículo para rotas comerciais e cargas volumosas.
+TRN_042	Escamídeo das Planícies Mk.4	MONTARIA	Valkyrion	1.55	1140	1	-16	Montaria rara; o compêndio estabelece os Escamídeos como velozes, resistentes, caros e usados pela nobreza.
+TRN_043	Deker de Sela Mk.4	MONTARIA	Kethruun	1.45	940	1	-14	Montaria proposta de Altheria, veloz e dócil após treinamento.
+TRN_044	Deker de Carga Mk.4	CARGA	Zarim	1.05	760	6	-8	Variante proposta para transporte de mercadorias em terrenos difíceis.
+TRN_045	Balsa Fluvial Mk.4	FLUVIAL	Myrthos	1.00	480	8	-12	Embarcação fluvial proposta para travessias e pequenas cargas.
+TRN_046	Gôndola de Nyssara Mk.4	FLUVIAL	Tharun	1.15	720	4	-18	Embarcação costeira/fluvial de luxo, proposta de jogo.
+TRN_047	Caravana Guilda Mk.4	CONVOIO	Valkyrion	0.72	1040	20	-20	Transporte coletivo contratado pela Guilda.
+TRN_048	Carro Reforçado Mk.4	VEÍCULO	Kethruun	0.75	890	6	-12	Carro com estrutura reforçada para regiões perigosas.
+TRN_049	Cavalo de Estrada Mk.5	MONTARIA	Zarim	1.20	440	1	-8	Montaria comum para viagens entre cidades.
+TRN_050	Cavalo de Guerra Mk.5	MONTARIA	Myrthos	1.30	640	1	-10	Montaria treinada para acompanhar caçadores e combatentes.
+TRN_051	Mula de Carga Mk.5	CARGA	Tharun	0.95	410	5	-4	Animal resistente para suprimentos e comércio.
+TRN_052	Carroça Leve Mk.5	VEÍCULO	Valkyrion	0.85	480	4	-6	Veículo terrestre simples puxado por montaria.
+TRN_053	Carroça Mercante Mk.5	VEÍCULO	Kethruun	0.78	740	10	-5	Veículo para rotas comerciais e cargas volumosas.
+TRN_054	Escamídeo das Planícies Mk.5	MONTARIA	Zarim	1.55	1220	1	-16	Montaria rara; o compêndio estabelece os Escamídeos como velozes, resistentes, caros e usados pela nobreza.
+TRN_055	Deker de Sela Mk.5	MONTARIA	Myrthos	1.45	1020	1	-14	Montaria proposta de Altheria, veloz e dócil após treinamento.
+TRN_056	Deker de Carga Mk.5	CARGA	Tharun	1.05	840	6	-8	Variante proposta para transporte de mercadorias em terrenos difíceis.
+TRN_057	Balsa Fluvial Mk.5	FLUVIAL	Valkyrion	1.00	560	8	-12	Embarcação fluvial proposta para travessias e pequenas cargas.
+TRN_058	Gôndola de Nyssara Mk.5	FLUVIAL	Kethruun	1.15	800	4	-18	Embarcação costeira/fluvial de luxo, proposta de jogo.
+TRN_059	Caravana Guilda Mk.5	CONVOIO	Zarim	0.72	1120	20	-20	Transporte coletivo contratado pela Guilda.
+TRN_060	Carro Reforçado Mk.5	VEÍCULO	Myrthos	0.75	970	6	-12	Carro com estrutura reforçada para regiões perigosas.

@@ -1,0 +1,9 @@
+id	name	realm	city	maxFloor	minThreat	maxThreat	entryCost	status
+DUN_01	Galerias de Ferro Antigo	Tharun	Stone-Âmbar	8	1	5	12	GAME_PROPOSAL
+DUN_02	Cripta das Marés	Nyssara	Emerald Tide	7	1	5	15	GAME_PROPOSAL
+DUN_03	Ruínas de Eryndor	Aeloria	Eryndor	10	2	7	20	GAME_PROPOSAL
+DUN_04	Cavernas Prismáticas	Orinthal	Crystalia	9	2	7	18	GAME_PROPOSAL
+DUN_05	Poços da Brasa	Zarim	Fornalia	12	3	8	25	GAME_PROPOSAL
+DUN_06	Templo do Vento Suspenso	Lyrien	Aerocivitus	10	2	8	22	GAME_PROPOSAL
+DUN_07	Labirinto das Areias	Kethruun	Sandbones	11	2	8	24	GAME_PROPOSAL
+DUN_08	Jardins Submersos	Eshmara	Brumas	8	1	6	16	GAME_PROPOSAL

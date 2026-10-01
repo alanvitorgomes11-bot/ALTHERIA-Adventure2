@@ -1,0 +1,19 @@
+id	name	realm	city	startingRelation	role	description
+NPC_MIRIEL	Dona Miriel	Aeloria	Valdora	5	Comerciante	Uma comerciante experiente que conhece rumores, preços e pessoas.
+NPC_ARVEN	Arven	Aeloria	Drakensport	0	Ferreiro	Ferreiro que trabalha com armas e demonstra interesse por Vellum Armorial.
+NPC_ELINA	Elina	Aeloria	Eryndor	0	Guerreira	Personagem canônica; encontros e relações profundas ficam condicionados à linha narrativa.
+NPC_RORAN	Roran	Aeloria	Valdora	0	Estrategista	Personagem canônica; conhecimento e estratégia.
+NPC_DEYRAN	Deyran	Aeloria	Stormhaven	0	Valaryn	Personagem canônica associada à trajetória de Valaryns.
+NPC_SELENE	Selene	Aeloria	Eryndor	0	Sobrevivente	Personagem canônica de linha histórica; use em conteúdo compatível.
+NPC_GUILDMASTER	Mestra da Guilda	Aeloria	Valdora	5	Guilda	Responsável por contratos, registros e missões.
+NPC_ARENA_MASTER	Mestre da Arena	Aeloria	Drakensport	0	Arena	Organiza lutas e torneios.
+NPC_LYRA	Lyra	Aeloria	Eryndor	0	Aprendiz	Personagem canônica; encontros devem respeitar o momento da cronologia.
+NPC_MERCHANT_EON	Eon	Tharun	Stone-Âmbar	2	Mercador	Negociante de metais e minérios.
+NPC_SERA	Sera	Nyssara	Emerald Tide	2	Navegadora	Conhece rotas fluviais e marítimas.
+NPC_BRANN	Brann	Valkyrion	Volmeria	2	Cavaleiro	Instrutor de disciplina e combate.
+NPC_FELEN	Felen	Eshmara	Brumas	2	Erudita	Estuda fauna e botânica.
+NPC_NURA	Nura	Kethruun	Sandbones	2	Erudita	Especialista em ruínas e histórias do deserto.
+NPC_KAI	Kai	Orinthal	Crystalia	2	Mercador	Intermediário de caravanas.
+NPC_ZARU	Zaru	Zarim	Fornalia	2	Ferreiro	Mestre de forja e materiais vulcânicos.
+NPC_VEY	Vey	Lyrien	Aerocivitus	2	Músico	Conhece histórias, rumores e técnicas de vento propostas.
+NPC_MAEL	Mael	Myrthos	Sem nome definido	2	Instrutor	Instrutor de disciplina e equilíbrio.

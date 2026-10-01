@@ -1,0 +1,201 @@
+id	realm	category	item	price_base	social_context
+CT_0001	Aeloria	prato	Prato de Aeloria #001	2	comum em tavernas
+CT_0002	Tharun	bebida	Bebida de Tharun #002	5	servido em cerimônias
+CT_0003	Nyssara	ingrediente	Ingrediente de Nyssara #003	8	comércio de viajantes
+CT_0004	Valkyrion	especiaria	Especiaria de Valkyrion #004	11	especialidade regional
+CT_0005	Eshmara	artesanato	Artesanato de Eshmara #005	14	presente tradicional
+CT_0006	Kethruun	prato	Prato de Kethruun #006	17	comum em tavernas
+CT_0007	Orinthal	bebida	Bebida de Orinthal #007	20	servido em cerimônias
+CT_0008	Zarim	ingrediente	Ingrediente de Zarim #008	23	comércio de viajantes
+CT_0009	Lyrien	especiaria	Especiaria de Lyrien #009	26	especialidade regional
+CT_0010	Myrthos	artesanato	Artesanato de Myrthos #010	29	presente tradicional
+CT_0011	Aeloria	prato	Prato de Aeloria #011	32	comum em tavernas
+CT_0012	Tharun	bebida	Bebida de Tharun #012	35	servido em cerimônias
+CT_0013	Nyssara	ingrediente	Ingrediente de Nyssara #013	38	comércio de viajantes
+CT_0014	Valkyrion	especiaria	Especiaria de Valkyrion #014	41	especialidade regional
+CT_0015	Eshmara	artesanato	Artesanato de Eshmara #015	44	presente tradicional
+CT_0016	Kethruun	prato	Prato de Kethruun #016	47	comum em tavernas
+CT_0017	Orinthal	bebida	Bebida de Orinthal #017	50	servido em cerimônias
+CT_0018	Zarim	ingrediente	Ingrediente de Zarim #018	53	comércio de viajantes
+CT_0019	Lyrien	especiaria	Especiaria de Lyrien #019	56	especialidade regional
+CT_0020	Myrthos	artesanato	Artesanato de Myrthos #020	59	presente tradicional
+CT_0021	Aeloria	prato	Prato de Aeloria #021	62	comum em tavernas
+CT_0022	Tharun	bebida	Bebida de Tharun #022	65	servido em cerimônias
+CT_0023	Nyssara	ingrediente	Ingrediente de Nyssara #023	68	comércio de viajantes
+CT_0024	Valkyrion	especiaria	Especiaria de Valkyrion #024	71	especialidade regional
+CT_0025	Eshmara	artesanato	Artesanato de Eshmara #025	74	presente tradicional
+CT_0026	Kethruun	prato	Prato de Kethruun #026	77	comum em tavernas
+CT_0027	Orinthal	bebida	Bebida de Orinthal #027	80	servido em cerimônias
+CT_0028	Zarim	ingrediente	Ingrediente de Zarim #028	83	comércio de viajantes
+CT_0029	Lyrien	especiaria	Especiaria de Lyrien #029	86	especialidade regional
+CT_0030	Myrthos	artesanato	Artesanato de Myrthos #030	89	presente tradicional
+CT_0031	Aeloria	prato	Prato de Aeloria #031	92	comum em tavernas
+CT_0032	Tharun	bebida	Bebida de Tharun #032	2	servido em cerimônias
+CT_0033	Nyssara	ingrediente	Ingrediente de Nyssara #033	5	comércio de viajantes
+CT_0034	Valkyrion	especiaria	Especiaria de Valkyrion #034	8	especialidade regional
+CT_0035	Eshmara	artesanato	Artesanato de Eshmara #035	11	presente tradicional
+CT_0036	Kethruun	prato	Prato de Kethruun #036	14	comum em tavernas
+CT_0037	Orinthal	bebida	Bebida de Orinthal #037	17	servido em cerimônias
+CT_0038	Zarim	ingrediente	Ingrediente de Zarim #038	20	comércio de viajantes
+CT_0039	Lyrien	especiaria	Especiaria de Lyrien #039	23	especialidade regional
+CT_0040	Myrthos	artesanato	Artesanato de Myrthos #040	26	presente tradicional
+CT_0041	Aeloria	prato	Prato de Aeloria #041	29	comum em tavernas
+CT_0042	Tharun	bebida	Bebida de Tharun #042	32	servido em cerimônias
+CT_0043	Nyssara	ingrediente	Ingrediente de Nyssara #043	35	comércio de viajantes
+CT_0044	Valkyrion	especiaria	Especiaria de Valkyrion #044	38	especialidade regional
+CT_0045	Eshmara	artesanato	Artesanato de Eshmara #045	41	presente tradicional
+CT_0046	Kethruun	prato	Prato de Kethruun #046	44	comum em tavernas
+CT_0047	Orinthal	bebida	Bebida de Orinthal #047	47	servido em cerimônias
+CT_0048	Zarim	ingrediente	Ingrediente de Zarim #048	50	comércio de viajantes
+CT_0049	Lyrien	especiaria	Especiaria de Lyrien #049	53	especialidade regional
+CT_0050	Myrthos	artesanato	Artesanato de Myrthos #050	56	presente tradicional
+CT_0051	Aeloria	prato	Prato de Aeloria #051	59	comum em tavernas
+CT_0052	Tharun	bebida	Bebida de Tharun #052	62	servido em cerimônias
+CT_0053	Nyssara	ingrediente	Ingrediente de Nyssara #053	65	comércio de viajantes
+CT_0054	Valkyrion	especiaria	Especiaria de Valkyrion #054	68	especialidade regional
+CT_0055	Eshmara	artesanato	Artesanato de Eshmara #055	71	presente tradicional
+CT_0056	Kethruun	prato	Prato de Kethruun #056	74	comum em tavernas
+CT_0057	Orinthal	bebida	Bebida de Orinthal #057	77	servido em cerimônias
+CT_0058	Zarim	ingrediente	Ingrediente de Zarim #058	80	comércio de viajantes
+CT_0059	Lyrien	especiaria	Especiaria de Lyrien #059	83	especialidade regional
+CT_0060	Myrthos	artesanato	Artesanato de Myrthos #060	86	presente tradicional
+CT_0061	Aeloria	prato	Prato de Aeloria #061	89	comum em tavernas
+CT_0062	Tharun	bebida	Bebida de Tharun #062	92	servido em cerimônias
+CT_0063	Nyssara	ingrediente	Ingrediente de Nyssara #063	2	comércio de viajantes
+CT_0064	Valkyrion	especiaria	Especiaria de Valkyrion #064	5	especialidade regional
+CT_0065	Eshmara	artesanato	Artesanato de Eshmara #065	8	presente tradicional
+CT_0066	Kethruun	prato	Prato de Kethruun #066	11	comum em tavernas
+CT_0067	Orinthal	bebida	Bebida de Orinthal #067	14	servido em cerimônias
+CT_0068	Zarim	ingrediente	Ingrediente de Zarim #068	17	comércio de viajantes
+CT_0069	Lyrien	especiaria	Especiaria de Lyrien #069	20	especialidade regional
+CT_0070	Myrthos	artesanato	Artesanato de Myrthos #070	23	presente tradicional
+CT_0071	Aeloria	prato	Prato de Aeloria #071	26	comum em tavernas
+CT_0072	Tharun	bebida	Bebida de Tharun #072	29	servido em cerimônias
+CT_0073	Nyssara	ingrediente	Ingrediente de Nyssara #073	32	comércio de viajantes
+CT_0074	Valkyrion	especiaria	Especiaria de Valkyrion #074	35	especialidade regional
+CT_0075	Eshmara	artesanato	Artesanato de Eshmara #075	38	presente tradicional
+CT_0076	Kethruun	prato	Prato de Kethruun #076	41	comum em tavernas
+CT_0077	Orinthal	bebida	Bebida de Orinthal #077	44	servido em cerimônias
+CT_0078	Zarim	ingrediente	Ingrediente de Zarim #078	47	comércio de viajantes
+CT_0079	Lyrien	especiaria	Especiaria de Lyrien #079	50	especialidade regional
+CT_0080	Myrthos	artesanato	Artesanato de Myrthos #080	53	presente tradicional
+CT_0081	Aeloria	prato	Prato de Aeloria #081	56	comum em tavernas
+CT_0082	Tharun	bebida	Bebida de Tharun #082	59	servido em cerimônias
+CT_0083	Nyssara	ingrediente	Ingrediente de Nyssara #083	62	comércio de viajantes
+CT_0084	Valkyrion	especiaria	Especiaria de Valkyrion #084	65	especialidade regional
+CT_0085	Eshmara	artesanato	Artesanato de Eshmara #085	68	presente tradicional
+CT_0086	Kethruun	prato	Prato de Kethruun #086	71	comum em tavernas
+CT_0087	Orinthal	bebida	Bebida de Orinthal #087	74	servido em cerimônias
+CT_0088	Zarim	ingrediente	Ingrediente de Zarim #088	77	comércio de viajantes
+CT_0089	Lyrien	especiaria	Especiaria de Lyrien #089	80	especialidade regional
+CT_0090	Myrthos	artesanato	Artesanato de Myrthos #090	83	presente tradicional
+CT_0091	Aeloria	prato	Prato de Aeloria #091	86	comum em tavernas
+CT_0092	Tharun	bebida	Bebida de Tharun #092	89	servido em cerimônias
+CT_0093	Nyssara	ingrediente	Ingrediente de Nyssara #093	92	comércio de viajantes
+CT_0094	Valkyrion	especiaria	Especiaria de Valkyrion #094	2	especialidade regional
+CT_0095	Eshmara	artesanato	Artesanato de Eshmara #095	5	presente tradicional
+CT_0096	Kethruun	prato	Prato de Kethruun #096	8	comum em tavernas
+CT_0097	Orinthal	bebida	Bebida de Orinthal #097	11	servido em cerimônias
+CT_0098	Zarim	ingrediente	Ingrediente de Zarim #098	14	comércio de viajantes
+CT_0099	Lyrien	especiaria	Especiaria de Lyrien #099	17	especialidade regional
+CT_0100	Myrthos	artesanato	Artesanato de Myrthos #100	20	presente tradicional
+CT_0101	Aeloria	prato	Prato de Aeloria #101	23	comum em tavernas
+CT_0102	Tharun	bebida	Bebida de Tharun #102	26	servido em cerimônias
+CT_0103	Nyssara	ingrediente	Ingrediente de Nyssara #103	29	comércio de viajantes
+CT_0104	Valkyrion	especiaria	Especiaria de Valkyrion #104	32	especialidade regional
+CT_0105	Eshmara	artesanato	Artesanato de Eshmara #105	35	presente tradicional
+CT_0106	Kethruun	prato	Prato de Kethruun #106	38	comum em tavernas
+CT_0107	Orinthal	bebida	Bebida de Orinthal #107	41	servido em cerimônias
+CT_0108	Zarim	ingrediente	Ingrediente de Zarim #108	44	comércio de viajantes
+CT_0109	Lyrien	especiaria	Especiaria de Lyrien #109	47	especialidade regional
+CT_0110	Myrthos	artesanato	Artesanato de Myrthos #110	50	presente tradicional
+CT_0111	Aeloria	prato	Prato de Aeloria #111	53	comum em tavernas
+CT_0112	Tharun	bebida	Bebida de Tharun #112	56	servido em cerimônias
+CT_0113	Nyssara	ingrediente	Ingrediente de Nyssara #113	59	comércio de viajantes
+CT_0114	Valkyrion	especiaria	Especiaria de Valkyrion #114	62	especialidade regional
+CT_0115	Eshmara	artesanato	Artesanato de Eshmara #115	65	presente tradicional
+CT_0116	Kethruun	prato	Prato de Kethruun #116	68	comum em tavernas
+CT_0117	Orinthal	bebida	Bebida de Orinthal #117	71	servido em cerimônias
+CT_0118	Zarim	ingrediente	Ingrediente de Zarim #118	74	comércio de viajantes
+CT_0119	Lyrien	especiaria	Especiaria de Lyrien #119	77	especialidade regional
+CT_0120	Myrthos	artesanato	Artesanato de Myrthos #120	80	presente tradicional
+CT_0121	Aeloria	prato	Prato de Aeloria #121	83	comum em tavernas
+CT_0122	Tharun	bebida	Bebida de Tharun #122	86	servido em cerimônias
+CT_0123	Nyssara	ingrediente	Ingrediente de Nyssara #123	89	comércio de viajantes
+CT_0124	Valkyrion	especiaria	Especiaria de Valkyrion #124	92	especialidade regional
+CT_0125	Eshmara	artesanato	Artesanato de Eshmara #125	2	presente tradicional
+CT_0126	Kethruun	prato	Prato de Kethruun #126	5	comum em tavernas
+CT_0127	Orinthal	bebida	Bebida de Orinthal #127	8	servido em cerimônias
+CT_0128	Zarim	ingrediente	Ingrediente de Zarim #128	11	comércio de viajantes
+CT_0129	Lyrien	especiaria	Especiaria de Lyrien #129	14	especialidade regional
+CT_0130	Myrthos	artesanato	Artesanato de Myrthos #130	17	presente tradicional
+CT_0131	Aeloria	prato	Prato de Aeloria #131	20	comum em tavernas
+CT_0132	Tharun	bebida	Bebida de Tharun #132	23	servido em cerimônias
+CT_0133	Nyssara	ingrediente	Ingrediente de Nyssara #133	26	comércio de viajantes
+CT_0134	Valkyrion	especiaria	Especiaria de Valkyrion #134	29	especialidade regional
+CT_0135	Eshmara	artesanato	Artesanato de Eshmara #135	32	presente tradicional
+CT_0136	Kethruun	prato	Prato de Kethruun #136	35	comum em tavernas
+CT_0137	Orinthal	bebida	Bebida de Orinthal #137	38	servido em cerimônias
+CT_0138	Zarim	ingrediente	Ingrediente de Zarim #138	41	comércio de viajantes
+CT_0139	Lyrien	especiaria	Especiaria de Lyrien #139	44	especialidade regional
+CT_0140	Myrthos	artesanato	Artesanato de Myrthos #140	47	presente tradicional
+CT_0141	Aeloria	prato	Prato de Aeloria #141	50	comum em tavernas
+CT_0142	Tharun	bebida	Bebida de Tharun #142	53	servido em cerimônias
+CT_0143	Nyssara	ingrediente	Ingrediente de Nyssara #143	56	comércio de viajantes
+CT_0144	Valkyrion	especiaria	Especiaria de Valkyrion #144	59	especialidade regional
+CT_0145	Eshmara	artesanato	Artesanato de Eshmara #145	62	presente tradicional
+CT_0146	Kethruun	prato	Prato de Kethruun #146	65	comum em tavernas
+CT_0147	Orinthal	bebida	Bebida de Orinthal #147	68	servido em cerimônias
+CT_0148	Zarim	ingrediente	Ingrediente de Zarim #148	71	comércio de viajantes
+CT_0149	Lyrien	especiaria	Especiaria de Lyrien #149	74	especialidade regional
+CT_0150	Myrthos	artesanato	Artesanato de Myrthos #150	77	presente tradicional
+CT_0151	Aeloria	prato	Prato de Aeloria #151	80	comum em tavernas
+CT_0152	Tharun	bebida	Bebida de Tharun #152	83	servido em cerimônias
+CT_0153	Nyssara	ingrediente	Ingrediente de Nyssara #153	86	comércio de viajantes
+CT_0154	Valkyrion	especiaria	Especiaria de Valkyrion #154	89	especialidade regional
+CT_0155	Eshmara	artesanato	Artesanato de Eshmara #155	92	presente tradicional
+CT_0156	Kethruun	prato	Prato de Kethruun #156	2	comum em tavernas
+CT_0157	Orinthal	bebida	Bebida de Orinthal #157	5	servido em cerimônias
+CT_0158	Zarim	ingrediente	Ingrediente de Zarim #158	8	comércio de viajantes
+CT_0159	Lyrien	especiaria	Especiaria de Lyrien #159	11	especialidade regional
+CT_0160	Myrthos	artesanato	Artesanato de Myrthos #160	14	presente tradicional
+CT_0161	Aeloria	prato	Prato de Aeloria #161	17	comum em tavernas
+CT_0162	Tharun	bebida	Bebida de Tharun #162	20	servido em cerimônias
+CT_0163	Nyssara	ingrediente	Ingrediente de Nyssara #163	23	comércio de viajantes
+CT_0164	Valkyrion	especiaria	Especiaria de Valkyrion #164	26	especialidade regional
+CT_0165	Eshmara	artesanato	Artesanato de Eshmara #165	29	presente tradicional
+CT_0166	Kethruun	prato	Prato de Kethruun #166	32	comum em tavernas
+CT_0167	Orinthal	bebida	Bebida de Orinthal #167	35	servido em cerimônias
+CT_0168	Zarim	ingrediente	Ingrediente de Zarim #168	38	comércio de viajantes
+CT_0169	Lyrien	especiaria	Especiaria de Lyrien #169	41	especialidade regional
+CT_0170	Myrthos	artesanato	Artesanato de Myrthos #170	44	presente tradicional
+CT_0171	Aeloria	prato	Prato de Aeloria #171	47	comum em tavernas
+CT_0172	Tharun	bebida	Bebida de Tharun #172	50	servido em cerimônias
+CT_0173	Nyssara	ingrediente	Ingrediente de Nyssara #173	53	comércio de viajantes
+CT_0174	Valkyrion	especiaria	Especiaria de Valkyrion #174	56	especialidade regional
+CT_0175	Eshmara	artesanato	Artesanato de Eshmara #175	59	presente tradicional
+CT_0176	Kethruun	prato	Prato de Kethruun #176	62	comum em tavernas
+CT_0177	Orinthal	bebida	Bebida de Orinthal #177	65	servido em cerimônias
+CT_0178	Zarim	ingrediente	Ingrediente de Zarim #178	68	comércio de viajantes
+CT_0179	Lyrien	especiaria	Especiaria de Lyrien #179	71	especialidade regional
+CT_0180	Myrthos	artesanato	Artesanato de Myrthos #180	74	presente tradicional
+CT_0181	Aeloria	prato	Prato de Aeloria #181	77	comum em tavernas
+CT_0182	Tharun	bebida	Bebida de Tharun #182	80	servido em cerimônias
+CT_0183	Nyssara	ingrediente	Ingrediente de Nyssara #183	83	comércio de viajantes
+CT_0184	Valkyrion	especiaria	Especiaria de Valkyrion #184	86	especialidade regional
+CT_0185	Eshmara	artesanato	Artesanato de Eshmara #185	89	presente tradicional
+CT_0186	Kethruun	prato	Prato de Kethruun #186	92	comum em tavernas
+CT_0187	Orinthal	bebida	Bebida de Orinthal #187	2	servido em cerimônias
+CT_0188	Zarim	ingrediente	Ingrediente de Zarim #188	5	comércio de viajantes
+CT_0189	Lyrien	especiaria	Especiaria de Lyrien #189	8	especialidade regional
+CT_0190	Myrthos	artesanato	Artesanato de Myrthos #190	11	presente tradicional
+CT_0191	Aeloria	prato	Prato de Aeloria #191	14	comum em tavernas
+CT_0192	Tharun	bebida	Bebida de Tharun #192	17	servido em cerimônias
+CT_0193	Nyssara	ingrediente	Ingrediente de Nyssara #193	20	comércio de viajantes
+CT_0194	Valkyrion	especiaria	Especiaria de Valkyrion #194	23	especialidade regional
+CT_0195	Eshmara	artesanato	Artesanato de Eshmara #195	26	presente tradicional
+CT_0196	Kethruun	prato	Prato de Kethruun #196	29	comum em tavernas
+CT_0197	Orinthal	bebida	Bebida de Orinthal #197	32	servido em cerimônias
+CT_0198	Zarim	ingrediente	Ingrediente de Zarim #198	35	comércio de viajantes
+CT_0199	Lyrien	especiaria	Especiaria de Lyrien #199	38	especialidade regional
+CT_0200	Myrthos	artesanato	Artesanato de Myrthos #200	41	presente tradicional

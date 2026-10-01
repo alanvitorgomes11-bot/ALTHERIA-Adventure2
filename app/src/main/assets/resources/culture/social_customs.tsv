@@ -1,0 +1,301 @@
+id	realm	rule_no	domain	rule
+CUS_0001	Aeloria	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0002	Aeloria	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0003	Aeloria	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0004	Aeloria	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0005	Aeloria	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0006	Aeloria	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0007	Aeloria	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0008	Aeloria	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0009	Aeloria	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0010	Aeloria	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0011	Aeloria	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0012	Aeloria	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0013	Aeloria	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0014	Aeloria	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0015	Aeloria	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0016	Aeloria	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0017	Aeloria	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0018	Aeloria	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0019	Aeloria	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0020	Aeloria	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0021	Aeloria	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0022	Aeloria	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0023	Aeloria	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0024	Aeloria	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0025	Aeloria	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0026	Aeloria	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0027	Aeloria	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0028	Aeloria	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0029	Aeloria	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0030	Aeloria	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0031	Tharun	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0032	Tharun	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0033	Tharun	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0034	Tharun	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0035	Tharun	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0036	Tharun	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0037	Tharun	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0038	Tharun	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0039	Tharun	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0040	Tharun	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0041	Tharun	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0042	Tharun	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0043	Tharun	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0044	Tharun	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0045	Tharun	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0046	Tharun	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0047	Tharun	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0048	Tharun	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0049	Tharun	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0050	Tharun	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0051	Tharun	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0052	Tharun	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0053	Tharun	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0054	Tharun	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0055	Tharun	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0056	Tharun	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0057	Tharun	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0058	Tharun	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0059	Tharun	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0060	Tharun	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0061	Nyssara	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0062	Nyssara	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0063	Nyssara	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0064	Nyssara	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0065	Nyssara	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0066	Nyssara	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0067	Nyssara	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0068	Nyssara	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0069	Nyssara	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0070	Nyssara	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0071	Nyssara	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0072	Nyssara	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0073	Nyssara	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0074	Nyssara	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0075	Nyssara	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0076	Nyssara	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0077	Nyssara	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0078	Nyssara	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0079	Nyssara	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0080	Nyssara	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0081	Nyssara	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0082	Nyssara	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0083	Nyssara	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0084	Nyssara	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0085	Nyssara	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0086	Nyssara	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0087	Nyssara	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0088	Nyssara	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0089	Nyssara	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0090	Nyssara	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0091	Valkyrion	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0092	Valkyrion	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0093	Valkyrion	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0094	Valkyrion	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0095	Valkyrion	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0096	Valkyrion	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0097	Valkyrion	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0098	Valkyrion	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0099	Valkyrion	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0100	Valkyrion	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0101	Valkyrion	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0102	Valkyrion	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0103	Valkyrion	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0104	Valkyrion	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0105	Valkyrion	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0106	Valkyrion	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0107	Valkyrion	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0108	Valkyrion	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0109	Valkyrion	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0110	Valkyrion	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0111	Valkyrion	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0112	Valkyrion	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0113	Valkyrion	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0114	Valkyrion	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0115	Valkyrion	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0116	Valkyrion	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0117	Valkyrion	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0118	Valkyrion	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0119	Valkyrion	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0120	Valkyrion	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0121	Eshmara	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0122	Eshmara	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0123	Eshmara	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0124	Eshmara	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0125	Eshmara	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0126	Eshmara	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0127	Eshmara	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0128	Eshmara	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0129	Eshmara	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0130	Eshmara	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0131	Eshmara	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0132	Eshmara	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0133	Eshmara	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0134	Eshmara	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0135	Eshmara	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0136	Eshmara	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0137	Eshmara	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0138	Eshmara	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0139	Eshmara	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0140	Eshmara	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0141	Eshmara	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0142	Eshmara	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0143	Eshmara	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0144	Eshmara	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0145	Eshmara	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0146	Eshmara	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0147	Eshmara	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0148	Eshmara	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0149	Eshmara	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0150	Eshmara	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0151	Kethruun	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0152	Kethruun	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0153	Kethruun	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0154	Kethruun	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0155	Kethruun	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0156	Kethruun	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0157	Kethruun	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0158	Kethruun	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0159	Kethruun	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0160	Kethruun	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0161	Kethruun	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0162	Kethruun	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0163	Kethruun	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0164	Kethruun	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0165	Kethruun	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0166	Kethruun	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0167	Kethruun	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0168	Kethruun	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0169	Kethruun	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0170	Kethruun	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0171	Kethruun	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0172	Kethruun	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0173	Kethruun	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0174	Kethruun	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0175	Kethruun	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0176	Kethruun	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0177	Kethruun	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0178	Kethruun	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0179	Kethruun	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0180	Kethruun	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0181	Orinthal	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0182	Orinthal	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0183	Orinthal	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0184	Orinthal	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0185	Orinthal	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0186	Orinthal	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0187	Orinthal	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0188	Orinthal	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0189	Orinthal	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0190	Orinthal	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0191	Orinthal	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0192	Orinthal	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0193	Orinthal	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0194	Orinthal	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0195	Orinthal	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0196	Orinthal	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0197	Orinthal	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0198	Orinthal	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0199	Orinthal	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0200	Orinthal	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0201	Orinthal	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0202	Orinthal	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0203	Orinthal	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0204	Orinthal	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0205	Orinthal	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0206	Orinthal	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0207	Orinthal	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0208	Orinthal	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0209	Orinthal	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0210	Orinthal	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0211	Zarim	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0212	Zarim	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0213	Zarim	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0214	Zarim	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0215	Zarim	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0216	Zarim	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0217	Zarim	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0218	Zarim	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0219	Zarim	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0220	Zarim	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0221	Zarim	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0222	Zarim	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0223	Zarim	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0224	Zarim	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0225	Zarim	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0226	Zarim	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0227	Zarim	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0228	Zarim	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0229	Zarim	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0230	Zarim	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0231	Zarim	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0232	Zarim	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0233	Zarim	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0234	Zarim	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0235	Zarim	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0236	Zarim	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0237	Zarim	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0238	Zarim	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0239	Zarim	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0240	Zarim	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0241	Lyrien	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0242	Lyrien	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0243	Lyrien	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0244	Lyrien	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0245	Lyrien	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0246	Lyrien	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0247	Lyrien	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0248	Lyrien	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0249	Lyrien	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0250	Lyrien	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0251	Lyrien	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0252	Lyrien	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0253	Lyrien	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0254	Lyrien	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0255	Lyrien	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0256	Lyrien	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0257	Lyrien	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0258	Lyrien	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0259	Lyrien	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0260	Lyrien	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0261	Lyrien	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0262	Lyrien	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0263	Lyrien	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0264	Lyrien	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0265	Lyrien	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0266	Lyrien	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0267	Lyrien	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0268	Lyrien	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0269	Lyrien	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0270	Lyrien	30	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0271	Myrthos	1	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0272	Myrthos	2	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0273	Myrthos	3	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0274	Myrthos	4	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0275	Myrthos	5	família	Laços familiares influenciam obrigações e alianças.
+CUS_0276	Myrthos	6	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0277	Myrthos	7	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0278	Myrthos	8	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0279	Myrthos	9	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0280	Myrthos	10	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0281	Myrthos	11	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0282	Myrthos	12	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0283	Myrthos	13	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0284	Myrthos	14	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0285	Myrthos	15	família	Laços familiares influenciam obrigações e alianças.
+CUS_0286	Myrthos	16	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0287	Myrthos	17	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0288	Myrthos	18	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0289	Myrthos	19	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0290	Myrthos	20	religião	Templos observam costumes próprios em dias sagrados.
+CUS_0291	Myrthos	21	saudação	Uma saudação formal é esperada diante de autoridades.
+CUS_0292	Myrthos	22	refeição	Compartilhar alimento pode ser interpretado como gesto de confiança.
+CUS_0293	Myrthos	23	vestimenta	Certas cores e materiais indicam posição social.
+CUS_0294	Myrthos	24	hierarquia	Interromper um ancião pode ser considerado desrespeito.
+CUS_0295	Myrthos	25	família	Laços familiares influenciam obrigações e alianças.
+CUS_0296	Myrthos	26	hospitalidade	Hóspedes recebem proteção enquanto estiverem sob um teto legítimo.
+CUS_0297	Myrthos	27	comércio	Pechinchar é aceito em alguns mercados e ofensivo em outros.
+CUS_0298	Myrthos	28	duelo	Desafios formais seguem regras locais e raramente são aceitos em santuários.
+CUS_0299	Myrthos	29	magia	Práticas mágicas públicas podem exigir licença ou testemunha.
+CUS_0300	Myrthos	30	religião	Templos observam costumes próprios em dias sagrados.

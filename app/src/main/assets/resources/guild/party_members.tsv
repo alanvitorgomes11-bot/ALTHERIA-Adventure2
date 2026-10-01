@@ -1,0 +1,1001 @@
+id	npcId	name	realm	city	role	level	cost	loyalty	specialty
+PARTY_0001	NPC_0001	Corinl	Zarim	Fornalia	Aventureiro	1	5	-5	monstros
+PARTY_0002	NPC_0002	Ferethr	Eshmara	Brumas	Mago	2	8	-4	cura
+PARTY_0003	NPC_0003	Iriiav	Tharun	Stone-Âmbar	Curandeiro	3	11	-3	magia
+PARTY_0004	NPC_0004	Liaas	Lyrien	Aerocivitus	Arqueiro	4	14	-2	exploração
+PARTY_0005	NPC_0005	Oliint	Kethruun	Sandbones	Guerreiro	5	17	-1	defesa
+PARTY_0006	NPC_0006	Torethm	Nyssara	Emerald Tide	Batedor	6	20	0	monstros
+PARTY_0007	NPC_0007	Ysaian	Myrthos	Sem nome definido	Alquimista	7	23	1	cura
+PARTY_0008	NPC_0008	Arak	Orinthal	Crystalia	Valaryn Cadete	8	26	2	magia
+PARTY_0009	NPC_0009	Daind	Valkyrion	Volmeria	Aventureiro	9	29	3	exploração
+PARTY_0010	NPC_0010	Galethb	Aeloria	Verdralith	Mago	10	32	4	defesa
+PARTY_0011	NPC_0011	Joniath	Zarim	Fornalia	Curandeiro	11	35	5	monstros
+PARTY_0012	NPC_0012	Maraa	Eshmara	Brumas	Arqueiro	12	38	-5	cura
+PARTY_0013	NPC_0013	Reninl	Tharun	Stone-Âmbar	Guerreiro	13	41	-4	magia
+PARTY_0014	NPC_0014	Vioethr	Lyrien	Aerocivitus	Batedor	14	44	-3	exploração
+PARTY_0015	NPC_0015	Zaniav	Kethruun	Sandbones	Alquimista	15	47	-2	defesa
+PARTY_0016	NPC_0016	Belas	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-1	monstros
+PARTY_0017	NPC_0017	Eliint	Myrthos	Sem nome definido	Aventureiro	17	53	0	cura
+PARTY_0018	NPC_0018	Helethm	Orinthal	Crystalia	Mago	18	56	1	magia
+PARTY_0019	NPC_0019	Kaian	Valkyrion	Volmeria	Curandeiro	19	59	2	exploração
+PARTY_0020	NPC_0020	Nerak	Aeloria	Prismere	Arqueiro	20	62	3	defesa
+PARTY_0021	NPC_0021	Selind	Zarim	Fornalia	Guerreiro	1	5	4	monstros
+PARTY_0022	NPC_0022	Wilethb	Eshmara	Brumas	Batedor	2	8	5	cura
+PARTY_0023	NPC_0023	Aliath	Tharun	Stone-Âmbar	Alquimista	3	11	-5	magia
+PARTY_0024	NPC_0024	Coraa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-4	exploração
+PARTY_0025	NPC_0025	Ferinl	Kethruun	Sandbones	Aventureiro	5	17	-3	defesa
+PARTY_0026	NPC_0026	Iriethr	Nyssara	Emerald Tide	Mago	6	20	-2	monstros
+PARTY_0027	NPC_0027	Liaiav	Myrthos	Sem nome definido	Curandeiro	7	23	-1	cura
+PARTY_0028	NPC_0028	Olias	Orinthal	Crystalia	Arqueiro	8	26	0	magia
+PARTY_0029	NPC_0029	Torint	Valkyrion	Volmeria	Guerreiro	9	29	1	exploração
+PARTY_0030	NPC_0030	Ysaethm	Aeloria	Jorwyn	Batedor	10	32	2	defesa
+PARTY_0031	NPC_0031	Arian	Zarim	Fornalia	Alquimista	11	35	3	monstros
+PARTY_0032	NPC_0032	Daak	Eshmara	Brumas	Valaryn Cadete	12	38	4	cura
+PARTY_0033	NPC_0033	Galind	Tharun	Stone-Âmbar	Aventureiro	13	41	5	magia
+PARTY_0034	NPC_0034	Jonethb	Lyrien	Aerocivitus	Mago	14	44	-5	exploração
+PARTY_0035	NPC_0035	Mariath	Kethruun	Sandbones	Curandeiro	15	47	-4	defesa
+PARTY_0036	NPC_0036	Renaa	Nyssara	Emerald Tide	Arqueiro	16	50	-3	monstros
+PARTY_0037	NPC_0037	Vioinl	Myrthos	Sem nome definido	Guerreiro	17	53	-2	cura
+PARTY_0038	NPC_0038	Zanethr	Orinthal	Crystalia	Batedor	18	56	-1	magia
+PARTY_0039	NPC_0039	Beliav	Valkyrion	Volmeria	Alquimista	19	59	0	exploração
+PARTY_0040	NPC_0040	Elias	Aeloria	Dawnspire	Valaryn Cadete	20	62	1	defesa
+PARTY_0041	NPC_0041	Helint	Zarim	Fornalia	Aventureiro	1	5	2	monstros
+PARTY_0042	NPC_0042	Kaethm	Eshmara	Brumas	Mago	2	8	3	cura
+PARTY_0043	NPC_0043	Nerian	Tharun	Stone-Âmbar	Curandeiro	3	11	4	magia
+PARTY_0044	NPC_0044	Selak	Lyrien	Aerocivitus	Arqueiro	4	14	5	exploração
+PARTY_0045	NPC_0045	Wilind	Kethruun	Sandbones	Guerreiro	5	17	-5	defesa
+PARTY_0046	NPC_0046	Alethb	Nyssara	Emerald Tide	Batedor	6	20	-4	monstros
+PARTY_0047	NPC_0047	Coriath	Myrthos	Sem nome definido	Alquimista	7	23	-3	cura
+PARTY_0048	NPC_0048	Feraa	Orinthal	Crystalia	Valaryn Cadete	8	26	-2	magia
+PARTY_0049	NPC_0049	Iriinl	Valkyrion	Volmeria	Aventureiro	9	29	-1	exploração
+PARTY_0050	NPC_0050	Liaethr	Aeloria	Xandralor	Mago	10	32	0	defesa
+PARTY_0051	NPC_0051	Oliiav	Zarim	Fornalia	Curandeiro	11	35	1	monstros
+PARTY_0052	NPC_0052	Toras	Eshmara	Brumas	Arqueiro	12	38	2	cura
+PARTY_0053	NPC_0053	Ysaint	Tharun	Stone-Âmbar	Guerreiro	13	41	3	magia
+PARTY_0054	NPC_0054	Arethm	Lyrien	Aerocivitus	Batedor	14	44	4	exploração
+PARTY_0055	NPC_0055	Daian	Kethruun	Sandbones	Alquimista	15	47	5	defesa
+PARTY_0056	NPC_0056	Galak	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-5	monstros
+PARTY_0057	NPC_0057	Jonind	Myrthos	Sem nome definido	Aventureiro	17	53	-4	cura
+PARTY_0058	NPC_0058	Marethb	Orinthal	Crystalia	Mago	18	56	-3	magia
+PARTY_0059	NPC_0059	Reniath	Valkyrion	Volmeria	Curandeiro	19	59	-2	exploração
+PARTY_0060	NPC_0060	Vioaa	Aeloria	Rivenholt	Arqueiro	20	62	-1	defesa
+PARTY_0061	NPC_0061	Zaninl	Zarim	Fornalia	Guerreiro	1	5	0	monstros
+PARTY_0062	NPC_0062	Belethr	Eshmara	Brumas	Batedor	2	8	1	cura
+PARTY_0063	NPC_0063	Eliiav	Tharun	Stone-Âmbar	Alquimista	3	11	2	magia
+PARTY_0064	NPC_0064	Helas	Lyrien	Aerocivitus	Valaryn Cadete	4	14	3	exploração
+PARTY_0065	NPC_0065	Kaint	Kethruun	Sandbones	Aventureiro	5	17	4	defesa
+PARTY_0066	NPC_0066	Nerethm	Nyssara	Emerald Tide	Mago	6	20	5	monstros
+PARTY_0067	NPC_0067	Selian	Myrthos	Sem nome definido	Curandeiro	7	23	-5	cura
+PARTY_0068	NPC_0068	Wilak	Orinthal	Crystalia	Arqueiro	8	26	-4	magia
+PARTY_0069	NPC_0069	Alind	Valkyrion	Volmeria	Guerreiro	9	29	-3	exploração
+PARTY_0070	NPC_0070	Corethb	Aeloria	Loryndor	Batedor	10	32	-2	defesa
+PARTY_0071	NPC_0071	Feriath	Zarim	Fornalia	Alquimista	11	35	-1	monstros
+PARTY_0072	NPC_0072	Iriaa	Eshmara	Brumas	Valaryn Cadete	12	38	0	cura
+PARTY_0073	NPC_0073	Liainl	Tharun	Stone-Âmbar	Aventureiro	13	41	1	magia
+PARTY_0074	NPC_0074	Oliethr	Lyrien	Aerocivitus	Mago	14	44	2	exploração
+PARTY_0075	NPC_0075	Toriav	Kethruun	Sandbones	Curandeiro	15	47	3	defesa
+PARTY_0076	NPC_0076	Ysaas	Nyssara	Emerald Tide	Arqueiro	16	50	4	monstros
+PARTY_0077	NPC_0077	Arint	Myrthos	Sem nome definido	Guerreiro	17	53	5	cura
+PARTY_0078	NPC_0078	Daethm	Orinthal	Crystalia	Batedor	18	56	-5	magia
+PARTY_0079	NPC_0079	Galian	Valkyrion	Volmeria	Alquimista	19	59	-4	exploração
+PARTY_0080	NPC_0080	Jonak	Aeloria	Fenndral	Valaryn Cadete	20	62	-3	defesa
+PARTY_0081	NPC_0081	Marind	Zarim	Fornalia	Aventureiro	1	5	-2	monstros
+PARTY_0082	NPC_0082	Renethb	Eshmara	Brumas	Mago	2	8	-1	cura
+PARTY_0083	NPC_0083	Vioiath	Tharun	Stone-Âmbar	Curandeiro	3	11	0	magia
+PARTY_0084	NPC_0084	Zanaa	Lyrien	Aerocivitus	Arqueiro	4	14	1	exploração
+PARTY_0085	NPC_0085	Belinl	Kethruun	Sandbones	Guerreiro	5	17	2	defesa
+PARTY_0086	NPC_0086	Eliethr	Nyssara	Emerald Tide	Batedor	6	20	3	monstros
+PARTY_0087	NPC_0087	Heliav	Myrthos	Sem nome definido	Alquimista	7	23	4	cura
+PARTY_0088	NPC_0088	Kaas	Orinthal	Crystalia	Valaryn Cadete	8	26	5	magia
+PARTY_0089	NPC_0089	Nerint	Valkyrion	Volmeria	Aventureiro	9	29	-5	exploração
+PARTY_0090	NPC_0090	Selethm	Aeloria	Feyndral	Mago	10	32	-4	defesa
+PARTY_0091	NPC_0091	Wilian	Zarim	Fornalia	Curandeiro	11	35	-3	monstros
+PARTY_0092	NPC_0092	Alak	Eshmara	Brumas	Arqueiro	12	38	-2	cura
+PARTY_0093	NPC_0093	Corind	Tharun	Stone-Âmbar	Guerreiro	13	41	-1	magia
+PARTY_0094	NPC_0094	Ferethb	Lyrien	Aerocivitus	Batedor	14	44	0	exploração
+PARTY_0095	NPC_0095	Iriiath	Kethruun	Sandbones	Alquimista	15	47	1	defesa
+PARTY_0096	NPC_0096	Liaaa	Nyssara	Emerald Tide	Valaryn Cadete	16	50	2	monstros
+PARTY_0097	NPC_0097	Oliinl	Myrthos	Sem nome definido	Aventureiro	17	53	3	cura
+PARTY_0098	NPC_0098	Torethr	Orinthal	Crystalia	Mago	18	56	4	magia
+PARTY_0099	NPC_0099	Ysaiav	Valkyrion	Volmeria	Curandeiro	19	59	5	exploração
+PARTY_0100	NPC_0100	Aras	Aeloria	Zephyrholt	Arqueiro	20	62	-5	defesa
+PARTY_0101	NPC_0101	Daint	Zarim	Fornalia	Guerreiro	1	5	-4	monstros
+PARTY_0102	NPC_0102	Galethm	Eshmara	Brumas	Batedor	2	8	-3	cura
+PARTY_0103	NPC_0103	Jonian	Tharun	Stone-Âmbar	Alquimista	3	11	-2	magia
+PARTY_0104	NPC_0104	Marak	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-1	exploração
+PARTY_0105	NPC_0105	Renind	Kethruun	Sandbones	Aventureiro	5	17	0	defesa
+PARTY_0106	NPC_0106	Vioethb	Nyssara	Emerald Tide	Mago	6	20	1	monstros
+PARTY_0107	NPC_0107	Zaniath	Myrthos	Sem nome definido	Curandeiro	7	23	2	cura
+PARTY_0108	NPC_0108	Belaa	Orinthal	Crystalia	Arqueiro	8	26	3	magia
+PARTY_0109	NPC_0109	Eliinl	Valkyrion	Volmeria	Guerreiro	9	29	4	exploração
+PARTY_0110	NPC_0110	Helethr	Aeloria	Tindralith	Batedor	10	32	5	defesa
+PARTY_0111	NPC_0111	Kaiav	Zarim	Fornalia	Alquimista	11	35	-5	monstros
+PARTY_0112	NPC_0112	Neras	Eshmara	Brumas	Valaryn Cadete	12	38	-4	cura
+PARTY_0113	NPC_0113	Selint	Tharun	Stone-Âmbar	Aventureiro	13	41	-3	magia
+PARTY_0114	NPC_0114	Wilethm	Lyrien	Aerocivitus	Mago	14	44	-2	exploração
+PARTY_0115	NPC_0115	Alian	Kethruun	Sandbones	Curandeiro	15	47	-1	defesa
+PARTY_0116	NPC_0116	Corak	Nyssara	Emerald Tide	Arqueiro	16	50	0	monstros
+PARTY_0117	NPC_0117	Ferind	Myrthos	Sem nome definido	Guerreiro	17	53	1	cura
+PARTY_0118	NPC_0118	Iriethb	Orinthal	Crystalia	Batedor	18	56	2	magia
+PARTY_0119	NPC_0119	Liaiath	Valkyrion	Volmeria	Alquimista	19	59	3	exploração
+PARTY_0120	NPC_0120	Oliaa	Aeloria	Netherholt	Valaryn Cadete	20	62	4	defesa
+PARTY_0121	NPC_0121	Torinl	Zarim	Fornalia	Aventureiro	1	5	5	monstros
+PARTY_0122	NPC_0122	Ysaethr	Eshmara	Brumas	Mago	2	8	-5	cura
+PARTY_0123	NPC_0123	Ariav	Tharun	Stone-Âmbar	Curandeiro	3	11	-4	magia
+PARTY_0124	NPC_0124	Daas	Lyrien	Aerocivitus	Arqueiro	4	14	-3	exploração
+PARTY_0125	NPC_0125	Galint	Kethruun	Sandbones	Guerreiro	5	17	-2	defesa
+PARTY_0126	NPC_0126	Jonethm	Nyssara	Emerald Tide	Batedor	6	20	-1	monstros
+PARTY_0127	NPC_0127	Marian	Myrthos	Sem nome definido	Alquimista	7	23	0	cura
+PARTY_0128	NPC_0128	Renak	Orinthal	Crystalia	Valaryn Cadete	8	26	1	magia
+PARTY_0129	NPC_0129	Vioind	Valkyrion	Volmeria	Aventureiro	9	29	2	exploração
+PARTY_0130	NPC_0130	Zanethb	Aeloria	Highspire	Mago	10	32	3	defesa
+PARTY_0131	NPC_0131	Beliath	Zarim	Fornalia	Curandeiro	11	35	4	monstros
+PARTY_0132	NPC_0132	Eliaa	Eshmara	Brumas	Arqueiro	12	38	5	cura
+PARTY_0133	NPC_0133	Helinl	Tharun	Stone-Âmbar	Guerreiro	13	41	-5	magia
+PARTY_0134	NPC_0134	Kaethr	Lyrien	Aerocivitus	Batedor	14	44	-4	exploração
+PARTY_0135	NPC_0135	Neriav	Kethruun	Sandbones	Alquimista	15	47	-3	defesa
+PARTY_0136	NPC_0136	Selas	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-2	monstros
+PARTY_0137	NPC_0137	Wilint	Myrthos	Sem nome definido	Aventureiro	17	53	-1	cura
+PARTY_0138	NPC_0138	Alethm	Orinthal	Crystalia	Mago	18	56	0	magia
+PARTY_0139	NPC_0139	Corian	Valkyrion	Volmeria	Curandeiro	19	59	1	exploração
+PARTY_0140	NPC_0140	Ferak	Aeloria	Blackmere	Arqueiro	20	62	2	defesa
+PARTY_0141	NPC_0141	Iriind	Zarim	Fornalia	Guerreiro	1	5	3	monstros
+PARTY_0142	NPC_0142	Liaethb	Eshmara	Brumas	Batedor	2	8	4	cura
+PARTY_0143	NPC_0143	Oliiath	Tharun	Stone-Âmbar	Alquimista	3	11	5	magia
+PARTY_0144	NPC_0144	Toraa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-5	exploração
+PARTY_0145	NPC_0145	Ysainl	Kethruun	Sandbones	Aventureiro	5	17	-4	defesa
+PARTY_0146	NPC_0146	Arethr	Nyssara	Emerald Tide	Mago	6	20	-3	monstros
+PARTY_0147	NPC_0147	Daiav	Myrthos	Sem nome definido	Curandeiro	7	23	-2	cura
+PARTY_0148	NPC_0148	Galas	Orinthal	Crystalia	Arqueiro	8	26	-1	magia
+PARTY_0149	NPC_0149	Jonint	Valkyrion	Volmeria	Guerreiro	9	29	0	exploração
+PARTY_0150	NPC_0150	Marethm	Aeloria	Veyndaril	Batedor	10	32	1	defesa
+PARTY_0151	NPC_0151	Renian	Zarim	Fornalia	Alquimista	11	35	2	monstros
+PARTY_0152	NPC_0152	Vioak	Eshmara	Brumas	Valaryn Cadete	12	38	3	cura
+PARTY_0153	NPC_0153	Zanind	Tharun	Stone-Âmbar	Aventureiro	13	41	4	magia
+PARTY_0154	NPC_0154	Belethb	Lyrien	Aerocivitus	Mago	14	44	5	exploração
+PARTY_0155	NPC_0155	Eliiath	Kethruun	Sandbones	Curandeiro	15	47	-5	defesa
+PARTY_0156	NPC_0156	Helaa	Nyssara	Emerald Tide	Arqueiro	16	50	-4	monstros
+PARTY_0157	NPC_0157	Kainl	Myrthos	Sem nome definido	Guerreiro	17	53	-3	cura
+PARTY_0158	NPC_0158	Nerethr	Orinthal	Crystalia	Batedor	18	56	-2	magia
+PARTY_0159	NPC_0159	Seliav	Valkyrion	Volmeria	Alquimista	19	59	-1	exploração
+PARTY_0160	NPC_0160	Wilas	Aeloria	Pyrelith	Valaryn Cadete	20	62	0	defesa
+PARTY_0161	NPC_0161	Alint	Zarim	Fornalia	Aventureiro	1	5	1	monstros
+PARTY_0162	NPC_0162	Corethm	Eshmara	Brumas	Mago	2	8	2	cura
+PARTY_0163	NPC_0163	Ferian	Tharun	Stone-Âmbar	Curandeiro	3	11	3	magia
+PARTY_0164	NPC_0164	Iriak	Lyrien	Aerocivitus	Arqueiro	4	14	4	exploração
+PARTY_0165	NPC_0165	Liaind	Kethruun	Sandbones	Guerreiro	5	17	5	defesa
+PARTY_0166	NPC_0166	Oliethb	Nyssara	Emerald Tide	Batedor	6	20	-5	monstros
+PARTY_0167	NPC_0167	Toriath	Myrthos	Sem nome definido	Alquimista	7	23	-4	cura
+PARTY_0168	NPC_0168	Ysaaa	Orinthal	Crystalia	Valaryn Cadete	8	26	-3	magia
+PARTY_0169	NPC_0169	Arinl	Valkyrion	Volmeria	Aventureiro	9	29	-2	exploração
+PARTY_0170	NPC_0170	Daethr	Aeloria	Jorathen	Mago	10	32	-1	defesa
+PARTY_0171	NPC_0171	Galiav	Zarim	Fornalia	Curandeiro	11	35	0	monstros
+PARTY_0172	NPC_0172	Jonas	Eshmara	Brumas	Arqueiro	12	38	1	cura
+PARTY_0173	NPC_0173	Marint	Tharun	Stone-Âmbar	Guerreiro	13	41	2	magia
+PARTY_0174	NPC_0174	Renethm	Lyrien	Aerocivitus	Batedor	14	44	3	exploração
+PARTY_0175	NPC_0175	Vioian	Kethruun	Sandbones	Alquimista	15	47	4	defesa
+PARTY_0176	NPC_0176	Zanak	Nyssara	Emerald Tide	Valaryn Cadete	16	50	5	monstros
+PARTY_0177	NPC_0177	Belind	Myrthos	Sem nome definido	Aventureiro	17	53	-5	cura
+PARTY_0178	NPC_0178	Eliethb	Orinthal	Crystalia	Mago	18	56	-4	magia
+PARTY_0179	NPC_0179	Heliath	Valkyrion	Volmeria	Curandeiro	19	59	-3	exploração
+PARTY_0180	NPC_0180	Kaaa	Aeloria	Duskmere	Arqueiro	20	62	-2	defesa
+PARTY_0181	NPC_0181	Nerinl	Zarim	Fornalia	Guerreiro	1	5	-1	monstros
+PARTY_0182	NPC_0182	Selethr	Eshmara	Brumas	Batedor	2	8	0	cura
+PARTY_0183	NPC_0183	Wiliav	Tharun	Stone-Âmbar	Alquimista	3	11	1	magia
+PARTY_0184	NPC_0184	Alas	Lyrien	Aerocivitus	Valaryn Cadete	4	14	2	exploração
+PARTY_0185	NPC_0185	Corint	Kethruun	Sandbones	Aventureiro	5	17	3	defesa
+PARTY_0186	NPC_0186	Ferethm	Nyssara	Emerald Tide	Mago	6	20	4	monstros
+PARTY_0187	NPC_0187	Iriian	Myrthos	Sem nome definido	Curandeiro	7	23	5	cura
+PARTY_0188	NPC_0188	Liaak	Orinthal	Crystalia	Arqueiro	8	26	-5	magia
+PARTY_0189	NPC_0189	Oliind	Valkyrion	Volmeria	Guerreiro	9	29	-4	exploração
+PARTY_0190	NPC_0190	Torethb	Aeloria	Lunareth	Batedor	10	32	-3	defesa
+PARTY_0191	NPC_0191	Ysaiath	Zarim	Fornalia	Alquimista	11	35	-2	monstros
+PARTY_0192	NPC_0192	Araa	Eshmara	Brumas	Valaryn Cadete	12	38	-1	cura
+PARTY_0193	NPC_0193	Dainl	Tharun	Stone-Âmbar	Aventureiro	13	41	0	magia
+PARTY_0194	NPC_0194	Galethr	Lyrien	Aerocivitus	Mago	14	44	1	exploração
+PARTY_0195	NPC_0195	Joniav	Kethruun	Sandbones	Curandeiro	15	47	2	defesa
+PARTY_0196	NPC_0196	Maras	Nyssara	Emerald Tide	Arqueiro	16	50	3	monstros
+PARTY_0197	NPC_0197	Renint	Myrthos	Sem nome definido	Guerreiro	17	53	4	cura
+PARTY_0198	NPC_0198	Vioethm	Orinthal	Crystalia	Batedor	18	56	5	magia
+PARTY_0199	NPC_0199	Zanian	Valkyrion	Volmeria	Alquimista	19	59	-5	exploração
+PARTY_0200	NPC_0200	Belak	Aeloria	Xyrelith	Valaryn Cadete	20	62	-4	defesa
+PARTY_0201	NPC_0201	Eliind	Zarim	Fornalia	Aventureiro	1	5	-3	monstros
+PARTY_0202	NPC_0202	Helethb	Eshmara	Brumas	Mago	2	8	-2	cura
+PARTY_0203	NPC_0203	Kaiath	Tharun	Stone-Âmbar	Curandeiro	3	11	-1	magia
+PARTY_0204	NPC_0204	Neraa	Lyrien	Aerocivitus	Arqueiro	4	14	0	exploração
+PARTY_0205	NPC_0205	Selinl	Kethruun	Sandbones	Guerreiro	5	17	1	defesa
+PARTY_0206	NPC_0206	Wilethr	Nyssara	Emerald Tide	Batedor	6	20	2	monstros
+PARTY_0207	NPC_0207	Aliav	Myrthos	Sem nome definido	Alquimista	7	23	3	cura
+PARTY_0208	NPC_0208	Coras	Orinthal	Crystalia	Valaryn Cadete	8	26	4	magia
+PARTY_0209	NPC_0209	Ferint	Valkyrion	Volmeria	Aventureiro	9	29	5	exploração
+PARTY_0210	NPC_0210	Iriethm	Aeloria	Runedral	Mago	10	32	-5	defesa
+PARTY_0211	NPC_0211	Liaian	Zarim	Fornalia	Curandeiro	11	35	-4	monstros
+PARTY_0212	NPC_0212	Oliak	Eshmara	Brumas	Arqueiro	12	38	-3	cura
+PARTY_0213	NPC_0213	Torind	Tharun	Stone-Âmbar	Guerreiro	13	41	-2	magia
+PARTY_0214	NPC_0214	Ysaethb	Lyrien	Aerocivitus	Batedor	14	44	-1	exploração
+PARTY_0215	NPC_0215	Ariath	Kethruun	Sandbones	Alquimista	15	47	0	defesa
+PARTY_0216	NPC_0216	Daaa	Nyssara	Emerald Tide	Valaryn Cadete	16	50	1	monstros
+PARTY_0217	NPC_0217	Galinl	Myrthos	Sem nome definido	Aventureiro	17	53	2	cura
+PARTY_0218	NPC_0218	Jonethr	Orinthal	Crystalia	Mago	18	56	3	magia
+PARTY_0219	NPC_0219	Mariav	Valkyrion	Volmeria	Curandeiro	19	59	4	exploração
+PARTY_0220	NPC_0220	Renas	Aeloria	Lorwynne	Arqueiro	20	62	5	defesa
+PARTY_0221	NPC_0221	Vioint	Zarim	Fornalia	Guerreiro	1	5	-5	monstros
+PARTY_0222	NPC_0222	Zanethm	Eshmara	Brumas	Batedor	2	8	-4	cura
+PARTY_0223	NPC_0223	Belian	Tharun	Stone-Âmbar	Alquimista	3	11	-3	magia
+PARTY_0224	NPC_0224	Eliak	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-2	exploração
+PARTY_0225	NPC_0225	Helind	Kethruun	Sandbones	Aventureiro	5	17	-1	defesa
+PARTY_0226	NPC_0226	Kaethb	Nyssara	Emerald Tide	Mago	6	20	0	monstros
+PARTY_0227	NPC_0227	Neriath	Myrthos	Sem nome definido	Curandeiro	7	23	1	cura
+PARTY_0228	NPC_0228	Selaa	Orinthal	Crystalia	Arqueiro	8	26	2	magia
+PARTY_0229	NPC_0229	Wilinl	Valkyrion	Volmeria	Guerreiro	9	29	3	exploração
+PARTY_0230	NPC_0230	Alethr	Aeloria	Frostmere	Batedor	10	32	4	defesa
+PARTY_0231	NPC_0231	Coriav	Zarim	Fornalia	Alquimista	11	35	5	monstros
+PARTY_0232	NPC_0232	Feras	Eshmara	Brumas	Valaryn Cadete	12	38	-5	cura
+PARTY_0233	NPC_0233	Iriint	Tharun	Stone-Âmbar	Aventureiro	13	41	-4	magia
+PARTY_0234	NPC_0234	Liaethm	Lyrien	Aerocivitus	Mago	14	44	-3	exploração
+PARTY_0235	NPC_0235	Oliian	Kethruun	Sandbones	Curandeiro	15	47	-2	defesa
+PARTY_0236	NPC_0236	Torak	Nyssara	Emerald Tide	Arqueiro	16	50	-1	monstros
+PARTY_0237	NPC_0237	Ysaind	Myrthos	Sem nome definido	Guerreiro	17	53	0	cura
+PARTY_0238	NPC_0238	Arethb	Orinthal	Crystalia	Batedor	18	56	1	magia
+PARTY_0239	NPC_0239	Daiath	Valkyrion	Volmeria	Alquimista	19	59	2	exploração
+PARTY_0240	NPC_0240	Galaa	Aeloria	Zorathen	Valaryn Cadete	20	62	3	defesa
+PARTY_0241	NPC_0241	Joninl	Zarim	Fornalia	Aventureiro	1	5	4	monstros
+PARTY_0242	NPC_0242	Marethr	Eshmara	Brumas	Mago	2	8	5	cura
+PARTY_0243	NPC_0243	Reniav	Tharun	Stone-Âmbar	Curandeiro	3	11	-5	magia
+PARTY_0244	NPC_0244	Vioas	Lyrien	Aerocivitus	Arqueiro	4	14	-4	exploração
+PARTY_0245	NPC_0245	Zanint	Kethruun	Sandbones	Guerreiro	5	17	-3	defesa
+PARTY_0246	NPC_0246	Belethm	Nyssara	Emerald Tide	Batedor	6	20	-2	monstros
+PARTY_0247	NPC_0247	Eliian	Myrthos	Sem nome definido	Alquimista	7	23	-1	cura
+PARTY_0248	NPC_0248	Helak	Orinthal	Crystalia	Valaryn Cadete	8	26	0	magia
+PARTY_0249	NPC_0249	Kaind	Valkyrion	Volmeria	Aventureiro	9	29	1	exploração
+PARTY_0250	NPC_0250	Nerethb	Aeloria	Thornmere	Mago	10	32	2	defesa
+PARTY_0251	NPC_0251	Seliath	Zarim	Fornalia	Curandeiro	11	35	3	monstros
+PARTY_0252	NPC_0252	Wilaa	Eshmara	Brumas	Arqueiro	12	38	4	cura
+PARTY_0253	NPC_0253	Alinl	Tharun	Stone-Âmbar	Guerreiro	13	41	5	magia
+PARTY_0254	NPC_0254	Corethr	Lyrien	Aerocivitus	Batedor	14	44	-5	exploração
+PARTY_0255	NPC_0255	Feriav	Kethruun	Sandbones	Alquimista	15	47	-4	defesa
+PARTY_0256	NPC_0256	Irias	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-3	monstros
+PARTY_0257	NPC_0257	Liaint	Myrthos	Sem nome definido	Aventureiro	17	53	-2	cura
+PARTY_0258	NPC_0258	Oliethm	Orinthal	Crystalia	Mago	18	56	-1	magia
+PARTY_0259	NPC_0259	Torian	Valkyrion	Volmeria	Curandeiro	19	59	0	exploração
+PARTY_0260	NPC_0260	Ysaak	Aeloria	Norhaven	Arqueiro	20	62	1	defesa
+PARTY_0261	NPC_0261	Arind	Zarim	Fornalia	Guerreiro	1	5	2	monstros
+PARTY_0262	NPC_0262	Daethb	Eshmara	Brumas	Batedor	2	8	3	cura
+PARTY_0263	NPC_0263	Galiath	Tharun	Stone-Âmbar	Alquimista	3	11	4	magia
+PARTY_0264	NPC_0264	Jonaa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	5	exploração
+PARTY_0265	NPC_0265	Marinl	Kethruun	Sandbones	Aventureiro	5	17	-5	defesa
+PARTY_0266	NPC_0266	Renethr	Nyssara	Emerald Tide	Mago	6	20	-4	monstros
+PARTY_0267	NPC_0267	Vioiav	Myrthos	Sem nome definido	Curandeiro	7	23	-3	cura
+PARTY_0268	NPC_0268	Zanas	Orinthal	Crystalia	Arqueiro	8	26	-2	magia
+PARTY_0269	NPC_0269	Belint	Valkyrion	Volmeria	Guerreiro	9	29	-1	exploração
+PARTY_0270	NPC_0270	Eliethm	Aeloria	Hallowspire	Batedor	10	32	0	defesa
+PARTY_0271	NPC_0271	Helian	Zarim	Fornalia	Alquimista	11	35	1	monstros
+PARTY_0272	NPC_0272	Kaak	Eshmara	Brumas	Valaryn Cadete	12	38	2	cura
+PARTY_0273	NPC_0273	Nerind	Tharun	Stone-Âmbar	Aventureiro	13	41	3	magia
+PARTY_0274	NPC_0274	Selethb	Lyrien	Aerocivitus	Mago	14	44	4	exploração
+PARTY_0275	NPC_0275	Wiliath	Kethruun	Sandbones	Curandeiro	15	47	5	defesa
+PARTY_0276	NPC_0276	Alaa	Nyssara	Emerald Tide	Arqueiro	16	50	-5	monstros
+PARTY_0277	NPC_0277	Corinl	Myrthos	Sem nome definido	Guerreiro	17	53	-4	cura
+PARTY_0278	NPC_0278	Ferethr	Orinthal	Crystalia	Batedor	18	56	-3	magia
+PARTY_0279	NPC_0279	Iriiav	Valkyrion	Volmeria	Alquimista	19	59	-2	exploração
+PARTY_0280	NPC_0280	Liaas	Aeloria	Brighthollow	Valaryn Cadete	20	62	-1	defesa
+PARTY_0281	NPC_0281	Oliint	Zarim	Fornalia	Aventureiro	1	5	0	monstros
+PARTY_0282	NPC_0282	Torethm	Eshmara	Brumas	Mago	2	8	1	cura
+PARTY_0283	NPC_0283	Ysaian	Tharun	Stone-Âmbar	Curandeiro	3	11	2	magia
+PARTY_0284	NPC_0284	Arak	Lyrien	Aerocivitus	Arqueiro	4	14	3	exploração
+PARTY_0285	NPC_0285	Daind	Kethruun	Sandbones	Guerreiro	5	17	4	defesa
+PARTY_0286	NPC_0286	Galethb	Nyssara	Emerald Tide	Batedor	6	20	5	monstros
+PARTY_0287	NPC_0287	Joniath	Myrthos	Sem nome definido	Alquimista	7	23	-5	cura
+PARTY_0288	NPC_0288	Maraa	Orinthal	Crystalia	Valaryn Cadete	8	26	-4	magia
+PARTY_0289	NPC_0289	Reninl	Valkyrion	Volmeria	Aventureiro	9	29	-3	exploração
+PARTY_0290	NPC_0290	Vioethr	Aeloria	Valdora	Mago	10	32	-2	defesa
+PARTY_0291	NPC_0291	Zaniav	Zarim	Fornalia	Curandeiro	11	35	-1	monstros
+PARTY_0292	NPC_0292	Belas	Eshmara	Brumas	Arqueiro	12	38	0	cura
+PARTY_0293	NPC_0293	Eliint	Tharun	Stone-Âmbar	Guerreiro	13	41	1	magia
+PARTY_0294	NPC_0294	Helethm	Lyrien	Aerocivitus	Batedor	14	44	2	exploração
+PARTY_0295	NPC_0295	Kaian	Kethruun	Sandbones	Alquimista	15	47	3	defesa
+PARTY_0296	NPC_0296	Nerak	Nyssara	Emerald Tide	Valaryn Cadete	16	50	4	monstros
+PARTY_0297	NPC_0297	Selind	Myrthos	Sem nome definido	Aventureiro	17	53	5	cura
+PARTY_0298	NPC_0298	Wilethb	Orinthal	Crystalia	Mago	18	56	-5	magia
+PARTY_0299	NPC_0299	Aliath	Valkyrion	Volmeria	Curandeiro	19	59	-4	exploração
+PARTY_0300	NPC_0300	Coraa	Aeloria	Verdralith	Arqueiro	20	62	-3	defesa
+PARTY_0301	NPC_0301	Ferinl	Zarim	Fornalia	Guerreiro	1	5	-2	monstros
+PARTY_0302	NPC_0302	Iriethr	Eshmara	Brumas	Batedor	2	8	-1	cura
+PARTY_0303	NPC_0303	Liaiav	Tharun	Stone-Âmbar	Alquimista	3	11	0	magia
+PARTY_0304	NPC_0304	Olias	Lyrien	Aerocivitus	Valaryn Cadete	4	14	1	exploração
+PARTY_0305	NPC_0305	Torint	Kethruun	Sandbones	Aventureiro	5	17	2	defesa
+PARTY_0306	NPC_0306	Ysaethm	Nyssara	Emerald Tide	Mago	6	20	3	monstros
+PARTY_0307	NPC_0307	Arian	Myrthos	Sem nome definido	Curandeiro	7	23	4	cura
+PARTY_0308	NPC_0308	Daak	Orinthal	Crystalia	Arqueiro	8	26	5	magia
+PARTY_0309	NPC_0309	Galind	Valkyrion	Volmeria	Guerreiro	9	29	-5	exploração
+PARTY_0310	NPC_0310	Jonethb	Aeloria	Prismere	Batedor	10	32	-4	defesa
+PARTY_0311	NPC_0311	Mariath	Zarim	Fornalia	Alquimista	11	35	-3	monstros
+PARTY_0312	NPC_0312	Renaa	Eshmara	Brumas	Valaryn Cadete	12	38	-2	cura
+PARTY_0313	NPC_0313	Vioinl	Tharun	Stone-Âmbar	Aventureiro	13	41	-1	magia
+PARTY_0314	NPC_0314	Zanethr	Lyrien	Aerocivitus	Mago	14	44	0	exploração
+PARTY_0315	NPC_0315	Beliav	Kethruun	Sandbones	Curandeiro	15	47	1	defesa
+PARTY_0316	NPC_0316	Elias	Nyssara	Emerald Tide	Arqueiro	16	50	2	monstros
+PARTY_0317	NPC_0317	Helint	Myrthos	Sem nome definido	Guerreiro	17	53	3	cura
+PARTY_0318	NPC_0318	Kaethm	Orinthal	Crystalia	Batedor	18	56	4	magia
+PARTY_0319	NPC_0319	Nerian	Valkyrion	Volmeria	Alquimista	19	59	5	exploração
+PARTY_0320	NPC_0320	Selak	Aeloria	Jorwyn	Valaryn Cadete	20	62	-5	defesa
+PARTY_0321	NPC_0321	Wilind	Zarim	Fornalia	Aventureiro	1	5	-4	monstros
+PARTY_0322	NPC_0322	Alethb	Eshmara	Brumas	Mago	2	8	-3	cura
+PARTY_0323	NPC_0323	Coriath	Tharun	Stone-Âmbar	Curandeiro	3	11	-2	magia
+PARTY_0324	NPC_0324	Feraa	Lyrien	Aerocivitus	Arqueiro	4	14	-1	exploração
+PARTY_0325	NPC_0325	Iriinl	Kethruun	Sandbones	Guerreiro	5	17	0	defesa
+PARTY_0326	NPC_0326	Liaethr	Nyssara	Emerald Tide	Batedor	6	20	1	monstros
+PARTY_0327	NPC_0327	Oliiav	Myrthos	Sem nome definido	Alquimista	7	23	2	cura
+PARTY_0328	NPC_0328	Toras	Orinthal	Crystalia	Valaryn Cadete	8	26	3	magia
+PARTY_0329	NPC_0329	Ysaint	Valkyrion	Volmeria	Aventureiro	9	29	4	exploração
+PARTY_0330	NPC_0330	Arethm	Aeloria	Dawnspire	Mago	10	32	5	defesa
+PARTY_0331	NPC_0331	Daian	Zarim	Fornalia	Curandeiro	11	35	-5	monstros
+PARTY_0332	NPC_0332	Galak	Eshmara	Brumas	Arqueiro	12	38	-4	cura
+PARTY_0333	NPC_0333	Jonind	Tharun	Stone-Âmbar	Guerreiro	13	41	-3	magia
+PARTY_0334	NPC_0334	Marethb	Lyrien	Aerocivitus	Batedor	14	44	-2	exploração
+PARTY_0335	NPC_0335	Reniath	Kethruun	Sandbones	Alquimista	15	47	-1	defesa
+PARTY_0336	NPC_0336	Vioaa	Nyssara	Emerald Tide	Valaryn Cadete	16	50	0	monstros
+PARTY_0337	NPC_0337	Zaninl	Myrthos	Sem nome definido	Aventureiro	17	53	1	cura
+PARTY_0338	NPC_0338	Belethr	Orinthal	Crystalia	Mago	18	56	2	magia
+PARTY_0339	NPC_0339	Eliiav	Valkyrion	Volmeria	Curandeiro	19	59	3	exploração
+PARTY_0340	NPC_0340	Helas	Aeloria	Xandralor	Arqueiro	20	62	4	defesa
+PARTY_0341	NPC_0341	Kaint	Zarim	Fornalia	Guerreiro	1	5	5	monstros
+PARTY_0342	NPC_0342	Nerethm	Eshmara	Brumas	Batedor	2	8	-5	cura
+PARTY_0343	NPC_0343	Selian	Tharun	Stone-Âmbar	Alquimista	3	11	-4	magia
+PARTY_0344	NPC_0344	Wilak	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-3	exploração
+PARTY_0345	NPC_0345	Alind	Kethruun	Sandbones	Aventureiro	5	17	-2	defesa
+PARTY_0346	NPC_0346	Corethb	Nyssara	Emerald Tide	Mago	6	20	-1	monstros
+PARTY_0347	NPC_0347	Feriath	Myrthos	Sem nome definido	Curandeiro	7	23	0	cura
+PARTY_0348	NPC_0348	Iriaa	Orinthal	Crystalia	Arqueiro	8	26	1	magia
+PARTY_0349	NPC_0349	Liainl	Valkyrion	Volmeria	Guerreiro	9	29	2	exploração
+PARTY_0350	NPC_0350	Oliethr	Aeloria	Rivenholt	Batedor	10	32	3	defesa
+PARTY_0351	NPC_0351	Toriav	Zarim	Fornalia	Alquimista	11	35	4	monstros
+PARTY_0352	NPC_0352	Ysaas	Eshmara	Brumas	Valaryn Cadete	12	38	5	cura
+PARTY_0353	NPC_0353	Arint	Tharun	Stone-Âmbar	Aventureiro	13	41	-5	magia
+PARTY_0354	NPC_0354	Daethm	Lyrien	Aerocivitus	Mago	14	44	-4	exploração
+PARTY_0355	NPC_0355	Galian	Kethruun	Sandbones	Curandeiro	15	47	-3	defesa
+PARTY_0356	NPC_0356	Jonak	Nyssara	Emerald Tide	Arqueiro	16	50	-2	monstros
+PARTY_0357	NPC_0357	Marind	Myrthos	Sem nome definido	Guerreiro	17	53	-1	cura
+PARTY_0358	NPC_0358	Renethb	Orinthal	Crystalia	Batedor	18	56	0	magia
+PARTY_0359	NPC_0359	Vioiath	Valkyrion	Volmeria	Alquimista	19	59	1	exploração
+PARTY_0360	NPC_0360	Zanaa	Aeloria	Loryndor	Valaryn Cadete	20	62	2	defesa
+PARTY_0361	NPC_0361	Belinl	Zarim	Fornalia	Aventureiro	1	5	3	monstros
+PARTY_0362	NPC_0362	Eliethr	Eshmara	Brumas	Mago	2	8	4	cura
+PARTY_0363	NPC_0363	Heliav	Tharun	Stone-Âmbar	Curandeiro	3	11	5	magia
+PARTY_0364	NPC_0364	Kaas	Lyrien	Aerocivitus	Arqueiro	4	14	-5	exploração
+PARTY_0365	NPC_0365	Nerint	Kethruun	Sandbones	Guerreiro	5	17	-4	defesa
+PARTY_0366	NPC_0366	Selethm	Nyssara	Emerald Tide	Batedor	6	20	-3	monstros
+PARTY_0367	NPC_0367	Wilian	Myrthos	Sem nome definido	Alquimista	7	23	-2	cura
+PARTY_0368	NPC_0368	Alak	Orinthal	Crystalia	Valaryn Cadete	8	26	-1	magia
+PARTY_0369	NPC_0369	Corind	Valkyrion	Volmeria	Aventureiro	9	29	0	exploração
+PARTY_0370	NPC_0370	Ferethb	Aeloria	Fenndral	Mago	10	32	1	defesa
+PARTY_0371	NPC_0371	Iriiath	Zarim	Fornalia	Curandeiro	11	35	2	monstros
+PARTY_0372	NPC_0372	Liaaa	Eshmara	Brumas	Arqueiro	12	38	3	cura
+PARTY_0373	NPC_0373	Oliinl	Tharun	Stone-Âmbar	Guerreiro	13	41	4	magia
+PARTY_0374	NPC_0374	Torethr	Lyrien	Aerocivitus	Batedor	14	44	5	exploração
+PARTY_0375	NPC_0375	Ysaiav	Kethruun	Sandbones	Alquimista	15	47	-5	defesa
+PARTY_0376	NPC_0376	Aras	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-4	monstros
+PARTY_0377	NPC_0377	Daint	Myrthos	Sem nome definido	Aventureiro	17	53	-3	cura
+PARTY_0378	NPC_0378	Galethm	Orinthal	Crystalia	Mago	18	56	-2	magia
+PARTY_0379	NPC_0379	Jonian	Valkyrion	Volmeria	Curandeiro	19	59	-1	exploração
+PARTY_0380	NPC_0380	Marak	Aeloria	Feyndral	Arqueiro	20	62	0	defesa
+PARTY_0381	NPC_0381	Renind	Zarim	Fornalia	Guerreiro	1	5	1	monstros
+PARTY_0382	NPC_0382	Vioethb	Eshmara	Brumas	Batedor	2	8	2	cura
+PARTY_0383	NPC_0383	Zaniath	Tharun	Stone-Âmbar	Alquimista	3	11	3	magia
+PARTY_0384	NPC_0384	Belaa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	4	exploração
+PARTY_0385	NPC_0385	Eliinl	Kethruun	Sandbones	Aventureiro	5	17	5	defesa
+PARTY_0386	NPC_0386	Helethr	Nyssara	Emerald Tide	Mago	6	20	-5	monstros
+PARTY_0387	NPC_0387	Kaiav	Myrthos	Sem nome definido	Curandeiro	7	23	-4	cura
+PARTY_0388	NPC_0388	Neras	Orinthal	Crystalia	Arqueiro	8	26	-3	magia
+PARTY_0389	NPC_0389	Selint	Valkyrion	Volmeria	Guerreiro	9	29	-2	exploração
+PARTY_0390	NPC_0390	Wilethm	Aeloria	Zephyrholt	Batedor	10	32	-1	defesa
+PARTY_0391	NPC_0391	Alian	Zarim	Fornalia	Alquimista	11	35	0	monstros
+PARTY_0392	NPC_0392	Corak	Eshmara	Brumas	Valaryn Cadete	12	38	1	cura
+PARTY_0393	NPC_0393	Ferind	Tharun	Stone-Âmbar	Aventureiro	13	41	2	magia
+PARTY_0394	NPC_0394	Iriethb	Lyrien	Aerocivitus	Mago	14	44	3	exploração
+PARTY_0395	NPC_0395	Liaiath	Kethruun	Sandbones	Curandeiro	15	47	4	defesa
+PARTY_0396	NPC_0396	Oliaa	Nyssara	Emerald Tide	Arqueiro	16	50	5	monstros
+PARTY_0397	NPC_0397	Torinl	Myrthos	Sem nome definido	Guerreiro	17	53	-5	cura
+PARTY_0398	NPC_0398	Ysaethr	Orinthal	Crystalia	Batedor	18	56	-4	magia
+PARTY_0399	NPC_0399	Ariav	Valkyrion	Volmeria	Alquimista	19	59	-3	exploração
+PARTY_0400	NPC_0400	Daas	Aeloria	Tindralith	Valaryn Cadete	20	62	-2	defesa
+PARTY_0401	NPC_0401	Galint	Zarim	Fornalia	Aventureiro	1	5	-1	monstros
+PARTY_0402	NPC_0402	Jonethm	Eshmara	Brumas	Mago	2	8	0	cura
+PARTY_0403	NPC_0403	Marian	Tharun	Stone-Âmbar	Curandeiro	3	11	1	magia
+PARTY_0404	NPC_0404	Renak	Lyrien	Aerocivitus	Arqueiro	4	14	2	exploração
+PARTY_0405	NPC_0405	Vioind	Kethruun	Sandbones	Guerreiro	5	17	3	defesa
+PARTY_0406	NPC_0406	Zanethb	Nyssara	Emerald Tide	Batedor	6	20	4	monstros
+PARTY_0407	NPC_0407	Beliath	Myrthos	Sem nome definido	Alquimista	7	23	5	cura
+PARTY_0408	NPC_0408	Eliaa	Orinthal	Crystalia	Valaryn Cadete	8	26	-5	magia
+PARTY_0409	NPC_0409	Helinl	Valkyrion	Volmeria	Aventureiro	9	29	-4	exploração
+PARTY_0410	NPC_0410	Kaethr	Aeloria	Netherholt	Mago	10	32	-3	defesa
+PARTY_0411	NPC_0411	Neriav	Zarim	Fornalia	Curandeiro	11	35	-2	monstros
+PARTY_0412	NPC_0412	Selas	Eshmara	Brumas	Arqueiro	12	38	-1	cura
+PARTY_0413	NPC_0413	Wilint	Tharun	Stone-Âmbar	Guerreiro	13	41	0	magia
+PARTY_0414	NPC_0414	Alethm	Lyrien	Aerocivitus	Batedor	14	44	1	exploração
+PARTY_0415	NPC_0415	Corian	Kethruun	Sandbones	Alquimista	15	47	2	defesa
+PARTY_0416	NPC_0416	Ferak	Nyssara	Emerald Tide	Valaryn Cadete	16	50	3	monstros
+PARTY_0417	NPC_0417	Iriind	Myrthos	Sem nome definido	Aventureiro	17	53	4	cura
+PARTY_0418	NPC_0418	Liaethb	Orinthal	Crystalia	Mago	18	56	5	magia
+PARTY_0419	NPC_0419	Oliiath	Valkyrion	Volmeria	Curandeiro	19	59	-5	exploração
+PARTY_0420	NPC_0420	Toraa	Aeloria	Highspire	Arqueiro	20	62	-4	defesa
+PARTY_0421	NPC_0421	Ysainl	Zarim	Fornalia	Guerreiro	1	5	-3	monstros
+PARTY_0422	NPC_0422	Arethr	Eshmara	Brumas	Batedor	2	8	-2	cura
+PARTY_0423	NPC_0423	Daiav	Tharun	Stone-Âmbar	Alquimista	3	11	-1	magia
+PARTY_0424	NPC_0424	Galas	Lyrien	Aerocivitus	Valaryn Cadete	4	14	0	exploração
+PARTY_0425	NPC_0425	Jonint	Kethruun	Sandbones	Aventureiro	5	17	1	defesa
+PARTY_0426	NPC_0426	Marethm	Nyssara	Emerald Tide	Mago	6	20	2	monstros
+PARTY_0427	NPC_0427	Renian	Myrthos	Sem nome definido	Curandeiro	7	23	3	cura
+PARTY_0428	NPC_0428	Vioak	Orinthal	Crystalia	Arqueiro	8	26	4	magia
+PARTY_0429	NPC_0429	Zanind	Valkyrion	Volmeria	Guerreiro	9	29	5	exploração
+PARTY_0430	NPC_0430	Belethb	Aeloria	Blackmere	Batedor	10	32	-5	defesa
+PARTY_0431	NPC_0431	Eliiath	Zarim	Fornalia	Alquimista	11	35	-4	monstros
+PARTY_0432	NPC_0432	Helaa	Eshmara	Brumas	Valaryn Cadete	12	38	-3	cura
+PARTY_0433	NPC_0433	Kainl	Tharun	Stone-Âmbar	Aventureiro	13	41	-2	magia
+PARTY_0434	NPC_0434	Nerethr	Lyrien	Aerocivitus	Mago	14	44	-1	exploração
+PARTY_0435	NPC_0435	Seliav	Kethruun	Sandbones	Curandeiro	15	47	0	defesa
+PARTY_0436	NPC_0436	Wilas	Nyssara	Emerald Tide	Arqueiro	16	50	1	monstros
+PARTY_0437	NPC_0437	Alint	Myrthos	Sem nome definido	Guerreiro	17	53	2	cura
+PARTY_0438	NPC_0438	Corethm	Orinthal	Crystalia	Batedor	18	56	3	magia
+PARTY_0439	NPC_0439	Ferian	Valkyrion	Volmeria	Alquimista	19	59	4	exploração
+PARTY_0440	NPC_0440	Iriak	Aeloria	Veyndaril	Valaryn Cadete	20	62	5	defesa
+PARTY_0441	NPC_0441	Liaind	Zarim	Fornalia	Aventureiro	1	5	-5	monstros
+PARTY_0442	NPC_0442	Oliethb	Eshmara	Brumas	Mago	2	8	-4	cura
+PARTY_0443	NPC_0443	Toriath	Tharun	Stone-Âmbar	Curandeiro	3	11	-3	magia
+PARTY_0444	NPC_0444	Ysaaa	Lyrien	Aerocivitus	Arqueiro	4	14	-2	exploração
+PARTY_0445	NPC_0445	Arinl	Kethruun	Sandbones	Guerreiro	5	17	-1	defesa
+PARTY_0446	NPC_0446	Daethr	Nyssara	Emerald Tide	Batedor	6	20	0	monstros
+PARTY_0447	NPC_0447	Galiav	Myrthos	Sem nome definido	Alquimista	7	23	1	cura
+PARTY_0448	NPC_0448	Jonas	Orinthal	Crystalia	Valaryn Cadete	8	26	2	magia
+PARTY_0449	NPC_0449	Marint	Valkyrion	Volmeria	Aventureiro	9	29	3	exploração
+PARTY_0450	NPC_0450	Renethm	Aeloria	Pyrelith	Mago	10	32	4	defesa
+PARTY_0451	NPC_0451	Vioian	Zarim	Fornalia	Curandeiro	11	35	5	monstros
+PARTY_0452	NPC_0452	Zanak	Eshmara	Brumas	Arqueiro	12	38	-5	cura
+PARTY_0453	NPC_0453	Belind	Tharun	Stone-Âmbar	Guerreiro	13	41	-4	magia
+PARTY_0454	NPC_0454	Eliethb	Lyrien	Aerocivitus	Batedor	14	44	-3	exploração
+PARTY_0455	NPC_0455	Heliath	Kethruun	Sandbones	Alquimista	15	47	-2	defesa
+PARTY_0456	NPC_0456	Kaaa	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-1	monstros
+PARTY_0457	NPC_0457	Nerinl	Myrthos	Sem nome definido	Aventureiro	17	53	0	cura
+PARTY_0458	NPC_0458	Selethr	Orinthal	Crystalia	Mago	18	56	1	magia
+PARTY_0459	NPC_0459	Wiliav	Valkyrion	Volmeria	Curandeiro	19	59	2	exploração
+PARTY_0460	NPC_0460	Alas	Aeloria	Jorathen	Arqueiro	20	62	3	defesa
+PARTY_0461	NPC_0461	Corint	Zarim	Fornalia	Guerreiro	1	5	4	monstros
+PARTY_0462	NPC_0462	Ferethm	Eshmara	Brumas	Batedor	2	8	5	cura
+PARTY_0463	NPC_0463	Iriian	Tharun	Stone-Âmbar	Alquimista	3	11	-5	magia
+PARTY_0464	NPC_0464	Liaak	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-4	exploração
+PARTY_0465	NPC_0465	Oliind	Kethruun	Sandbones	Aventureiro	5	17	-3	defesa
+PARTY_0466	NPC_0466	Torethb	Nyssara	Emerald Tide	Mago	6	20	-2	monstros
+PARTY_0467	NPC_0467	Ysaiath	Myrthos	Sem nome definido	Curandeiro	7	23	-1	cura
+PARTY_0468	NPC_0468	Araa	Orinthal	Crystalia	Arqueiro	8	26	0	magia
+PARTY_0469	NPC_0469	Dainl	Valkyrion	Volmeria	Guerreiro	9	29	1	exploração
+PARTY_0470	NPC_0470	Galethr	Aeloria	Duskmere	Batedor	10	32	2	defesa
+PARTY_0471	NPC_0471	Joniav	Zarim	Fornalia	Alquimista	11	35	3	monstros
+PARTY_0472	NPC_0472	Maras	Eshmara	Brumas	Valaryn Cadete	12	38	4	cura
+PARTY_0473	NPC_0473	Renint	Tharun	Stone-Âmbar	Aventureiro	13	41	5	magia
+PARTY_0474	NPC_0474	Vioethm	Lyrien	Aerocivitus	Mago	14	44	-5	exploração
+PARTY_0475	NPC_0475	Zanian	Kethruun	Sandbones	Curandeiro	15	47	-4	defesa
+PARTY_0476	NPC_0476	Belak	Nyssara	Emerald Tide	Arqueiro	16	50	-3	monstros
+PARTY_0477	NPC_0477	Eliind	Myrthos	Sem nome definido	Guerreiro	17	53	-2	cura
+PARTY_0478	NPC_0478	Helethb	Orinthal	Crystalia	Batedor	18	56	-1	magia
+PARTY_0479	NPC_0479	Kaiath	Valkyrion	Volmeria	Alquimista	19	59	0	exploração
+PARTY_0480	NPC_0480	Neraa	Aeloria	Lunareth	Valaryn Cadete	20	62	1	defesa
+PARTY_0481	NPC_0481	Selinl	Zarim	Fornalia	Aventureiro	1	5	2	monstros
+PARTY_0482	NPC_0482	Wilethr	Eshmara	Brumas	Mago	2	8	3	cura
+PARTY_0483	NPC_0483	Aliav	Tharun	Stone-Âmbar	Curandeiro	3	11	4	magia
+PARTY_0484	NPC_0484	Coras	Lyrien	Aerocivitus	Arqueiro	4	14	5	exploração
+PARTY_0485	NPC_0485	Ferint	Kethruun	Sandbones	Guerreiro	5	17	-5	defesa
+PARTY_0486	NPC_0486	Iriethm	Nyssara	Emerald Tide	Batedor	6	20	-4	monstros
+PARTY_0487	NPC_0487	Liaian	Myrthos	Sem nome definido	Alquimista	7	23	-3	cura
+PARTY_0488	NPC_0488	Oliak	Orinthal	Crystalia	Valaryn Cadete	8	26	-2	magia
+PARTY_0489	NPC_0489	Torind	Valkyrion	Volmeria	Aventureiro	9	29	-1	exploração
+PARTY_0490	NPC_0490	Ysaethb	Aeloria	Xyrelith	Mago	10	32	0	defesa
+PARTY_0491	NPC_0491	Ariath	Zarim	Fornalia	Curandeiro	11	35	1	monstros
+PARTY_0492	NPC_0492	Daaa	Eshmara	Brumas	Arqueiro	12	38	2	cura
+PARTY_0493	NPC_0493	Galinl	Tharun	Stone-Âmbar	Guerreiro	13	41	3	magia
+PARTY_0494	NPC_0494	Jonethr	Lyrien	Aerocivitus	Batedor	14	44	4	exploração
+PARTY_0495	NPC_0495	Mariav	Kethruun	Sandbones	Alquimista	15	47	5	defesa
+PARTY_0496	NPC_0496	Renas	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-5	monstros
+PARTY_0497	NPC_0497	Vioint	Myrthos	Sem nome definido	Aventureiro	17	53	-4	cura
+PARTY_0498	NPC_0498	Zanethm	Orinthal	Crystalia	Mago	18	56	-3	magia
+PARTY_0499	NPC_0499	Belian	Valkyrion	Volmeria	Curandeiro	19	59	-2	exploração
+PARTY_0500	NPC_0500	Eliak	Aeloria	Runedral	Arqueiro	20	62	-1	defesa
+PARTY_0501	NPC_0501	Helind	Zarim	Fornalia	Guerreiro	1	5	0	monstros
+PARTY_0502	NPC_0502	Kaethb	Eshmara	Brumas	Batedor	2	8	1	cura
+PARTY_0503	NPC_0503	Neriath	Tharun	Stone-Âmbar	Alquimista	3	11	2	magia
+PARTY_0504	NPC_0504	Selaa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	3	exploração
+PARTY_0505	NPC_0505	Wilinl	Kethruun	Sandbones	Aventureiro	5	17	4	defesa
+PARTY_0506	NPC_0506	Alethr	Nyssara	Emerald Tide	Mago	6	20	5	monstros
+PARTY_0507	NPC_0507	Coriav	Myrthos	Sem nome definido	Curandeiro	7	23	-5	cura
+PARTY_0508	NPC_0508	Feras	Orinthal	Crystalia	Arqueiro	8	26	-4	magia
+PARTY_0509	NPC_0509	Iriint	Valkyrion	Volmeria	Guerreiro	9	29	-3	exploração
+PARTY_0510	NPC_0510	Liaethm	Aeloria	Lorwynne	Batedor	10	32	-2	defesa
+PARTY_0511	NPC_0511	Oliian	Zarim	Fornalia	Alquimista	11	35	-1	monstros
+PARTY_0512	NPC_0512	Torak	Eshmara	Brumas	Valaryn Cadete	12	38	0	cura
+PARTY_0513	NPC_0513	Ysaind	Tharun	Stone-Âmbar	Aventureiro	13	41	1	magia
+PARTY_0514	NPC_0514	Arethb	Lyrien	Aerocivitus	Mago	14	44	2	exploração
+PARTY_0515	NPC_0515	Daiath	Kethruun	Sandbones	Curandeiro	15	47	3	defesa
+PARTY_0516	NPC_0516	Galaa	Nyssara	Emerald Tide	Arqueiro	16	50	4	monstros
+PARTY_0517	NPC_0517	Joninl	Myrthos	Sem nome definido	Guerreiro	17	53	5	cura
+PARTY_0518	NPC_0518	Marethr	Orinthal	Crystalia	Batedor	18	56	-5	magia
+PARTY_0519	NPC_0519	Reniav	Valkyrion	Volmeria	Alquimista	19	59	-4	exploração
+PARTY_0520	NPC_0520	Vioas	Aeloria	Frostmere	Valaryn Cadete	20	62	-3	defesa
+PARTY_0521	NPC_0521	Zanint	Zarim	Fornalia	Aventureiro	1	5	-2	monstros
+PARTY_0522	NPC_0522	Belethm	Eshmara	Brumas	Mago	2	8	-1	cura
+PARTY_0523	NPC_0523	Eliian	Tharun	Stone-Âmbar	Curandeiro	3	11	0	magia
+PARTY_0524	NPC_0524	Helak	Lyrien	Aerocivitus	Arqueiro	4	14	1	exploração
+PARTY_0525	NPC_0525	Kaind	Kethruun	Sandbones	Guerreiro	5	17	2	defesa
+PARTY_0526	NPC_0526	Nerethb	Nyssara	Emerald Tide	Batedor	6	20	3	monstros
+PARTY_0527	NPC_0527	Seliath	Myrthos	Sem nome definido	Alquimista	7	23	4	cura
+PARTY_0528	NPC_0528	Wilaa	Orinthal	Crystalia	Valaryn Cadete	8	26	5	magia
+PARTY_0529	NPC_0529	Alinl	Valkyrion	Volmeria	Aventureiro	9	29	-5	exploração
+PARTY_0530	NPC_0530	Corethr	Aeloria	Zorathen	Mago	10	32	-4	defesa
+PARTY_0531	NPC_0531	Feriav	Zarim	Fornalia	Curandeiro	11	35	-3	monstros
+PARTY_0532	NPC_0532	Irias	Eshmara	Brumas	Arqueiro	12	38	-2	cura
+PARTY_0533	NPC_0533	Liaint	Tharun	Stone-Âmbar	Guerreiro	13	41	-1	magia
+PARTY_0534	NPC_0534	Oliethm	Lyrien	Aerocivitus	Batedor	14	44	0	exploração
+PARTY_0535	NPC_0535	Torian	Kethruun	Sandbones	Alquimista	15	47	1	defesa
+PARTY_0536	NPC_0536	Ysaak	Nyssara	Emerald Tide	Valaryn Cadete	16	50	2	monstros
+PARTY_0537	NPC_0537	Arind	Myrthos	Sem nome definido	Aventureiro	17	53	3	cura
+PARTY_0538	NPC_0538	Daethb	Orinthal	Crystalia	Mago	18	56	4	magia
+PARTY_0539	NPC_0539	Galiath	Valkyrion	Volmeria	Curandeiro	19	59	5	exploração
+PARTY_0540	NPC_0540	Jonaa	Aeloria	Thornmere	Arqueiro	20	62	-5	defesa
+PARTY_0541	NPC_0541	Marinl	Zarim	Fornalia	Guerreiro	1	5	-4	monstros
+PARTY_0542	NPC_0542	Renethr	Eshmara	Brumas	Batedor	2	8	-3	cura
+PARTY_0543	NPC_0543	Vioiav	Tharun	Stone-Âmbar	Alquimista	3	11	-2	magia
+PARTY_0544	NPC_0544	Zanas	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-1	exploração
+PARTY_0545	NPC_0545	Belint	Kethruun	Sandbones	Aventureiro	5	17	0	defesa
+PARTY_0546	NPC_0546	Eliethm	Nyssara	Emerald Tide	Mago	6	20	1	monstros
+PARTY_0547	NPC_0547	Helian	Myrthos	Sem nome definido	Curandeiro	7	23	2	cura
+PARTY_0548	NPC_0548	Kaak	Orinthal	Crystalia	Arqueiro	8	26	3	magia
+PARTY_0549	NPC_0549	Nerind	Valkyrion	Volmeria	Guerreiro	9	29	4	exploração
+PARTY_0550	NPC_0550	Selethb	Aeloria	Norhaven	Batedor	10	32	5	defesa
+PARTY_0551	NPC_0551	Wiliath	Zarim	Fornalia	Alquimista	11	35	-5	monstros
+PARTY_0552	NPC_0552	Alaa	Eshmara	Brumas	Valaryn Cadete	12	38	-4	cura
+PARTY_0553	NPC_0553	Corinl	Tharun	Stone-Âmbar	Aventureiro	13	41	-3	magia
+PARTY_0554	NPC_0554	Ferethr	Lyrien	Aerocivitus	Mago	14	44	-2	exploração
+PARTY_0555	NPC_0555	Iriiav	Kethruun	Sandbones	Curandeiro	15	47	-1	defesa
+PARTY_0556	NPC_0556	Liaas	Nyssara	Emerald Tide	Arqueiro	16	50	0	monstros
+PARTY_0557	NPC_0557	Oliint	Myrthos	Sem nome definido	Guerreiro	17	53	1	cura
+PARTY_0558	NPC_0558	Torethm	Orinthal	Crystalia	Batedor	18	56	2	magia
+PARTY_0559	NPC_0559	Ysaian	Valkyrion	Volmeria	Alquimista	19	59	3	exploração
+PARTY_0560	NPC_0560	Arak	Aeloria	Hallowspire	Valaryn Cadete	20	62	4	defesa
+PARTY_0561	NPC_0561	Daind	Zarim	Fornalia	Aventureiro	1	5	5	monstros
+PARTY_0562	NPC_0562	Galethb	Eshmara	Brumas	Mago	2	8	-5	cura
+PARTY_0563	NPC_0563	Joniath	Tharun	Stone-Âmbar	Curandeiro	3	11	-4	magia
+PARTY_0564	NPC_0564	Maraa	Lyrien	Aerocivitus	Arqueiro	4	14	-3	exploração
+PARTY_0565	NPC_0565	Reninl	Kethruun	Sandbones	Guerreiro	5	17	-2	defesa
+PARTY_0566	NPC_0566	Vioethr	Nyssara	Emerald Tide	Batedor	6	20	-1	monstros
+PARTY_0567	NPC_0567	Zaniav	Myrthos	Sem nome definido	Alquimista	7	23	0	cura
+PARTY_0568	NPC_0568	Belas	Orinthal	Crystalia	Valaryn Cadete	8	26	1	magia
+PARTY_0569	NPC_0569	Eliint	Valkyrion	Volmeria	Aventureiro	9	29	2	exploração
+PARTY_0570	NPC_0570	Helethm	Aeloria	Brighthollow	Mago	10	32	3	defesa
+PARTY_0571	NPC_0571	Kaian	Zarim	Fornalia	Curandeiro	11	35	4	monstros
+PARTY_0572	NPC_0572	Nerak	Eshmara	Brumas	Arqueiro	12	38	5	cura
+PARTY_0573	NPC_0573	Selind	Tharun	Stone-Âmbar	Guerreiro	13	41	-5	magia
+PARTY_0574	NPC_0574	Wilethb	Lyrien	Aerocivitus	Batedor	14	44	-4	exploração
+PARTY_0575	NPC_0575	Aliath	Kethruun	Sandbones	Alquimista	15	47	-3	defesa
+PARTY_0576	NPC_0576	Coraa	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-2	monstros
+PARTY_0577	NPC_0577	Ferinl	Myrthos	Sem nome definido	Aventureiro	17	53	-1	cura
+PARTY_0578	NPC_0578	Iriethr	Orinthal	Crystalia	Mago	18	56	0	magia
+PARTY_0579	NPC_0579	Liaiav	Valkyrion	Volmeria	Curandeiro	19	59	1	exploração
+PARTY_0580	NPC_0580	Olias	Aeloria	Valdora	Arqueiro	20	62	2	defesa
+PARTY_0581	NPC_0581	Torint	Zarim	Fornalia	Guerreiro	1	5	3	monstros
+PARTY_0582	NPC_0582	Ysaethm	Eshmara	Brumas	Batedor	2	8	4	cura
+PARTY_0583	NPC_0583	Arian	Tharun	Stone-Âmbar	Alquimista	3	11	5	magia
+PARTY_0584	NPC_0584	Daak	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-5	exploração
+PARTY_0585	NPC_0585	Galind	Kethruun	Sandbones	Aventureiro	5	17	-4	defesa
+PARTY_0586	NPC_0586	Jonethb	Nyssara	Emerald Tide	Mago	6	20	-3	monstros
+PARTY_0587	NPC_0587	Mariath	Myrthos	Sem nome definido	Curandeiro	7	23	-2	cura
+PARTY_0588	NPC_0588	Renaa	Orinthal	Crystalia	Arqueiro	8	26	-1	magia
+PARTY_0589	NPC_0589	Vioinl	Valkyrion	Volmeria	Guerreiro	9	29	0	exploração
+PARTY_0590	NPC_0590	Zanethr	Aeloria	Verdralith	Batedor	10	32	1	defesa
+PARTY_0591	NPC_0591	Beliav	Zarim	Fornalia	Alquimista	11	35	2	monstros
+PARTY_0592	NPC_0592	Elias	Eshmara	Brumas	Valaryn Cadete	12	38	3	cura
+PARTY_0593	NPC_0593	Helint	Tharun	Stone-Âmbar	Aventureiro	13	41	4	magia
+PARTY_0594	NPC_0594	Kaethm	Lyrien	Aerocivitus	Mago	14	44	5	exploração
+PARTY_0595	NPC_0595	Nerian	Kethruun	Sandbones	Curandeiro	15	47	-5	defesa
+PARTY_0596	NPC_0596	Selak	Nyssara	Emerald Tide	Arqueiro	16	50	-4	monstros
+PARTY_0597	NPC_0597	Wilind	Myrthos	Sem nome definido	Guerreiro	17	53	-3	cura
+PARTY_0598	NPC_0598	Alethb	Orinthal	Crystalia	Batedor	18	56	-2	magia
+PARTY_0599	NPC_0599	Coriath	Valkyrion	Volmeria	Alquimista	19	59	-1	exploração
+PARTY_0600	NPC_0600	Feraa	Aeloria	Prismere	Valaryn Cadete	20	62	0	defesa
+PARTY_0601	NPC_0601	Iriinl	Zarim	Fornalia	Aventureiro	1	5	1	monstros
+PARTY_0602	NPC_0602	Liaethr	Eshmara	Brumas	Mago	2	8	2	cura
+PARTY_0603	NPC_0603	Oliiav	Tharun	Stone-Âmbar	Curandeiro	3	11	3	magia
+PARTY_0604	NPC_0604	Toras	Lyrien	Aerocivitus	Arqueiro	4	14	4	exploração
+PARTY_0605	NPC_0605	Ysaint	Kethruun	Sandbones	Guerreiro	5	17	5	defesa
+PARTY_0606	NPC_0606	Arethm	Nyssara	Emerald Tide	Batedor	6	20	-5	monstros
+PARTY_0607	NPC_0607	Daian	Myrthos	Sem nome definido	Alquimista	7	23	-4	cura
+PARTY_0608	NPC_0608	Galak	Orinthal	Crystalia	Valaryn Cadete	8	26	-3	magia
+PARTY_0609	NPC_0609	Jonind	Valkyrion	Volmeria	Aventureiro	9	29	-2	exploração
+PARTY_0610	NPC_0610	Marethb	Aeloria	Jorwyn	Mago	10	32	-1	defesa
+PARTY_0611	NPC_0611	Reniath	Zarim	Fornalia	Curandeiro	11	35	0	monstros
+PARTY_0612	NPC_0612	Vioaa	Eshmara	Brumas	Arqueiro	12	38	1	cura
+PARTY_0613	NPC_0613	Zaninl	Tharun	Stone-Âmbar	Guerreiro	13	41	2	magia
+PARTY_0614	NPC_0614	Belethr	Lyrien	Aerocivitus	Batedor	14	44	3	exploração
+PARTY_0615	NPC_0615	Eliiav	Kethruun	Sandbones	Alquimista	15	47	4	defesa
+PARTY_0616	NPC_0616	Helas	Nyssara	Emerald Tide	Valaryn Cadete	16	50	5	monstros
+PARTY_0617	NPC_0617	Kaint	Myrthos	Sem nome definido	Aventureiro	17	53	-5	cura
+PARTY_0618	NPC_0618	Nerethm	Orinthal	Crystalia	Mago	18	56	-4	magia
+PARTY_0619	NPC_0619	Selian	Valkyrion	Volmeria	Curandeiro	19	59	-3	exploração
+PARTY_0620	NPC_0620	Wilak	Aeloria	Dawnspire	Arqueiro	20	62	-2	defesa
+PARTY_0621	NPC_0621	Alind	Zarim	Fornalia	Guerreiro	1	5	-1	monstros
+PARTY_0622	NPC_0622	Corethb	Eshmara	Brumas	Batedor	2	8	0	cura
+PARTY_0623	NPC_0623	Feriath	Tharun	Stone-Âmbar	Alquimista	3	11	1	magia
+PARTY_0624	NPC_0624	Iriaa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	2	exploração
+PARTY_0625	NPC_0625	Liainl	Kethruun	Sandbones	Aventureiro	5	17	3	defesa
+PARTY_0626	NPC_0626	Oliethr	Nyssara	Emerald Tide	Mago	6	20	4	monstros
+PARTY_0627	NPC_0627	Toriav	Myrthos	Sem nome definido	Curandeiro	7	23	5	cura
+PARTY_0628	NPC_0628	Ysaas	Orinthal	Crystalia	Arqueiro	8	26	-5	magia
+PARTY_0629	NPC_0629	Arint	Valkyrion	Volmeria	Guerreiro	9	29	-4	exploração
+PARTY_0630	NPC_0630	Daethm	Aeloria	Xandralor	Batedor	10	32	-3	defesa
+PARTY_0631	NPC_0631	Galian	Zarim	Fornalia	Alquimista	11	35	-2	monstros
+PARTY_0632	NPC_0632	Jonak	Eshmara	Brumas	Valaryn Cadete	12	38	-1	cura
+PARTY_0633	NPC_0633	Marind	Tharun	Stone-Âmbar	Aventureiro	13	41	0	magia
+PARTY_0634	NPC_0634	Renethb	Lyrien	Aerocivitus	Mago	14	44	1	exploração
+PARTY_0635	NPC_0635	Vioiath	Kethruun	Sandbones	Curandeiro	15	47	2	defesa
+PARTY_0636	NPC_0636	Zanaa	Nyssara	Emerald Tide	Arqueiro	16	50	3	monstros
+PARTY_0637	NPC_0637	Belinl	Myrthos	Sem nome definido	Guerreiro	17	53	4	cura
+PARTY_0638	NPC_0638	Eliethr	Orinthal	Crystalia	Batedor	18	56	5	magia
+PARTY_0639	NPC_0639	Heliav	Valkyrion	Volmeria	Alquimista	19	59	-5	exploração
+PARTY_0640	NPC_0640	Kaas	Aeloria	Rivenholt	Valaryn Cadete	20	62	-4	defesa
+PARTY_0641	NPC_0641	Nerint	Zarim	Fornalia	Aventureiro	1	5	-3	monstros
+PARTY_0642	NPC_0642	Selethm	Eshmara	Brumas	Mago	2	8	-2	cura
+PARTY_0643	NPC_0643	Wilian	Tharun	Stone-Âmbar	Curandeiro	3	11	-1	magia
+PARTY_0644	NPC_0644	Alak	Lyrien	Aerocivitus	Arqueiro	4	14	0	exploração
+PARTY_0645	NPC_0645	Corind	Kethruun	Sandbones	Guerreiro	5	17	1	defesa
+PARTY_0646	NPC_0646	Ferethb	Nyssara	Emerald Tide	Batedor	6	20	2	monstros
+PARTY_0647	NPC_0647	Iriiath	Myrthos	Sem nome definido	Alquimista	7	23	3	cura
+PARTY_0648	NPC_0648	Liaaa	Orinthal	Crystalia	Valaryn Cadete	8	26	4	magia
+PARTY_0649	NPC_0649	Oliinl	Valkyrion	Volmeria	Aventureiro	9	29	5	exploração
+PARTY_0650	NPC_0650	Torethr	Aeloria	Loryndor	Mago	10	32	-5	defesa
+PARTY_0651	NPC_0651	Ysaiav	Zarim	Fornalia	Curandeiro	11	35	-4	monstros
+PARTY_0652	NPC_0652	Aras	Eshmara	Brumas	Arqueiro	12	38	-3	cura
+PARTY_0653	NPC_0653	Daint	Tharun	Stone-Âmbar	Guerreiro	13	41	-2	magia
+PARTY_0654	NPC_0654	Galethm	Lyrien	Aerocivitus	Batedor	14	44	-1	exploração
+PARTY_0655	NPC_0655	Jonian	Kethruun	Sandbones	Alquimista	15	47	0	defesa
+PARTY_0656	NPC_0656	Marak	Nyssara	Emerald Tide	Valaryn Cadete	16	50	1	monstros
+PARTY_0657	NPC_0657	Renind	Myrthos	Sem nome definido	Aventureiro	17	53	2	cura
+PARTY_0658	NPC_0658	Vioethb	Orinthal	Crystalia	Mago	18	56	3	magia
+PARTY_0659	NPC_0659	Zaniath	Valkyrion	Volmeria	Curandeiro	19	59	4	exploração
+PARTY_0660	NPC_0660	Belaa	Aeloria	Fenndral	Arqueiro	20	62	5	defesa
+PARTY_0661	NPC_0661	Eliinl	Zarim	Fornalia	Guerreiro	1	5	-5	monstros
+PARTY_0662	NPC_0662	Helethr	Eshmara	Brumas	Batedor	2	8	-4	cura
+PARTY_0663	NPC_0663	Kaiav	Tharun	Stone-Âmbar	Alquimista	3	11	-3	magia
+PARTY_0664	NPC_0664	Neras	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-2	exploração
+PARTY_0665	NPC_0665	Selint	Kethruun	Sandbones	Aventureiro	5	17	-1	defesa
+PARTY_0666	NPC_0666	Wilethm	Nyssara	Emerald Tide	Mago	6	20	0	monstros
+PARTY_0667	NPC_0667	Alian	Myrthos	Sem nome definido	Curandeiro	7	23	1	cura
+PARTY_0668	NPC_0668	Corak	Orinthal	Crystalia	Arqueiro	8	26	2	magia
+PARTY_0669	NPC_0669	Ferind	Valkyrion	Volmeria	Guerreiro	9	29	3	exploração
+PARTY_0670	NPC_0670	Iriethb	Aeloria	Feyndral	Batedor	10	32	4	defesa
+PARTY_0671	NPC_0671	Liaiath	Zarim	Fornalia	Alquimista	11	35	5	monstros
+PARTY_0672	NPC_0672	Oliaa	Eshmara	Brumas	Valaryn Cadete	12	38	-5	cura
+PARTY_0673	NPC_0673	Torinl	Tharun	Stone-Âmbar	Aventureiro	13	41	-4	magia
+PARTY_0674	NPC_0674	Ysaethr	Lyrien	Aerocivitus	Mago	14	44	-3	exploração
+PARTY_0675	NPC_0675	Ariav	Kethruun	Sandbones	Curandeiro	15	47	-2	defesa
+PARTY_0676	NPC_0676	Daas	Nyssara	Emerald Tide	Arqueiro	16	50	-1	monstros
+PARTY_0677	NPC_0677	Galint	Myrthos	Sem nome definido	Guerreiro	17	53	0	cura
+PARTY_0678	NPC_0678	Jonethm	Orinthal	Crystalia	Batedor	18	56	1	magia
+PARTY_0679	NPC_0679	Marian	Valkyrion	Volmeria	Alquimista	19	59	2	exploração
+PARTY_0680	NPC_0680	Renak	Aeloria	Zephyrholt	Valaryn Cadete	20	62	3	defesa
+PARTY_0681	NPC_0681	Vioind	Zarim	Fornalia	Aventureiro	1	5	4	monstros
+PARTY_0682	NPC_0682	Zanethb	Eshmara	Brumas	Mago	2	8	5	cura
+PARTY_0683	NPC_0683	Beliath	Tharun	Stone-Âmbar	Curandeiro	3	11	-5	magia
+PARTY_0684	NPC_0684	Eliaa	Lyrien	Aerocivitus	Arqueiro	4	14	-4	exploração
+PARTY_0685	NPC_0685	Helinl	Kethruun	Sandbones	Guerreiro	5	17	-3	defesa
+PARTY_0686	NPC_0686	Kaethr	Nyssara	Emerald Tide	Batedor	6	20	-2	monstros
+PARTY_0687	NPC_0687	Neriav	Myrthos	Sem nome definido	Alquimista	7	23	-1	cura
+PARTY_0688	NPC_0688	Selas	Orinthal	Crystalia	Valaryn Cadete	8	26	0	magia
+PARTY_0689	NPC_0689	Wilint	Valkyrion	Volmeria	Aventureiro	9	29	1	exploração
+PARTY_0690	NPC_0690	Alethm	Aeloria	Tindralith	Mago	10	32	2	defesa
+PARTY_0691	NPC_0691	Corian	Zarim	Fornalia	Curandeiro	11	35	3	monstros
+PARTY_0692	NPC_0692	Ferak	Eshmara	Brumas	Arqueiro	12	38	4	cura
+PARTY_0693	NPC_0693	Iriind	Tharun	Stone-Âmbar	Guerreiro	13	41	5	magia
+PARTY_0694	NPC_0694	Liaethb	Lyrien	Aerocivitus	Batedor	14	44	-5	exploração
+PARTY_0695	NPC_0695	Oliiath	Kethruun	Sandbones	Alquimista	15	47	-4	defesa
+PARTY_0696	NPC_0696	Toraa	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-3	monstros
+PARTY_0697	NPC_0697	Ysainl	Myrthos	Sem nome definido	Aventureiro	17	53	-2	cura
+PARTY_0698	NPC_0698	Arethr	Orinthal	Crystalia	Mago	18	56	-1	magia
+PARTY_0699	NPC_0699	Daiav	Valkyrion	Volmeria	Curandeiro	19	59	0	exploração
+PARTY_0700	NPC_0700	Galas	Aeloria	Netherholt	Arqueiro	20	62	1	defesa
+PARTY_0701	NPC_0701	Jonint	Zarim	Fornalia	Guerreiro	1	5	2	monstros
+PARTY_0702	NPC_0702	Marethm	Eshmara	Brumas	Batedor	2	8	3	cura
+PARTY_0703	NPC_0703	Renian	Tharun	Stone-Âmbar	Alquimista	3	11	4	magia
+PARTY_0704	NPC_0704	Vioak	Lyrien	Aerocivitus	Valaryn Cadete	4	14	5	exploração
+PARTY_0705	NPC_0705	Zanind	Kethruun	Sandbones	Aventureiro	5	17	-5	defesa
+PARTY_0706	NPC_0706	Belethb	Nyssara	Emerald Tide	Mago	6	20	-4	monstros
+PARTY_0707	NPC_0707	Eliiath	Myrthos	Sem nome definido	Curandeiro	7	23	-3	cura
+PARTY_0708	NPC_0708	Helaa	Orinthal	Crystalia	Arqueiro	8	26	-2	magia
+PARTY_0709	NPC_0709	Kainl	Valkyrion	Volmeria	Guerreiro	9	29	-1	exploração
+PARTY_0710	NPC_0710	Nerethr	Aeloria	Highspire	Batedor	10	32	0	defesa
+PARTY_0711	NPC_0711	Seliav	Zarim	Fornalia	Alquimista	11	35	1	monstros
+PARTY_0712	NPC_0712	Wilas	Eshmara	Brumas	Valaryn Cadete	12	38	2	cura
+PARTY_0713	NPC_0713	Alint	Tharun	Stone-Âmbar	Aventureiro	13	41	3	magia
+PARTY_0714	NPC_0714	Corethm	Lyrien	Aerocivitus	Mago	14	44	4	exploração
+PARTY_0715	NPC_0715	Ferian	Kethruun	Sandbones	Curandeiro	15	47	5	defesa
+PARTY_0716	NPC_0716	Iriak	Nyssara	Emerald Tide	Arqueiro	16	50	-5	monstros
+PARTY_0717	NPC_0717	Liaind	Myrthos	Sem nome definido	Guerreiro	17	53	-4	cura
+PARTY_0718	NPC_0718	Oliethb	Orinthal	Crystalia	Batedor	18	56	-3	magia
+PARTY_0719	NPC_0719	Toriath	Valkyrion	Volmeria	Alquimista	19	59	-2	exploração
+PARTY_0720	NPC_0720	Ysaaa	Aeloria	Blackmere	Valaryn Cadete	20	62	-1	defesa
+PARTY_0721	NPC_0721	Arinl	Zarim	Fornalia	Aventureiro	1	5	0	monstros
+PARTY_0722	NPC_0722	Daethr	Eshmara	Brumas	Mago	2	8	1	cura
+PARTY_0723	NPC_0723	Galiav	Tharun	Stone-Âmbar	Curandeiro	3	11	2	magia
+PARTY_0724	NPC_0724	Jonas	Lyrien	Aerocivitus	Arqueiro	4	14	3	exploração
+PARTY_0725	NPC_0725	Marint	Kethruun	Sandbones	Guerreiro	5	17	4	defesa
+PARTY_0726	NPC_0726	Renethm	Nyssara	Emerald Tide	Batedor	6	20	5	monstros
+PARTY_0727	NPC_0727	Vioian	Myrthos	Sem nome definido	Alquimista	7	23	-5	cura
+PARTY_0728	NPC_0728	Zanak	Orinthal	Crystalia	Valaryn Cadete	8	26	-4	magia
+PARTY_0729	NPC_0729	Belind	Valkyrion	Volmeria	Aventureiro	9	29	-3	exploração
+PARTY_0730	NPC_0730	Eliethb	Aeloria	Veyndaril	Mago	10	32	-2	defesa
+PARTY_0731	NPC_0731	Heliath	Zarim	Fornalia	Curandeiro	11	35	-1	monstros
+PARTY_0732	NPC_0732	Kaaa	Eshmara	Brumas	Arqueiro	12	38	0	cura
+PARTY_0733	NPC_0733	Nerinl	Tharun	Stone-Âmbar	Guerreiro	13	41	1	magia
+PARTY_0734	NPC_0734	Selethr	Lyrien	Aerocivitus	Batedor	14	44	2	exploração
+PARTY_0735	NPC_0735	Wiliav	Kethruun	Sandbones	Alquimista	15	47	3	defesa
+PARTY_0736	NPC_0736	Alas	Nyssara	Emerald Tide	Valaryn Cadete	16	50	4	monstros
+PARTY_0737	NPC_0737	Corint	Myrthos	Sem nome definido	Aventureiro	17	53	5	cura
+PARTY_0738	NPC_0738	Ferethm	Orinthal	Crystalia	Mago	18	56	-5	magia
+PARTY_0739	NPC_0739	Iriian	Valkyrion	Volmeria	Curandeiro	19	59	-4	exploração
+PARTY_0740	NPC_0740	Liaak	Aeloria	Pyrelith	Arqueiro	20	62	-3	defesa
+PARTY_0741	NPC_0741	Oliind	Zarim	Fornalia	Guerreiro	1	5	-2	monstros
+PARTY_0742	NPC_0742	Torethb	Eshmara	Brumas	Batedor	2	8	-1	cura
+PARTY_0743	NPC_0743	Ysaiath	Tharun	Stone-Âmbar	Alquimista	3	11	0	magia
+PARTY_0744	NPC_0744	Araa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	1	exploração
+PARTY_0745	NPC_0745	Dainl	Kethruun	Sandbones	Aventureiro	5	17	2	defesa
+PARTY_0746	NPC_0746	Galethr	Nyssara	Emerald Tide	Mago	6	20	3	monstros
+PARTY_0747	NPC_0747	Joniav	Myrthos	Sem nome definido	Curandeiro	7	23	4	cura
+PARTY_0748	NPC_0748	Maras	Orinthal	Crystalia	Arqueiro	8	26	5	magia
+PARTY_0749	NPC_0749	Renint	Valkyrion	Volmeria	Guerreiro	9	29	-5	exploração
+PARTY_0750	NPC_0750	Vioethm	Aeloria	Jorathen	Batedor	10	32	-4	defesa
+PARTY_0751	NPC_0751	Zanian	Zarim	Fornalia	Alquimista	11	35	-3	monstros
+PARTY_0752	NPC_0752	Belak	Eshmara	Brumas	Valaryn Cadete	12	38	-2	cura
+PARTY_0753	NPC_0753	Eliind	Tharun	Stone-Âmbar	Aventureiro	13	41	-1	magia
+PARTY_0754	NPC_0754	Helethb	Lyrien	Aerocivitus	Mago	14	44	0	exploração
+PARTY_0755	NPC_0755	Kaiath	Kethruun	Sandbones	Curandeiro	15	47	1	defesa
+PARTY_0756	NPC_0756	Neraa	Nyssara	Emerald Tide	Arqueiro	16	50	2	monstros
+PARTY_0757	NPC_0757	Selinl	Myrthos	Sem nome definido	Guerreiro	17	53	3	cura
+PARTY_0758	NPC_0758	Wilethr	Orinthal	Crystalia	Batedor	18	56	4	magia
+PARTY_0759	NPC_0759	Aliav	Valkyrion	Volmeria	Alquimista	19	59	5	exploração
+PARTY_0760	NPC_0760	Coras	Aeloria	Duskmere	Valaryn Cadete	20	62	-5	defesa
+PARTY_0761	NPC_0761	Ferint	Zarim	Fornalia	Aventureiro	1	5	-4	monstros
+PARTY_0762	NPC_0762	Iriethm	Eshmara	Brumas	Mago	2	8	-3	cura
+PARTY_0763	NPC_0763	Liaian	Tharun	Stone-Âmbar	Curandeiro	3	11	-2	magia
+PARTY_0764	NPC_0764	Oliak	Lyrien	Aerocivitus	Arqueiro	4	14	-1	exploração
+PARTY_0765	NPC_0765	Torind	Kethruun	Sandbones	Guerreiro	5	17	0	defesa
+PARTY_0766	NPC_0766	Ysaethb	Nyssara	Emerald Tide	Batedor	6	20	1	monstros
+PARTY_0767	NPC_0767	Ariath	Myrthos	Sem nome definido	Alquimista	7	23	2	cura
+PARTY_0768	NPC_0768	Daaa	Orinthal	Crystalia	Valaryn Cadete	8	26	3	magia
+PARTY_0769	NPC_0769	Galinl	Valkyrion	Volmeria	Aventureiro	9	29	4	exploração
+PARTY_0770	NPC_0770	Jonethr	Aeloria	Lunareth	Mago	10	32	5	defesa
+PARTY_0771	NPC_0771	Mariav	Zarim	Fornalia	Curandeiro	11	35	-5	monstros
+PARTY_0772	NPC_0772	Renas	Eshmara	Brumas	Arqueiro	12	38	-4	cura
+PARTY_0773	NPC_0773	Vioint	Tharun	Stone-Âmbar	Guerreiro	13	41	-3	magia
+PARTY_0774	NPC_0774	Zanethm	Lyrien	Aerocivitus	Batedor	14	44	-2	exploração
+PARTY_0775	NPC_0775	Belian	Kethruun	Sandbones	Alquimista	15	47	-1	defesa
+PARTY_0776	NPC_0776	Eliak	Nyssara	Emerald Tide	Valaryn Cadete	16	50	0	monstros
+PARTY_0777	NPC_0777	Helind	Myrthos	Sem nome definido	Aventureiro	17	53	1	cura
+PARTY_0778	NPC_0778	Kaethb	Orinthal	Crystalia	Mago	18	56	2	magia
+PARTY_0779	NPC_0779	Neriath	Valkyrion	Volmeria	Curandeiro	19	59	3	exploração
+PARTY_0780	NPC_0780	Selaa	Aeloria	Xyrelith	Arqueiro	20	62	4	defesa
+PARTY_0781	NPC_0781	Wilinl	Zarim	Fornalia	Guerreiro	1	5	5	monstros
+PARTY_0782	NPC_0782	Alethr	Eshmara	Brumas	Batedor	2	8	-5	cura
+PARTY_0783	NPC_0783	Coriav	Tharun	Stone-Âmbar	Alquimista	3	11	-4	magia
+PARTY_0784	NPC_0784	Feras	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-3	exploração
+PARTY_0785	NPC_0785	Iriint	Kethruun	Sandbones	Aventureiro	5	17	-2	defesa
+PARTY_0786	NPC_0786	Liaethm	Nyssara	Emerald Tide	Mago	6	20	-1	monstros
+PARTY_0787	NPC_0787	Oliian	Myrthos	Sem nome definido	Curandeiro	7	23	0	cura
+PARTY_0788	NPC_0788	Torak	Orinthal	Crystalia	Arqueiro	8	26	1	magia
+PARTY_0789	NPC_0789	Ysaind	Valkyrion	Volmeria	Guerreiro	9	29	2	exploração
+PARTY_0790	NPC_0790	Arethb	Aeloria	Runedral	Batedor	10	32	3	defesa
+PARTY_0791	NPC_0791	Daiath	Zarim	Fornalia	Alquimista	11	35	4	monstros
+PARTY_0792	NPC_0792	Galaa	Eshmara	Brumas	Valaryn Cadete	12	38	5	cura
+PARTY_0793	NPC_0793	Joninl	Tharun	Stone-Âmbar	Aventureiro	13	41	-5	magia
+PARTY_0794	NPC_0794	Marethr	Lyrien	Aerocivitus	Mago	14	44	-4	exploração
+PARTY_0795	NPC_0795	Reniav	Kethruun	Sandbones	Curandeiro	15	47	-3	defesa
+PARTY_0796	NPC_0796	Vioas	Nyssara	Emerald Tide	Arqueiro	16	50	-2	monstros
+PARTY_0797	NPC_0797	Zanint	Myrthos	Sem nome definido	Guerreiro	17	53	-1	cura
+PARTY_0798	NPC_0798	Belethm	Orinthal	Crystalia	Batedor	18	56	0	magia
+PARTY_0799	NPC_0799	Eliian	Valkyrion	Volmeria	Alquimista	19	59	1	exploração
+PARTY_0800	NPC_0800	Helak	Aeloria	Lorwynne	Valaryn Cadete	20	62	2	defesa
+PARTY_0801	NPC_0801	Kaind	Zarim	Fornalia	Aventureiro	1	5	3	monstros
+PARTY_0802	NPC_0802	Nerethb	Eshmara	Brumas	Mago	2	8	4	cura
+PARTY_0803	NPC_0803	Seliath	Tharun	Stone-Âmbar	Curandeiro	3	11	5	magia
+PARTY_0804	NPC_0804	Wilaa	Lyrien	Aerocivitus	Arqueiro	4	14	-5	exploração
+PARTY_0805	NPC_0805	Alinl	Kethruun	Sandbones	Guerreiro	5	17	-4	defesa
+PARTY_0806	NPC_0806	Corethr	Nyssara	Emerald Tide	Batedor	6	20	-3	monstros
+PARTY_0807	NPC_0807	Feriav	Myrthos	Sem nome definido	Alquimista	7	23	-2	cura
+PARTY_0808	NPC_0808	Irias	Orinthal	Crystalia	Valaryn Cadete	8	26	-1	magia
+PARTY_0809	NPC_0809	Liaint	Valkyrion	Volmeria	Aventureiro	9	29	0	exploração
+PARTY_0810	NPC_0810	Oliethm	Aeloria	Frostmere	Mago	10	32	1	defesa
+PARTY_0811	NPC_0811	Torian	Zarim	Fornalia	Curandeiro	11	35	2	monstros
+PARTY_0812	NPC_0812	Ysaak	Eshmara	Brumas	Arqueiro	12	38	3	cura
+PARTY_0813	NPC_0813	Arind	Tharun	Stone-Âmbar	Guerreiro	13	41	4	magia
+PARTY_0814	NPC_0814	Daethb	Lyrien	Aerocivitus	Batedor	14	44	5	exploração
+PARTY_0815	NPC_0815	Galiath	Kethruun	Sandbones	Alquimista	15	47	-5	defesa
+PARTY_0816	NPC_0816	Jonaa	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-4	monstros
+PARTY_0817	NPC_0817	Marinl	Myrthos	Sem nome definido	Aventureiro	17	53	-3	cura
+PARTY_0818	NPC_0818	Renethr	Orinthal	Crystalia	Mago	18	56	-2	magia
+PARTY_0819	NPC_0819	Vioiav	Valkyrion	Volmeria	Curandeiro	19	59	-1	exploração
+PARTY_0820	NPC_0820	Zanas	Aeloria	Zorathen	Arqueiro	20	62	0	defesa
+PARTY_0821	NPC_0821	Belint	Zarim	Fornalia	Guerreiro	1	5	1	monstros
+PARTY_0822	NPC_0822	Eliethm	Eshmara	Brumas	Batedor	2	8	2	cura
+PARTY_0823	NPC_0823	Helian	Tharun	Stone-Âmbar	Alquimista	3	11	3	magia
+PARTY_0824	NPC_0824	Kaak	Lyrien	Aerocivitus	Valaryn Cadete	4	14	4	exploração
+PARTY_0825	NPC_0825	Nerind	Kethruun	Sandbones	Aventureiro	5	17	5	defesa
+PARTY_0826	NPC_0826	Selethb	Nyssara	Emerald Tide	Mago	6	20	-5	monstros
+PARTY_0827	NPC_0827	Wiliath	Myrthos	Sem nome definido	Curandeiro	7	23	-4	cura
+PARTY_0828	NPC_0828	Alaa	Orinthal	Crystalia	Arqueiro	8	26	-3	magia
+PARTY_0829	NPC_0829	Corinl	Valkyrion	Volmeria	Guerreiro	9	29	-2	exploração
+PARTY_0830	NPC_0830	Ferethr	Aeloria	Thornmere	Batedor	10	32	-1	defesa
+PARTY_0831	NPC_0831	Iriiav	Zarim	Fornalia	Alquimista	11	35	0	monstros
+PARTY_0832	NPC_0832	Liaas	Eshmara	Brumas	Valaryn Cadete	12	38	1	cura
+PARTY_0833	NPC_0833	Oliint	Tharun	Stone-Âmbar	Aventureiro	13	41	2	magia
+PARTY_0834	NPC_0834	Torethm	Lyrien	Aerocivitus	Mago	14	44	3	exploração
+PARTY_0835	NPC_0835	Ysaian	Kethruun	Sandbones	Curandeiro	15	47	4	defesa
+PARTY_0836	NPC_0836	Arak	Nyssara	Emerald Tide	Arqueiro	16	50	5	monstros
+PARTY_0837	NPC_0837	Daind	Myrthos	Sem nome definido	Guerreiro	17	53	-5	cura
+PARTY_0838	NPC_0838	Galethb	Orinthal	Crystalia	Batedor	18	56	-4	magia
+PARTY_0839	NPC_0839	Joniath	Valkyrion	Volmeria	Alquimista	19	59	-3	exploração
+PARTY_0840	NPC_0840	Maraa	Aeloria	Norhaven	Valaryn Cadete	20	62	-2	defesa
+PARTY_0841	NPC_0841	Reninl	Zarim	Fornalia	Aventureiro	1	5	-1	monstros
+PARTY_0842	NPC_0842	Vioethr	Eshmara	Brumas	Mago	2	8	0	cura
+PARTY_0843	NPC_0843	Zaniav	Tharun	Stone-Âmbar	Curandeiro	3	11	1	magia
+PARTY_0844	NPC_0844	Belas	Lyrien	Aerocivitus	Arqueiro	4	14	2	exploração
+PARTY_0845	NPC_0845	Eliint	Kethruun	Sandbones	Guerreiro	5	17	3	defesa
+PARTY_0846	NPC_0846	Helethm	Nyssara	Emerald Tide	Batedor	6	20	4	monstros
+PARTY_0847	NPC_0847	Kaian	Myrthos	Sem nome definido	Alquimista	7	23	5	cura
+PARTY_0848	NPC_0848	Nerak	Orinthal	Crystalia	Valaryn Cadete	8	26	-5	magia
+PARTY_0849	NPC_0849	Selind	Valkyrion	Volmeria	Aventureiro	9	29	-4	exploração
+PARTY_0850	NPC_0850	Wilethb	Aeloria	Hallowspire	Mago	10	32	-3	defesa
+PARTY_0851	NPC_0851	Aliath	Zarim	Fornalia	Curandeiro	11	35	-2	monstros
+PARTY_0852	NPC_0852	Coraa	Eshmara	Brumas	Arqueiro	12	38	-1	cura
+PARTY_0853	NPC_0853	Ferinl	Tharun	Stone-Âmbar	Guerreiro	13	41	0	magia
+PARTY_0854	NPC_0854	Iriethr	Lyrien	Aerocivitus	Batedor	14	44	1	exploração
+PARTY_0855	NPC_0855	Liaiav	Kethruun	Sandbones	Alquimista	15	47	2	defesa
+PARTY_0856	NPC_0856	Olias	Nyssara	Emerald Tide	Valaryn Cadete	16	50	3	monstros
+PARTY_0857	NPC_0857	Torint	Myrthos	Sem nome definido	Aventureiro	17	53	4	cura
+PARTY_0858	NPC_0858	Ysaethm	Orinthal	Crystalia	Mago	18	56	5	magia
+PARTY_0859	NPC_0859	Arian	Valkyrion	Volmeria	Curandeiro	19	59	-5	exploração
+PARTY_0860	NPC_0860	Daak	Aeloria	Brighthollow	Arqueiro	20	62	-4	defesa
+PARTY_0861	NPC_0861	Galind	Zarim	Fornalia	Guerreiro	1	5	-3	monstros
+PARTY_0862	NPC_0862	Jonethb	Eshmara	Brumas	Batedor	2	8	-2	cura
+PARTY_0863	NPC_0863	Mariath	Tharun	Stone-Âmbar	Alquimista	3	11	-1	magia
+PARTY_0864	NPC_0864	Renaa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	0	exploração
+PARTY_0865	NPC_0865	Vioinl	Kethruun	Sandbones	Aventureiro	5	17	1	defesa
+PARTY_0866	NPC_0866	Zanethr	Nyssara	Emerald Tide	Mago	6	20	2	monstros
+PARTY_0867	NPC_0867	Beliav	Myrthos	Sem nome definido	Curandeiro	7	23	3	cura
+PARTY_0868	NPC_0868	Elias	Orinthal	Crystalia	Arqueiro	8	26	4	magia
+PARTY_0869	NPC_0869	Helint	Valkyrion	Volmeria	Guerreiro	9	29	5	exploração
+PARTY_0870	NPC_0870	Kaethm	Aeloria	Valdora	Batedor	10	32	-5	defesa
+PARTY_0871	NPC_0871	Nerian	Zarim	Fornalia	Alquimista	11	35	-4	monstros
+PARTY_0872	NPC_0872	Selak	Eshmara	Brumas	Valaryn Cadete	12	38	-3	cura
+PARTY_0873	NPC_0873	Wilind	Tharun	Stone-Âmbar	Aventureiro	13	41	-2	magia
+PARTY_0874	NPC_0874	Alethb	Lyrien	Aerocivitus	Mago	14	44	-1	exploração
+PARTY_0875	NPC_0875	Coriath	Kethruun	Sandbones	Curandeiro	15	47	0	defesa
+PARTY_0876	NPC_0876	Feraa	Nyssara	Emerald Tide	Arqueiro	16	50	1	monstros
+PARTY_0877	NPC_0877	Iriinl	Myrthos	Sem nome definido	Guerreiro	17	53	2	cura
+PARTY_0878	NPC_0878	Liaethr	Orinthal	Crystalia	Batedor	18	56	3	magia
+PARTY_0879	NPC_0879	Oliiav	Valkyrion	Volmeria	Alquimista	19	59	4	exploração
+PARTY_0880	NPC_0880	Toras	Aeloria	Verdralith	Valaryn Cadete	20	62	5	defesa
+PARTY_0881	NPC_0881	Ysaint	Zarim	Fornalia	Aventureiro	1	5	-5	monstros
+PARTY_0882	NPC_0882	Arethm	Eshmara	Brumas	Mago	2	8	-4	cura
+PARTY_0883	NPC_0883	Daian	Tharun	Stone-Âmbar	Curandeiro	3	11	-3	magia
+PARTY_0884	NPC_0884	Galak	Lyrien	Aerocivitus	Arqueiro	4	14	-2	exploração
+PARTY_0885	NPC_0885	Jonind	Kethruun	Sandbones	Guerreiro	5	17	-1	defesa
+PARTY_0886	NPC_0886	Marethb	Nyssara	Emerald Tide	Batedor	6	20	0	monstros
+PARTY_0887	NPC_0887	Reniath	Myrthos	Sem nome definido	Alquimista	7	23	1	cura
+PARTY_0888	NPC_0888	Vioaa	Orinthal	Crystalia	Valaryn Cadete	8	26	2	magia
+PARTY_0889	NPC_0889	Zaninl	Valkyrion	Volmeria	Aventureiro	9	29	3	exploração
+PARTY_0890	NPC_0890	Belethr	Aeloria	Prismere	Mago	10	32	4	defesa
+PARTY_0891	NPC_0891	Eliiav	Zarim	Fornalia	Curandeiro	11	35	5	monstros
+PARTY_0892	NPC_0892	Helas	Eshmara	Brumas	Arqueiro	12	38	-5	cura
+PARTY_0893	NPC_0893	Kaint	Tharun	Stone-Âmbar	Guerreiro	13	41	-4	magia
+PARTY_0894	NPC_0894	Nerethm	Lyrien	Aerocivitus	Batedor	14	44	-3	exploração
+PARTY_0895	NPC_0895	Selian	Kethruun	Sandbones	Alquimista	15	47	-2	defesa
+PARTY_0896	NPC_0896	Wilak	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-1	monstros
+PARTY_0897	NPC_0897	Alind	Myrthos	Sem nome definido	Aventureiro	17	53	0	cura
+PARTY_0898	NPC_0898	Corethb	Orinthal	Crystalia	Mago	18	56	1	magia
+PARTY_0899	NPC_0899	Feriath	Valkyrion	Volmeria	Curandeiro	19	59	2	exploração
+PARTY_0900	NPC_0900	Iriaa	Aeloria	Jorwyn	Arqueiro	20	62	3	defesa
+PARTY_0901	NPC_0901	Liainl	Zarim	Fornalia	Guerreiro	1	5	4	monstros
+PARTY_0902	NPC_0902	Oliethr	Eshmara	Brumas	Batedor	2	8	5	cura
+PARTY_0903	NPC_0903	Toriav	Tharun	Stone-Âmbar	Alquimista	3	11	-5	magia
+PARTY_0904	NPC_0904	Ysaas	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-4	exploração
+PARTY_0905	NPC_0905	Arint	Kethruun	Sandbones	Aventureiro	5	17	-3	defesa
+PARTY_0906	NPC_0906	Daethm	Nyssara	Emerald Tide	Mago	6	20	-2	monstros
+PARTY_0907	NPC_0907	Galian	Myrthos	Sem nome definido	Curandeiro	7	23	-1	cura
+PARTY_0908	NPC_0908	Jonak	Orinthal	Crystalia	Arqueiro	8	26	0	magia
+PARTY_0909	NPC_0909	Marind	Valkyrion	Volmeria	Guerreiro	9	29	1	exploração
+PARTY_0910	NPC_0910	Renethb	Aeloria	Dawnspire	Batedor	10	32	2	defesa
+PARTY_0911	NPC_0911	Vioiath	Zarim	Fornalia	Alquimista	11	35	3	monstros
+PARTY_0912	NPC_0912	Zanaa	Eshmara	Brumas	Valaryn Cadete	12	38	4	cura
+PARTY_0913	NPC_0913	Belinl	Tharun	Stone-Âmbar	Aventureiro	13	41	5	magia
+PARTY_0914	NPC_0914	Eliethr	Lyrien	Aerocivitus	Mago	14	44	-5	exploração
+PARTY_0915	NPC_0915	Heliav	Kethruun	Sandbones	Curandeiro	15	47	-4	defesa
+PARTY_0916	NPC_0916	Kaas	Nyssara	Emerald Tide	Arqueiro	16	50	-3	monstros
+PARTY_0917	NPC_0917	Nerint	Myrthos	Sem nome definido	Guerreiro	17	53	-2	cura
+PARTY_0918	NPC_0918	Selethm	Orinthal	Crystalia	Batedor	18	56	-1	magia
+PARTY_0919	NPC_0919	Wilian	Valkyrion	Volmeria	Alquimista	19	59	0	exploração
+PARTY_0920	NPC_0920	Alak	Aeloria	Xandralor	Valaryn Cadete	20	62	1	defesa
+PARTY_0921	NPC_0921	Corind	Zarim	Fornalia	Aventureiro	1	5	2	monstros
+PARTY_0922	NPC_0922	Ferethb	Eshmara	Brumas	Mago	2	8	3	cura
+PARTY_0923	NPC_0923	Iriiath	Tharun	Stone-Âmbar	Curandeiro	3	11	4	magia
+PARTY_0924	NPC_0924	Liaaa	Lyrien	Aerocivitus	Arqueiro	4	14	5	exploração
+PARTY_0925	NPC_0925	Oliinl	Kethruun	Sandbones	Guerreiro	5	17	-5	defesa
+PARTY_0926	NPC_0926	Torethr	Nyssara	Emerald Tide	Batedor	6	20	-4	monstros
+PARTY_0927	NPC_0927	Ysaiav	Myrthos	Sem nome definido	Alquimista	7	23	-3	cura
+PARTY_0928	NPC_0928	Aras	Orinthal	Crystalia	Valaryn Cadete	8	26	-2	magia
+PARTY_0929	NPC_0929	Daint	Valkyrion	Volmeria	Aventureiro	9	29	-1	exploração
+PARTY_0930	NPC_0930	Galethm	Aeloria	Rivenholt	Mago	10	32	0	defesa
+PARTY_0931	NPC_0931	Jonian	Zarim	Fornalia	Curandeiro	11	35	1	monstros
+PARTY_0932	NPC_0932	Marak	Eshmara	Brumas	Arqueiro	12	38	2	cura
+PARTY_0933	NPC_0933	Renind	Tharun	Stone-Âmbar	Guerreiro	13	41	3	magia
+PARTY_0934	NPC_0934	Vioethb	Lyrien	Aerocivitus	Batedor	14	44	4	exploração
+PARTY_0935	NPC_0935	Zaniath	Kethruun	Sandbones	Alquimista	15	47	5	defesa
+PARTY_0936	NPC_0936	Belaa	Nyssara	Emerald Tide	Valaryn Cadete	16	50	-5	monstros
+PARTY_0937	NPC_0937	Eliinl	Myrthos	Sem nome definido	Aventureiro	17	53	-4	cura
+PARTY_0938	NPC_0938	Helethr	Orinthal	Crystalia	Mago	18	56	-3	magia
+PARTY_0939	NPC_0939	Kaiav	Valkyrion	Volmeria	Curandeiro	19	59	-2	exploração
+PARTY_0940	NPC_0940	Neras	Aeloria	Loryndor	Arqueiro	20	62	-1	defesa
+PARTY_0941	NPC_0941	Selint	Zarim	Fornalia	Guerreiro	1	5	0	monstros
+PARTY_0942	NPC_0942	Wilethm	Eshmara	Brumas	Batedor	2	8	1	cura
+PARTY_0943	NPC_0943	Alian	Tharun	Stone-Âmbar	Alquimista	3	11	2	magia
+PARTY_0944	NPC_0944	Corak	Lyrien	Aerocivitus	Valaryn Cadete	4	14	3	exploração
+PARTY_0945	NPC_0945	Ferind	Kethruun	Sandbones	Aventureiro	5	17	4	defesa
+PARTY_0946	NPC_0946	Iriethb	Nyssara	Emerald Tide	Mago	6	20	5	monstros
+PARTY_0947	NPC_0947	Liaiath	Myrthos	Sem nome definido	Curandeiro	7	23	-5	cura
+PARTY_0948	NPC_0948	Oliaa	Orinthal	Crystalia	Arqueiro	8	26	-4	magia
+PARTY_0949	NPC_0949	Torinl	Valkyrion	Volmeria	Guerreiro	9	29	-3	exploração
+PARTY_0950	NPC_0950	Ysaethr	Aeloria	Fenndral	Batedor	10	32	-2	defesa
+PARTY_0951	NPC_0951	Ariav	Zarim	Fornalia	Alquimista	11	35	-1	monstros
+PARTY_0952	NPC_0952	Daas	Eshmara	Brumas	Valaryn Cadete	12	38	0	cura
+PARTY_0953	NPC_0953	Galint	Tharun	Stone-Âmbar	Aventureiro	13	41	1	magia
+PARTY_0954	NPC_0954	Jonethm	Lyrien	Aerocivitus	Mago	14	44	2	exploração
+PARTY_0955	NPC_0955	Marian	Kethruun	Sandbones	Curandeiro	15	47	3	defesa
+PARTY_0956	NPC_0956	Renak	Nyssara	Emerald Tide	Arqueiro	16	50	4	monstros
+PARTY_0957	NPC_0957	Vioind	Myrthos	Sem nome definido	Guerreiro	17	53	5	cura
+PARTY_0958	NPC_0958	Zanethb	Orinthal	Crystalia	Batedor	18	56	-5	magia
+PARTY_0959	NPC_0959	Beliath	Valkyrion	Volmeria	Alquimista	19	59	-4	exploração
+PARTY_0960	NPC_0960	Eliaa	Aeloria	Feyndral	Valaryn Cadete	20	62	-3	defesa
+PARTY_0961	NPC_0961	Helinl	Zarim	Fornalia	Aventureiro	1	5	-2	monstros
+PARTY_0962	NPC_0962	Kaethr	Eshmara	Brumas	Mago	2	8	-1	cura
+PARTY_0963	NPC_0963	Neriav	Tharun	Stone-Âmbar	Curandeiro	3	11	0	magia
+PARTY_0964	NPC_0964	Selas	Lyrien	Aerocivitus	Arqueiro	4	14	1	exploração
+PARTY_0965	NPC_0965	Wilint	Kethruun	Sandbones	Guerreiro	5	17	2	defesa
+PARTY_0966	NPC_0966	Alethm	Nyssara	Emerald Tide	Batedor	6	20	3	monstros
+PARTY_0967	NPC_0967	Corian	Myrthos	Sem nome definido	Alquimista	7	23	4	cura
+PARTY_0968	NPC_0968	Ferak	Orinthal	Crystalia	Valaryn Cadete	8	26	5	magia
+PARTY_0969	NPC_0969	Iriind	Valkyrion	Volmeria	Aventureiro	9	29	-5	exploração
+PARTY_0970	NPC_0970	Liaethb	Aeloria	Zephyrholt	Mago	10	32	-4	defesa
+PARTY_0971	NPC_0971	Oliiath	Zarim	Fornalia	Curandeiro	11	35	-3	monstros
+PARTY_0972	NPC_0972	Toraa	Eshmara	Brumas	Arqueiro	12	38	-2	cura
+PARTY_0973	NPC_0973	Ysainl	Tharun	Stone-Âmbar	Guerreiro	13	41	-1	magia
+PARTY_0974	NPC_0974	Arethr	Lyrien	Aerocivitus	Batedor	14	44	0	exploração
+PARTY_0975	NPC_0975	Daiav	Kethruun	Sandbones	Alquimista	15	47	1	defesa
+PARTY_0976	NPC_0976	Galas	Nyssara	Emerald Tide	Valaryn Cadete	16	50	2	monstros
+PARTY_0977	NPC_0977	Jonint	Myrthos	Sem nome definido	Aventureiro	17	53	3	cura
+PARTY_0978	NPC_0978	Marethm	Orinthal	Crystalia	Mago	18	56	4	magia
+PARTY_0979	NPC_0979	Renian	Valkyrion	Volmeria	Curandeiro	19	59	5	exploração
+PARTY_0980	NPC_0980	Vioak	Aeloria	Tindralith	Arqueiro	20	62	-5	defesa
+PARTY_0981	NPC_0981	Zanind	Zarim	Fornalia	Guerreiro	1	5	-4	monstros
+PARTY_0982	NPC_0982	Belethb	Eshmara	Brumas	Batedor	2	8	-3	cura
+PARTY_0983	NPC_0983	Eliiath	Tharun	Stone-Âmbar	Alquimista	3	11	-2	magia
+PARTY_0984	NPC_0984	Helaa	Lyrien	Aerocivitus	Valaryn Cadete	4	14	-1	exploração
+PARTY_0985	NPC_0985	Kainl	Kethruun	Sandbones	Aventureiro	5	17	0	defesa
+PARTY_0986	NPC_0986	Nerethr	Nyssara	Emerald Tide	Mago	6	20	1	monstros
+PARTY_0987	NPC_0987	Seliav	Myrthos	Sem nome definido	Curandeiro	7	23	2	cura
+PARTY_0988	NPC_0988	Wilas	Orinthal	Crystalia	Arqueiro	8	26	3	magia
+PARTY_0989	NPC_0989	Alint	Valkyrion	Volmeria	Guerreiro	9	29	4	exploração
+PARTY_0990	NPC_0990	Corethm	Aeloria	Netherholt	Batedor	10	32	5	defesa
+PARTY_0991	NPC_0991	Ferian	Zarim	Fornalia	Alquimista	11	35	-5	monstros
+PARTY_0992	NPC_0992	Iriak	Eshmara	Brumas	Valaryn Cadete	12	38	-4	cura
+PARTY_0993	NPC_0993	Liaind	Tharun	Stone-Âmbar	Aventureiro	13	41	-3	magia
+PARTY_0994	NPC_0994	Oliethb	Lyrien	Aerocivitus	Mago	14	44	-2	exploração
+PARTY_0995	NPC_0995	Toriath	Kethruun	Sandbones	Curandeiro	15	47	-1	defesa
+PARTY_0996	NPC_0996	Ysaaa	Nyssara	Emerald Tide	Arqueiro	16	50	0	monstros
+PARTY_0997	NPC_0997	Arinl	Myrthos	Sem nome definido	Guerreiro	17	53	1	cura
+PARTY_0998	NPC_0998	Daethr	Orinthal	Crystalia	Batedor	18	56	2	magia
+PARTY_0999	NPC_0999	Galiav	Valkyrion	Volmeria	Alquimista	19	59	3	exploração
+PARTY_1000	NPC_1000	Jonas	Aeloria	Highspire	Valaryn Cadete	20	62	4	defesa

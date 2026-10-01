@@ -1,0 +1,78 @@
+kind	name	realm	capital	detail	status
+realm	Aeloria	Aeloria	Valdora	Alaric, o Portador da Lança Solar | arte, literatura, harpas, instituições de conhecimento	CANONICAL
+realm	Tharun	Tharun	Stone-Âmbar	Tharos, o Machado da Terra | montanhas, mineração, metalurgia, forjas, runas	CANONICAL
+realm	Nyssara	Nyssara	Emerald Tide	Serene, a Dama das Correntes Etéreas | rios, lagos, pesca cerimonial, rituais aquáticos	CANONICAL
+realm	Valkyrion	Valkyrion	Volmeria	Kaneldor, o Cavaleiro | planícies, cavalaria, torneios, juramentos	CANONICAL
+realm	Eshmara	Eshmara	Brumas	Isolde, a Arqueira das Estrelas | florestas, jardins, plantas, cura	CANONICAL
+realm	Kethruun	Kethruun	Sandbones	Lyenne | deserto, ancestrais, bibliotecas, ritos noturnos	CANONICAL
+realm	Orinthal	Orinthal	Crystalia	Lyanna, a Dama do Gelo | comércio, mercadores, guildas, especiarias	CANONICAL
+realm	Zarim	Zarim	Fornalia	Magnus, o Escudo das Chamas | vulcões, lava, forjas, festivais de brasas	CANONICAL
+realm	Lyrien	Lyrien	Aerocivitus	Orion, o Cajado dos Ventos | céu, vento, capital flutuante, música	CANONICAL
+realm	Myrthos	Myrthos	Sem nome definido	Deus Primal conforme compêndio | arquitetura oriental, jardins, templos, guerreiros	CANONICAL
+city	Valdora	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Drakensport	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Lunareth	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Cindralith	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Feyndral	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Arvenholt	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Brighthollow	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Caelwyn	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Duskmere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Eldrath	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Fenndral	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Greystone	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Hallowspire	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Ironvale	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Jorathen	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Kaelmoor	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Loryndor	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Myrendale	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Norhaven	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Oathmere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Pyrelith	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Quenndral	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Rivenholt	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Sylthar	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Thornmere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Umbravale	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Veyndaril	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Windralith	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Xandralor	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Ylthmere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Zorathen	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Ashenford	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Blackmere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Crestwyn	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Dawnspire	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Emberholt	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Frostmere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Goldhaven	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Highspire	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Irondral	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Jorwyn	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Kethralith	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Lorwynne	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Mistvale	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Netherholt	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Oakmere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Prismere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Quorathen	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Runedral	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Stormhaven	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Tindralith	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Ulthmere	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Verdralith	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Wyrmhaven	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Xyrelith	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Yndralor	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Zephyrholt	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Branthollow	Aeloria	Valdora	Cidade catalogada na referência geográfica atual.	CANONICAL
+city	Stone-Âmbar	Tharun	Stone-Âmbar	Capital registrada no compêndio.	CANONICAL
+city	Emerald Tide	Nyssara	Emerald Tide	Capital registrada no compêndio.	CANONICAL
+city	Volmeria	Valkyrion	Volmeria	Capital registrada no compêndio.	CANONICAL
+city	Brumas	Eshmara	Brumas	Capital registrada no compêndio.	CANONICAL
+city	Sandbones	Kethruun	Sandbones	Capital registrada no compêndio.	CANONICAL
+city	Crystalia	Orinthal	Crystalia	Capital registrada no compêndio.	CANONICAL
+city	Fornalia	Zarim	Fornalia	Capital registrada no compêndio.	CANONICAL
+city	Aerocivitus	Lyrien	Aerocivitus	Capital registrada no compêndio.	CANONICAL
+city	Sem nome definido	Myrthos	Sem nome definido	Capital registrada no compêndio.	CANONICAL

@@ -1,0 +1,6 @@
+resource	path	purpose
+CULTURES	culture/kingdoms_cultures.tsv	Sociedades e identidade regional
+LANGUAGES	culture/languages.tsv	Gramáticas e perfis linguísticos
+LEXICON	culture/lexicon.tsv	Vocabulário multilíngue para aprendizagem
+CUSTOMS	culture/social_customs.tsv	Etiqueta e costumes regionais
+CUISINE_TRADE	culture/cuisine_trade.tsv	Economia cultural e culinária

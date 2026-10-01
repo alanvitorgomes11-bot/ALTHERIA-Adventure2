@@ -1,0 +1,241 @@
+id	name	category	realm	habitat	behavior	domestication	transport	threat	description
+FAU_0001	Vaca	COMUM	Aeloria	costa	crepuscular	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0002	Galinha	COMUM	Tharun	estrada	defensor de ninho	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0003	Galo	COMUM	Nyssara	pântano	solitário	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0004	Porco	COMUM	Valkyrion	região gelada	emboscador	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0005	Cabra	COMUM	Eshmara	vulcânica	caçador de matilha	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0006	Ovelha	COMUM	Kethruun	deserto	oportunista	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0007	Cão	COMUM	Orinthal	ruínas	noturno	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0008	Gato	COMUM	Zarim	montanha	gregário	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0009	Cavalo	COMUM	Lyrien	oceano	migratório	doméstico	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0010	Burro	COMUM	Myrthos	pradaria	necrófago	doméstico	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0011	Mula	COMUM	Aeloria	planície	territorial	doméstico	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0012	Boi	COMUM	Tharun	caverna	crepuscular	doméstico	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0013	Coelho	COMUM	Nyssara	floresta	defensor de ninho	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0014	Pato	COMUM	Valkyrion	costa	solitário	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0015	Ganso	COMUM	Eshmara	estrada	emboscador	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0016	Peru	COMUM	Kethruun	pântano	caçador de matilha	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0017	Cervo	COMUM	Orinthal	região gelada	oportunista	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0018	Veado	COMUM	Zarim	vulcânica	noturno	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0019	Alce	COMUM	Lyrien	deserto	gregário	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0020	Javali	COMUM	Myrthos	ruínas	migratório	doméstico	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0021	Raposa	COMUM	Aeloria	montanha	necrófago	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0022	Lontra	COMUM	Tharun	oceano	territorial	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0023	Castor	COMUM	Nyssara	pradaria	crepuscular	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0024	Águia	COMUM	Valkyrion	planície	defensor de ninho	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0025	Coruja	COMUM	Eshmara	caverna	solitário	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0026	Falcão	COMUM	Kethruun	floresta	emboscador	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0027	Salmão	COMUM	Orinthal	costa	caçador de matilha	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0028	Truta	COMUM	Zarim	estrada	oportunista	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0029	Carpa	COMUM	Lyrien	pântano	noturno	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0030	Enguia	COMUM	Myrthos	região gelada	gregário	doméstico	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0031	Vaca	COMUM	Aeloria	vulcânica	migratório	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0032	Galinha	COMUM	Tharun	deserto	necrófago	parcial	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0033	Galo	COMUM	Nyssara	ruínas	territorial	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0034	Porco	COMUM	Valkyrion	montanha	crepuscular	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0035	Cabra	COMUM	Eshmara	oceano	defensor de ninho	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0036	Ovelha	COMUM	Kethruun	pradaria	solitário	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0037	Cão	COMUM	Orinthal	planície	emboscador	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0038	Gato	COMUM	Zarim	caverna	caçador de matilha	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0039	Cavalo	COMUM	Lyrien	floresta	oportunista	selvagem	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0040	Burro	COMUM	Myrthos	costa	noturno	parcial	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0041	Mula de Aeloria	COMUM	Aeloria	estrada	gregário	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0042	Boi de Tharun	COMUM	Tharun	pântano	migratório	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0043	Coelho de Nyssara	COMUM	Nyssara	região gelada	necrófago	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0044	Pato de Valkyrion	COMUM	Valkyrion	vulcânica	territorial	parcial	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0045	Ganso de Eshmara	COMUM	Eshmara	deserto	crepuscular	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0046	Peru de Kethruun	COMUM	Kethruun	ruínas	defensor de ninho	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0047	Cervo de Orinthal	COMUM	Orinthal	montanha	solitário	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0048	Veado de Zarim	COMUM	Zarim	oceano	emboscador	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0049	Alce de Lyrien	COMUM	Lyrien	pradaria	caçador de matilha	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0050	Javali de Myrthos	COMUM	Myrthos	planície	oportunista	selvagem	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0051	Raposa de Aeloria	COMUM	Aeloria	caverna	noturno	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0052	Lontra de Tharun	COMUM	Tharun	floresta	gregário	parcial	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0053	Castor de Nyssara	COMUM	Nyssara	costa	migratório	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0054	Águia de Valkyrion	COMUM	Valkyrion	estrada	necrófago	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0055	Coruja de Eshmara	COMUM	Eshmara	pântano	territorial	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0056	Falcão de Kethruun	COMUM	Kethruun	região gelada	crepuscular	parcial	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0057	Salmão de Orinthal	COMUM	Orinthal	vulcânica	defensor de ninho	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0058	Truta de Zarim	COMUM	Zarim	deserto	solitário	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0059	Carpa de Lyrien	COMUM	Lyrien	ruínas	emboscador	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0060	Enguia de Myrthos	COMUM	Myrthos	montanha	caçador de matilha	doméstico	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0061	Vaca de Aeloria	COMUM	Aeloria	oceano	oportunista	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0062	Galinha de Tharun	COMUM	Tharun	pradaria	noturno	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0063	Galo de Nyssara	COMUM	Nyssara	planície	gregário	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0064	Porco de Valkyrion	COMUM	Valkyrion	caverna	migratório	parcial	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0065	Cabra de Eshmara	COMUM	Eshmara	floresta	necrófago	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0066	Ovelha de Kethruun	COMUM	Kethruun	costa	territorial	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0067	Cão de Orinthal	COMUM	Orinthal	estrada	crepuscular	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0068	Gato de Zarim	COMUM	Zarim	pântano	defensor de ninho	parcial	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0069	Cavalo de Lyrien	COMUM	Lyrien	região gelada	solitário	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0070	Burro de Myrthos	COMUM	Myrthos	vulcânica	emboscador	selvagem	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0071	Mula de Aeloria	COMUM	Aeloria	deserto	caçador de matilha	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0072	Boi de Tharun	COMUM	Tharun	ruínas	oportunista	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0073	Coelho de Nyssara	COMUM	Nyssara	montanha	noturno	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0074	Pato de Valkyrion	COMUM	Valkyrion	oceano	gregário	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0075	Ganso de Eshmara	COMUM	Eshmara	pradaria	migratório	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0076	Peru de Kethruun	COMUM	Kethruun	planície	necrófago	parcial	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0077	Cervo de Orinthal	COMUM	Orinthal	caverna	territorial	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0078	Veado de Zarim	COMUM	Zarim	floresta	crepuscular	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0079	Alce de Lyrien	COMUM	Lyrien	costa	defensor de ninho	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0080	Javali de Myrthos	COMUM	Myrthos	estrada	solitário	parcial	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0081	Raposa de Aeloria	COMUM	Aeloria	pântano	emboscador	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0082	Lontra de Tharun	COMUM	Tharun	região gelada	caçador de matilha	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0083	Castor de Nyssara	COMUM	Nyssara	vulcânica	oportunista	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0084	Águia de Valkyrion	COMUM	Valkyrion	deserto	noturno	doméstico	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0085	Coruja de Eshmara	COMUM	Eshmara	ruínas	gregário	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0086	Falcão de Kethruun	COMUM	Kethruun	montanha	migratório	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0087	Salmão de Orinthal	COMUM	Orinthal	oceano	necrófago	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0088	Truta de Zarim	COMUM	Zarim	pradaria	territorial	parcial	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0089	Carpa de Lyrien	COMUM	Lyrien	planície	crepuscular	selvagem	não	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0090	Enguia de Myrthos	COMUM	Myrthos	caverna	defensor de ninho	doméstico	sim	0	Fauna comum observada no cotidiano de Altheria.
+FAU_0091	Safira cauda	FANTÁSTICA	Aeloria	floresta	solitário	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0092	Dourado pelagem	FANTÁSTICA	Tharun	costa	emboscador	parcial	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0093	Tempest pata	FANTÁSTICA	Nyssara	estrada	caçador de matilha	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0094	Lúmen pluma	FANTÁSTICA	Valkyrion	pântano	oportunista	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0095	Âmbar focinho	FANTÁSTICA	Eshmara	região gelada	noturno	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0096	Celeste corno	FANTÁSTICA	Kethruun	vulcânica	gregário	doméstico	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0097	Nebular escama	FANTÁSTICA	Orinthal	deserto	migratório	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0098	Esmeralda asa	FANTÁSTICA	Zarim	ruínas	necrófago	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0099	Prateado chifre	FANTÁSTICA	Lyrien	montanha	territorial	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0100	Brumal garra	FANTÁSTICA	Myrthos	oceano	crepuscular	parcial	sim	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0101	Ferrugem nadadeira	FANTÁSTICA	Aeloria	pradaria	defensor de ninho	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0102	Cinzento casco	FANTÁSTICA	Tharun	planície	solitário	doméstico	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0103	Sussurro cauda	FANTÁSTICA	Nyssara	caverna	emboscador	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0104	Marfim pelagem	FANTÁSTICA	Valkyrion	floresta	caçador de matilha	parcial	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0105	Obsidiana pata	FANTÁSTICA	Eshmara	costa	oportunista	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0106	Véu pluma	FANTÁSTICA	Kethruun	estrada	noturno	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0107	Solar focinho	FANTÁSTICA	Orinthal	pântano	gregário	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0108	Musgo corno	FANTÁSTICA	Zarim	região gelada	migratório	doméstico	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0109	Rubro escama	FANTÁSTICA	Lyrien	vulcânica	necrófago	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0110	Pedral asa	FANTÁSTICA	Myrthos	deserto	territorial	selvagem	sim	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0111	Safira chifre	FANTÁSTICA	Aeloria	ruínas	crepuscular	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0112	Dourado garra	FANTÁSTICA	Tharun	montanha	defensor de ninho	parcial	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0113	Tempest nadadeira	FANTÁSTICA	Nyssara	oceano	solitário	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0114	Lúmen casco	FANTÁSTICA	Valkyrion	pradaria	emboscador	doméstico	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0115	Âmbar cauda	FANTÁSTICA	Eshmara	planície	caçador de matilha	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0116	Celeste pelagem	FANTÁSTICA	Kethruun	caverna	oportunista	parcial	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0117	Nebular pata	FANTÁSTICA	Orinthal	floresta	noturno	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0118	Esmeralda pluma	FANTÁSTICA	Zarim	costa	gregário	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0119	Prateado focinho	FANTÁSTICA	Lyrien	estrada	migratório	selvagem	não	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0120	Brumal corno	FANTÁSTICA	Myrthos	pântano	necrófago	doméstico	sim	0	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0121	Ferrugem escama	FANTÁSTICA	Aeloria	região gelada	territorial	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0122	Cinzento asa	FANTÁSTICA	Tharun	vulcânica	crepuscular	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0123	Sussurro chifre	FANTÁSTICA	Nyssara	deserto	defensor de ninho	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0124	Marfim garra	FANTÁSTICA	Valkyrion	ruínas	solitário	parcial	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0125	Obsidiana nadadeira	FANTÁSTICA	Eshmara	montanha	emboscador	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0126	Véu casco	FANTÁSTICA	Kethruun	oceano	caçador de matilha	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0127	Solar cauda	FANTÁSTICA	Orinthal	pradaria	oportunista	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0128	Musgo pelagem	FANTÁSTICA	Zarim	planície	noturno	parcial	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0129	Rubro pata	FANTÁSTICA	Lyrien	caverna	gregário	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0130	Pedral pluma	FANTÁSTICA	Myrthos	floresta	migratório	selvagem	sim	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0131	Safira focinho	FANTÁSTICA	Aeloria	costa	necrófago	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0132	Dourado corno	FANTÁSTICA	Tharun	estrada	territorial	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0133	Tempest escama	FANTÁSTICA	Nyssara	pântano	crepuscular	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0134	Lúmen asa	FANTÁSTICA	Valkyrion	região gelada	defensor de ninho	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0135	Âmbar chifre	FANTÁSTICA	Eshmara	vulcânica	solitário	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0136	Celeste garra	FANTÁSTICA	Kethruun	deserto	emboscador	parcial	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0137	Nebular nadadeira	FANTÁSTICA	Orinthal	ruínas	caçador de matilha	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0138	Esmeralda casco	FANTÁSTICA	Zarim	montanha	oportunista	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0139	Prateado cauda	FANTÁSTICA	Lyrien	oceano	noturno	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0140	Brumal pelagem	FANTÁSTICA	Myrthos	pradaria	gregário	parcial	sim	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0141	Ferrugem pata	FANTÁSTICA	Aeloria	planície	migratório	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0142	Cinzento pluma	FANTÁSTICA	Tharun	caverna	necrófago	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0143	Sussurro focinho	FANTÁSTICA	Nyssara	floresta	territorial	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0144	Marfim corno	FANTÁSTICA	Valkyrion	costa	crepuscular	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0145	Obsidiana escama	FANTÁSTICA	Eshmara	estrada	defensor de ninho	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0146	Véu asa	FANTÁSTICA	Kethruun	pântano	solitário	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0147	Solar chifre	FANTÁSTICA	Orinthal	região gelada	emboscador	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0148	Musgo garra	FANTÁSTICA	Zarim	vulcânica	caçador de matilha	parcial	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0149	Rubro nadadeira	FANTÁSTICA	Lyrien	deserto	oportunista	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0150	Pedral casco	FANTÁSTICA	Myrthos	ruínas	noturno	doméstico	sim	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0151	Safira cauda	FANTÁSTICA	Aeloria	montanha	gregário	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0152	Dourado pelagem	FANTÁSTICA	Tharun	oceano	migratório	parcial	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0153	Tempest pata	FANTÁSTICA	Nyssara	pradaria	necrófago	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0154	Lúmen pluma	FANTÁSTICA	Valkyrion	planície	territorial	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0155	Âmbar focinho	FANTÁSTICA	Eshmara	caverna	crepuscular	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0156	Celeste corno	FANTÁSTICA	Kethruun	floresta	defensor de ninho	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0157	Nebular escama	FANTÁSTICA	Orinthal	costa	solitário	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0158	Esmeralda asa	FANTÁSTICA	Zarim	estrada	emboscador	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0159	Prateado chifre	FANTÁSTICA	Lyrien	pântano	caçador de matilha	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0160	Brumal garra	FANTÁSTICA	Myrthos	região gelada	oportunista	parcial	sim	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0161	Ferrugem nadadeira	FANTÁSTICA	Aeloria	vulcânica	noturno	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0162	Cinzento casco	FANTÁSTICA	Tharun	deserto	gregário	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0163	Sussurro cauda	FANTÁSTICA	Nyssara	ruínas	migratório	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0164	Marfim pelagem	FANTÁSTICA	Valkyrion	montanha	necrófago	parcial	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0165	Obsidiana pata	FANTÁSTICA	Eshmara	oceano	territorial	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0166	Véu pluma	FANTÁSTICA	Kethruun	pradaria	crepuscular	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0167	Solar focinho	FANTÁSTICA	Orinthal	planície	defensor de ninho	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0168	Musgo corno	FANTÁSTICA	Zarim	caverna	solitário	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0169	Rubro escama	FANTÁSTICA	Lyrien	floresta	emboscador	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0170	Pedral asa	FANTÁSTICA	Myrthos	costa	caçador de matilha	selvagem	sim	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0171	Safira chifre	FANTÁSTICA	Aeloria	estrada	oportunista	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0172	Dourado garra	FANTÁSTICA	Tharun	pântano	noturno	parcial	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0173	Tempest nadadeira	FANTÁSTICA	Nyssara	região gelada	gregário	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0174	Lúmen casco	FANTÁSTICA	Valkyrion	vulcânica	migratório	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0175	Âmbar cauda	FANTÁSTICA	Eshmara	deserto	necrófago	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0176	Celeste pelagem	FANTÁSTICA	Kethruun	ruínas	territorial	parcial	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0177	Nebular pata	FANTÁSTICA	Orinthal	montanha	crepuscular	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0178	Esmeralda pluma	FANTÁSTICA	Zarim	oceano	defensor de ninho	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0179	Prateado focinho	FANTÁSTICA	Lyrien	pradaria	solitário	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0180	Brumal corno	FANTÁSTICA	Myrthos	planície	emboscador	doméstico	sim	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0181	Ferrugem escama	FANTÁSTICA	Aeloria	caverna	caçador de matilha	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0182	Cinzento asa	FANTÁSTICA	Tharun	floresta	oportunista	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0183	Sussurro chifre	FANTÁSTICA	Nyssara	costa	noturno	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0184	Marfim garra	FANTÁSTICA	Valkyrion	estrada	gregário	parcial	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0185	Obsidiana nadadeira	FANTÁSTICA	Eshmara	pântano	migratório	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0186	Véu casco	FANTÁSTICA	Kethruun	região gelada	necrófago	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0187	Solar cauda	FANTÁSTICA	Orinthal	vulcânica	territorial	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0188	Musgo pelagem	FANTÁSTICA	Zarim	deserto	crepuscular	parcial	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0189	Rubro pata	FANTÁSTICA	Lyrien	ruínas	defensor de ninho	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0190	Pedral pluma	FANTÁSTICA	Myrthos	montanha	solitário	selvagem	sim	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0191	Safira focinho	FANTÁSTICA	Aeloria	oceano	emboscador	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0192	Dourado corno	FANTÁSTICA	Tharun	pradaria	caçador de matilha	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0193	Tempest escama	FANTÁSTICA	Nyssara	planície	oportunista	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0194	Lúmen asa	FANTÁSTICA	Valkyrion	caverna	noturno	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0195	Âmbar chifre	FANTÁSTICA	Eshmara	floresta	gregário	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0196	Celeste garra	FANTÁSTICA	Kethruun	costa	migratório	parcial	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0197	Nebular nadadeira	FANTÁSTICA	Orinthal	estrada	necrófago	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0198	Esmeralda casco	FANTÁSTICA	Zarim	pântano	territorial	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0199	Prateado cauda	FANTÁSTICA	Lyrien	região gelada	crepuscular	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0200	Brumal pelagem	FANTÁSTICA	Myrthos	vulcânica	defensor de ninho	parcial	sim	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0201	Ferrugem pata	FANTÁSTICA	Aeloria	deserto	solitário	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0202	Cinzento pluma	FANTÁSTICA	Tharun	ruínas	emboscador	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0203	Sussurro focinho	FANTÁSTICA	Nyssara	montanha	caçador de matilha	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0204	Marfim corno	FANTÁSTICA	Valkyrion	oceano	oportunista	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0205	Obsidiana escama	FANTÁSTICA	Eshmara	pradaria	noturno	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0206	Véu asa	FANTÁSTICA	Kethruun	planície	gregário	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0207	Solar chifre	FANTÁSTICA	Orinthal	caverna	migratório	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0208	Musgo garra	FANTÁSTICA	Zarim	floresta	necrófago	parcial	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0209	Rubro nadadeira	FANTÁSTICA	Lyrien	costa	territorial	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0210	Pedral casco	FANTÁSTICA	Myrthos	estrada	crepuscular	doméstico	sim	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0211	Safira cauda	FANTÁSTICA	Aeloria	pântano	defensor de ninho	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0212	Dourado pelagem	FANTÁSTICA	Tharun	região gelada	solitário	parcial	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0213	Tempest pata	FANTÁSTICA	Nyssara	vulcânica	emboscador	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0214	Lúmen pluma	FANTÁSTICA	Valkyrion	deserto	caçador de matilha	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0215	Âmbar focinho	FANTÁSTICA	Eshmara	ruínas	oportunista	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0216	Celeste corno	FANTÁSTICA	Kethruun	montanha	noturno	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0217	Nebular escama	FANTÁSTICA	Orinthal	oceano	gregário	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0218	Esmeralda asa	FANTÁSTICA	Zarim	pradaria	migratório	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0219	Prateado chifre	FANTÁSTICA	Lyrien	planície	necrófago	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0220	Brumal garra	FANTÁSTICA	Myrthos	caverna	territorial	parcial	sim	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0221	Ferrugem nadadeira	FANTÁSTICA	Aeloria	floresta	crepuscular	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0222	Cinzento casco	FANTÁSTICA	Tharun	costa	defensor de ninho	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0223	Sussurro cauda	FANTÁSTICA	Nyssara	estrada	solitário	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0224	Marfim pelagem	FANTÁSTICA	Valkyrion	pântano	emboscador	parcial	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0225	Obsidiana pata	FANTÁSTICA	Eshmara	região gelada	caçador de matilha	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0226	Véu pluma	FANTÁSTICA	Kethruun	vulcânica	oportunista	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0227	Solar focinho	FANTÁSTICA	Orinthal	deserto	noturno	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0228	Musgo corno	FANTÁSTICA	Zarim	ruínas	gregário	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0229	Rubro escama	FANTÁSTICA	Lyrien	montanha	migratório	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0230	Pedral asa	FANTÁSTICA	Myrthos	oceano	necrófago	selvagem	sim	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0231	Safira chifre	FANTÁSTICA	Aeloria	pradaria	territorial	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0232	Dourado garra	FANTÁSTICA	Tharun	planície	crepuscular	parcial	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0233	Tempest nadadeira	FANTÁSTICA	Nyssara	caverna	defensor de ninho	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0234	Lúmen casco	FANTÁSTICA	Valkyrion	floresta	solitário	doméstico	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0235	Âmbar cauda	FANTÁSTICA	Eshmara	costa	emboscador	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0236	Celeste pelagem	FANTÁSTICA	Kethruun	estrada	caçador de matilha	parcial	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0237	Nebular pata	FANTÁSTICA	Orinthal	pântano	oportunista	selvagem	não	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0238	Esmeralda pluma	FANTÁSTICA	Zarim	região gelada	noturno	selvagem	não	2	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0239	Prateado focinho	FANTÁSTICA	Lyrien	vulcânica	gregário	selvagem	não	3	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.
+FAU_0240	Brumal corno	FANTÁSTICA	Myrthos	deserto	migratório	doméstico	sim	1	Espécie fantástica original de Altheria; comportamento e domesticação variam por região.

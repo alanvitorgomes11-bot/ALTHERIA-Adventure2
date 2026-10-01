@@ -1,0 +1,251 @@
+id	name	realm	threatClass	energy	behavior	hp	attack	defense	xp	gold	habitat	weakness
+MON_0001	Slime	Aeloria	0	NONE	Variável conforme ecologia e narrativa.	17	4	3	9	5	floresta	fogo
+MON_0002	Goblin	Tharun	1	NONE	Variável conforme ecologia e narrativa.	35	8	6	18	12	pântano	água
+MON_0003	Lobo	Nyssara	2	NONE	Variável conforme ecologia e narrativa.	53	12	9	27	19	montanha	vento
+MON_0004	Formiga Gigante	Valkyrion	3	NONE	Variável conforme ecologia e narrativa.	71	16	8	36	26	planície	terra
+MON_0005	Aranha Monstruosa	Eshmara	4	NONE	Variável conforme ecologia e narrativa.	89	15	11	45	33	deserto	luz
+MON_0006	Troll	Kethruun	5	NONE	Variável conforme ecologia e narrativa.	107	19	14	54	40	oceano	sombra
+MON_0007	Lizardfolk	Orinthal	6	NONE	Variável conforme ecologia e narrativa.	125	23	17	56	47	ruínas	metal
+MON_0008	Morcego Vampiro	Zarim	7	NONE	Variável conforme ecologia e narrativa.	143	27	16	65	54	masmorra	som
+MON_0009	Esqueleto	Lyrien	0	NONE	Variável conforme ecologia e narrativa.	14	7	3	10	4	cidade	fogo
+MON_0010	Sahuagin	Myrthos	1	NONE	Variável conforme ecologia e narrativa.	32	6	6	19	11	tundra	água
+MON_0011	Wraith	Aeloria	2	NONE	Variável conforme ecologia e narrativa.	50	10	9	28	18	floresta	vento
+MON_0012	Golem	Tharun	3	NONE	Variável conforme ecologia e narrativa.	68	14	8	37	25	pântano	terra
+MON_0013	Gigante de Fogo	Nyssara	4	NONE	Variável conforme ecologia e narrativa.	86	18	11	46	32	montanha	luz
+MON_0014	Golem de Lava	Valkyrion	5	NONE	Variável conforme ecologia e narrativa.	104	22	14	48	39	planície	sombra
+MON_0015	Yeti	Eshmara	6	NONE	Variável conforme ecologia e narrativa.	122	21	17	57	46	deserto	metal
+MON_0016	Vampiro	Kethruun	7	NONE	Variável conforme ecologia e narrativa.	140	25	16	66	53	oceano	som
+MON_0017	Hobgoblin	Orinthal	0	NONE	Variável conforme ecologia e narrativa.	38	5	3	11	12	ruínas	fogo
+MON_0018	Aranea	Zarim	1	NONE	Variável conforme ecologia e narrativa.	29	9	6	20	10	masmorra	água
+MON_0019	Nymph	Lyrien	2	NONE	Variável conforme ecologia e narrativa.	47	13	9	29	17	cidade	vento
+MON_0020	Derro	Myrthos	3	NONE	Variável conforme ecologia e narrativa.	65	12	8	38	24	tundra	terra
+MON_0021	Naga	Aeloria	4	NONE	Variável conforme ecologia e narrativa.	83	16	11	40	31	floresta	luz
+MON_0022	Gárgula	Tharun	5	NONE	Variável conforme ecologia e narrativa.	101	20	14	49	38	pântano	sombra
+MON_0023	Wyvern	Nyssara	6	NONE	Variável conforme ecologia e narrativa.	119	24	17	58	45	montanha	metal
+MON_0024	Gigante de Gelo	Valkyrion	7	NONE	Variável conforme ecologia e narrativa.	137	28	16	67	52	planície	som
+MON_0025	Golem de Ferro	Eshmara	0	NONE	Variável conforme ecologia e narrativa.	35	3	3	12	11	deserto	fogo
+MON_0026	Dragões	Kethruun	1	NONE	Variável conforme ecologia e narrativa.	53	7	6	21	18	oceano	água
+MON_0027	Grifos	Orinthal	2	NONE	Variável conforme ecologia e narrativa.	44	11	9	30	16	ruínas	vento
+MON_0028	Cavaleiros da Morte	Zarim	3	NONE	Variável conforme ecologia e narrativa.	62	15	8	32	23	masmorra	terra
+MON_0029	Liches	Lyrien	4	NONE	Variável conforme ecologia e narrativa.	80	19	11	41	30	cidade	luz
+MON_0030	Hellhounds	Myrthos	5	NONE	Variável conforme ecologia e narrativa.	98	18	14	50	37	tundra	sombra
+MON_0031	Imps	Aeloria	6	NONE	Variável conforme ecologia e narrativa.	116	22	17	59	44	floresta	metal
+MON_0032	Balor	Tharun	7	NONE	Variável conforme ecologia e narrativa.	134	26	16	68	51	pântano	som
+MON_0033	Sphinx	Nyssara	0	NONE	Variável conforme ecologia e narrativa.	32	6	3	13	10	montanha	fogo
+MON_0034	Hidra do Lago Valdoris	Valkyrion	1	NONE	Variável conforme ecologia e narrativa.	50	10	6	22	17	planície	água
+MON_0035	Verme Gigante	Eshmara	2	NONE	Variável conforme ecologia e narrativa.	68	9	9	24	24	deserto	vento
+MON_0036	Lobo de Inverno	Kethruun	3	NONE	Variável conforme ecologia e narrativa.	59	13	8	33	22	oceano	terra
+MON_0037	Elemental	Orinthal	4	NONE	Variável conforme ecologia e narrativa.	77	17	11	42	29	ruínas	luz
+MON_0038	Mantícora	Zarim	5	NONE	Variável conforme ecologia e narrativa.	95	21	14	51	36	masmorra	sombra
+MON_0039	Sereia	Lyrien	6	NONE	Variável conforme ecologia e narrativa.	113	25	17	60	43	cidade	metal
+MON_0040	Kraken	Myrthos	7	NONE	Variável conforme ecologia e narrativa.	131	24	16	69	50	tundra	som
+MON_0041	Tritão	Aeloria	0	NONE	Variável conforme ecologia e narrativa.	29	4	3	14	9	floresta	fogo
+MON_0042	Basilisco	Tharun	1	NONE	Variável conforme ecologia e narrativa.	47	8	6	16	16	pântano	água
+MON_0043	Orc	Nyssara	2	NONE	Variável conforme ecologia e narrativa.	65	12	9	25	23	montanha	vento
+MON_0044	Tubarão Monstruoso	Valkyrion	3	NONE	Variável conforme ecologia e narrativa.	83	16	8	34	30	planície	terra
+MON_0045	Caranguejo Gigante	Eshmara	4	NONE	Variável conforme ecologia e narrativa.	74	15	11	43	28	deserto	luz
+MON_0046	Mimic	Kethruun	5	NONE	Variável conforme ecologia e narrativa.	92	19	14	52	35	oceano	sombra
+MON_0047	Treant	Orinthal	6	NONE	Variável conforme ecologia e narrativa.	110	23	17	61	42	ruínas	metal
+MON_0048	Hag	Zarim	7	NONE	Variável conforme ecologia e narrativa.	128	27	16	70	49	masmorra	som
+MON_0049	Bugbear	Lyrien	0	NONE	Variável conforme ecologia e narrativa.	26	7	3	8	8	cidade	fogo
+MON_0050	Wendigo	Myrthos	1	NONE	Variável conforme ecologia e narrativa.	44	6	6	17	15	tundra	água
+MON_0051	Harpia	Aeloria	2	NONE	Variável conforme ecologia e narrativa.	62	10	9	26	22	floresta	vento
+MON_0052	Rakshasa	Tharun	3	NONE	Variável conforme ecologia e narrativa.	80	14	8	35	29	pântano	terra
+MON_0053	Gomut	Nyssara	4	NONE	Variável conforme ecologia e narrativa.	98	18	11	44	36	montanha	luz
+MON_0054	Morcego Vampiro do Pântano	Eshmara	7	NONE	territorial	119	28	18	69	46	planície	sombra
+MON_0055	Yeti de Gelo	Kethruun	8	ELYTH	caçador	137	27	21	78	53	deserto	metal
+MON_0056	Gárgula da Névoa	Orinthal	1	MANA	evasivo	35	7	4	16	12	oceano	som
+MON_0057	Liches de Valdora	Zarim	2	NONE	gregário	53	11	7	25	19	ruínas	fogo
+MON_0058	Lobo de Inverno do Deserto	Lyrien	3	ELYTH	inteligente	71	15	10	34	26	masmorra	água
+MON_0059	Orc de Ferro	Myrthos	4	MANA	corrompido	89	19	13	43	33	cidade	vento
+MON_0060	Wendigo das Estradas	Aeloria	5	NONE	territorial	107	18	12	52	40	tundra	terra
+MON_0061	Formiga Gigante das Montanhas	Tharun	6	ELYTH	caçador	125	22	15	61	47	floresta	luz
+MON_0062	Wraith das Ruínas	Nyssara	7	MANA	evasivo	143	26	18	70	54	pântano	sombra
+MON_0063	Aranea Ancestral	Valkyrion	8	NONE	gregário	134	30	21	72	52	montanha	metal
+MON_0064	Golem de Ferro do Pântano	Eshmara	1	ELYTH	inteligente	32	10	4	17	11	planície	som
+MON_0065	Balor de Gelo	Kethruun	2	MANA	corrompido	50	9	7	26	18	deserto	fogo
+MON_0066	Sereia da Névoa	Orinthal	3	NONE	territorial	68	13	10	35	25	oceano	água
+MON_0067	Mimic de Valdora	Zarim	4	ELYTH	caçador	86	17	13	44	32	ruínas	vento
+MON_0068	Gomut do Deserto	Lyrien	5	MANA	evasivo	104	21	12	53	39	masmorra	terra
+MON_0069	Lizardfolk de Ferro	Myrthos	6	NONE	gregário	122	25	15	62	46	cidade	luz
+MON_0070	Golem de Lava das Estradas	Aeloria	7	ELYTH	inteligente	140	24	18	64	53	tundra	sombra
+MON_0071	Naga das Montanhas	Tharun	8	MANA	corrompido	158	28	21	73	60	floresta	metal
+MON_0072	Cavaleiros da Morte das Ruínas	Nyssara	1	NONE	territorial	29	8	4	18	10	pântano	som
+MON_0073	Verme Gigante Ancestral	Valkyrion	2	ELYTH	caçador	47	12	7	27	17	montanha	fogo
+MON_0074	Basilisco do Pântano	Eshmara	3	MANA	evasivo	65	16	10	36	24	planície	água
+MON_0075	Bugbear de Gelo	Kethruun	4	NONE	gregário	83	15	13	45	31	deserto	vento
+MON_0076	Lobo da Névoa	Orinthal	5	ELYTH	inteligente	101	19	12	54	38	oceano	terra
+MON_0077	Sahuagin de Valdora	Zarim	6	MANA	corrompido	119	23	15	56	45	ruínas	luz
+MON_0078	Hobgoblin do Deserto	Lyrien	7	NONE	territorial	137	27	18	65	52	masmorra	sombra
+MON_0079	Gigante de Gelo de Ferro	Myrthos	8	ELYTH	caçador	155	31	21	74	59	cidade	metal
+MON_0080	Imps das Estradas	Aeloria	1	MANA	evasivo	53	6	4	19	18	tundra	som
+MON_0081	Mantícora das Montanhas	Tharun	2	NONE	gregário	44	10	7	28	16	floresta	fogo
+MON_0082	Caranguejo Gigante das Ruínas	Nyssara	3	ELYTH	inteligente	62	14	10	37	23	pântano	água
+MON_0083	Rakshasa Ancestral	Valkyrion	4	MANA	corrompido	80	18	13	46	30	montanha	vento
+MON_0084	Troll do Pântano	Eshmara	5	NONE	territorial	98	22	12	48	37	planície	terra
+MON_0085	Gigante de Fogo de Gelo	Kethruun	6	ELYTH	caçador	116	21	15	57	44	deserto	luz
+MON_0086	Derro da Névoa	Orinthal	7	MANA	evasivo	134	25	18	66	51	oceano	sombra
+MON_0087	Grifos de Valdora	Zarim	8	NONE	gregário	152	29	21	75	58	ruínas	metal
+MON_0088	Hidra do Lago Valdoris do Deserto	Lyrien	1	ELYTH	inteligente	50	9	4	20	17	masmorra	som
+MON_0089	Tritão de Ferro	Myrthos	2	MANA	corrompido	68	13	7	29	24	cidade	fogo
+MON_0090	Hag das Estradas	Aeloria	3	NONE	territorial	59	12	10	38	22	tundra	água
+MON_0091	Goblin das Montanhas	Tharun	4	ELYTH	caçador	77	16	13	40	29	floresta	vento
+MON_0092	Esqueleto das Ruínas	Nyssara	5	MANA	evasivo	95	20	12	49	36	pântano	terra
+MON_0093	Vampiro Ancestral	Valkyrion	6	NONE	gregário	113	24	15	58	43	montanha	luz
+MON_0094	Wyvern do Pântano	Eshmara	7	ELYTH	inteligente	131	28	18	67	50	planície	sombra
+MON_0095	Hellhounds de Gelo	Kethruun	8	MANA	corrompido	149	27	21	76	57	deserto	metal
+MON_0096	Elemental da Névoa	Orinthal	1	NONE	territorial	47	7	4	21	16	oceano	som
+MON_0097	Tubarão Monstruoso de Valdora	Zarim	2	ELYTH	caçador	65	11	7	30	23	ruínas	fogo
+MON_0098	Harpia do Deserto	Lyrien	3	MANA	evasivo	83	15	10	32	30	masmorra	água
+MON_0099	Aranha Monstruosa de Ferro	Myrthos	4	NONE	gregário	74	19	13	41	28	cidade	vento
+MON_0100	Golem das Estradas	Aeloria	5	ELYTH	inteligente	92	18	12	50	35	tundra	terra
+MON_0101	Nymph das Montanhas	Tharun	6	MANA	corrompido	110	22	15	59	42	floresta	luz
+MON_0102	Dragões das Ruínas	Nyssara	7	NONE	territorial	128	26	18	68	49	pântano	sombra
+MON_0103	Sphinx Ancestral	Valkyrion	8	ELYTH	caçador	146	30	21	77	56	montanha	metal
+MON_0104	Kraken do Pântano	Eshmara	1	MANA	evasivo	44	10	4	22	15	planície	som
+MON_0105	Treant de Gelo	Kethruun	2	NONE	gregário	62	9	7	24	22	deserto	fogo
+MON_0106	Slime da Névoa	Orinthal	3	ELYTH	inteligente	80	13	10	33	29	oceano	água
+MON_0107	Morcego Vampiro de Valdora	Zarim	4	MANA	corrompido	98	17	13	42	36	ruínas	vento
+MON_0108	Yeti do Deserto	Lyrien	5	NONE	territorial	89	21	12	51	34	masmorra	terra
+MON_0109	Gárgula de Ferro	Myrthos	6	ELYTH	caçador	107	25	15	60	41	cidade	luz
+MON_0110	Liches das Estradas	Aeloria	7	MANA	evasivo	125	24	18	69	48	tundra	sombra
+MON_0111	Lobo de Inverno das Montanhas	Tharun	8	NONE	gregário	143	28	21	78	55	floresta	metal
+MON_0112	Orc das Ruínas	Nyssara	1	ELYTH	inteligente	41	8	4	16	14	pântano	som
+MON_0113	Wendigo Ancestral	Valkyrion	2	MANA	corrompido	59	12	7	25	21	montanha	fogo
+MON_0114	Formiga Gigante do Pântano	Eshmara	3	NONE	territorial	77	16	10	34	28	planície	água
+MON_0115	Wraith de Gelo	Kethruun	4	ELYTH	caçador	95	15	13	43	35	deserto	vento
+MON_0116	Aranea da Névoa	Orinthal	5	MANA	evasivo	113	19	12	52	42	oceano	terra
+MON_0117	Golem de Ferro de Valdora	Zarim	6	NONE	gregário	104	23	15	61	40	ruínas	luz
+MON_0118	Balor do Deserto	Lyrien	7	ELYTH	inteligente	122	27	18	70	47	masmorra	sombra
+MON_0119	Sereia de Ferro	Myrthos	8	MANA	corrompido	140	31	21	72	54	cidade	metal
+MON_0120	Mimic das Estradas	Aeloria	1	NONE	territorial	38	6	4	17	13	tundra	som
+MON_0121	Gomut das Montanhas	Tharun	2	ELYTH	caçador	56	10	7	26	20	floresta	fogo
+MON_0122	Lizardfolk das Ruínas	Nyssara	3	MANA	evasivo	74	14	10	35	27	pântano	água
+MON_0123	Golem de Lava Ancestral	Valkyrion	4	NONE	gregário	92	18	13	44	34	montanha	vento
+MON_0124	Naga do Pântano	Eshmara	5	ELYTH	inteligente	110	22	12	53	41	planície	terra
+MON_0125	Cavaleiros da Morte de Gelo	Kethruun	6	MANA	corrompido	128	21	15	62	48	deserto	luz
+MON_0126	Verme Gigante da Névoa	Orinthal	7	NONE	territorial	119	25	18	64	46	oceano	sombra
+MON_0127	Basilisco de Valdora	Zarim	8	ELYTH	caçador	137	29	21	73	53	ruínas	metal
+MON_0128	Bugbear do Deserto	Lyrien	1	MANA	evasivo	35	9	4	18	12	masmorra	som
+MON_0129	Lobo de Ferro	Myrthos	2	NONE	gregário	53	13	7	27	19	cidade	fogo
+MON_0130	Sahuagin das Estradas	Aeloria	3	ELYTH	inteligente	71	12	10	36	26	tundra	água
+MON_0131	Hobgoblin das Montanhas	Tharun	4	MANA	corrompido	89	16	13	45	33	floresta	vento
+MON_0132	Gigante de Gelo das Ruínas	Nyssara	5	NONE	territorial	107	20	12	54	40	pântano	terra
+MON_0133	Imps Ancestral	Valkyrion	6	ELYTH	caçador	125	24	15	56	47	montanha	luz
+MON_0134	Mantícora do Pântano	Eshmara	7	MANA	evasivo	143	28	18	65	54	planície	sombra
+MON_0135	Caranguejo Gigante de Gelo	Kethruun	8	NONE	gregário	134	27	21	74	52	deserto	metal
+MON_0136	Rakshasa da Névoa	Orinthal	1	ELYTH	inteligente	32	7	4	19	11	oceano	som
+MON_0137	Troll de Valdora	Zarim	2	MANA	corrompido	50	11	7	28	18	ruínas	fogo
+MON_0138	Gigante de Fogo do Deserto	Lyrien	3	NONE	territorial	68	15	10	37	25	masmorra	água
+MON_0139	Derro de Ferro	Myrthos	4	ELYTH	caçador	86	19	13	46	32	cidade	vento
+MON_0140	Grifos das Estradas	Aeloria	5	MANA	evasivo	104	18	12	48	39	tundra	terra
+MON_0141	Hidra do Lago Valdoris das Montanhas	Tharun	6	NONE	gregário	122	22	15	57	46	floresta	luz
+MON_0142	Tritão das Ruínas	Nyssara	7	ELYTH	inteligente	140	26	18	66	53	pântano	sombra
+MON_0143	Hag Ancestral	Valkyrion	8	MANA	corrompido	158	30	21	75	60	montanha	metal
+MON_0144	Goblin do Pântano	Eshmara	1	NONE	territorial	29	10	4	20	10	planície	som
+MON_0145	Esqueleto de Gelo	Kethruun	2	ELYTH	caçador	47	9	7	29	17	deserto	fogo
+MON_0146	Vampiro da Névoa	Orinthal	3	MANA	evasivo	65	13	10	38	24	oceano	água
+MON_0147	Wyvern de Valdora	Zarim	4	NONE	gregário	83	17	13	40	31	ruínas	vento
+MON_0148	Hellhounds do Deserto	Lyrien	5	ELYTH	inteligente	101	21	12	49	38	masmorra	terra
+MON_0149	Elemental de Ferro	Myrthos	6	MANA	corrompido	119	25	15	58	45	cidade	luz
+MON_0150	Tubarão Monstruoso das Estradas	Aeloria	7	NONE	territorial	137	24	18	67	52	tundra	sombra
+MON_0151	Harpia das Montanhas	Tharun	8	ELYTH	caçador	155	28	21	76	59	floresta	metal
+MON_0152	Aranha Monstruosa das Ruínas	Nyssara	1	MANA	evasivo	53	8	4	21	18	pântano	som
+MON_0153	Golem Ancestral	Valkyrion	2	NONE	gregário	44	12	7	30	16	montanha	fogo
+MON_0154	Nymph do Pântano	Eshmara	3	ELYTH	inteligente	62	16	10	32	23	planície	água
+MON_0155	Dragões de Gelo	Kethruun	4	MANA	corrompido	80	15	13	41	30	deserto	vento
+MON_0156	Sphinx da Névoa	Orinthal	5	NONE	territorial	98	19	12	50	37	oceano	terra
+MON_0157	Kraken de Valdora	Zarim	6	ELYTH	caçador	116	23	15	59	44	ruínas	luz
+MON_0158	Treant do Deserto	Lyrien	7	MANA	evasivo	134	27	18	68	51	masmorra	sombra
+MON_0159	Slime de Ferro	Myrthos	8	NONE	gregário	152	31	21	77	58	cidade	metal
+MON_0160	Morcego Vampiro das Estradas	Aeloria	1	ELYTH	inteligente	50	6	4	22	17	tundra	som
+MON_0161	Yeti das Montanhas	Tharun	2	MANA	corrompido	68	10	7	24	24	floresta	fogo
+MON_0162	Gárgula das Ruínas	Nyssara	3	NONE	territorial	59	14	10	33	22	pântano	água
+MON_0163	Liches Ancestral	Valkyrion	4	ELYTH	caçador	77	18	13	42	29	montanha	vento
+MON_0164	Lobo de Inverno do Pântano	Eshmara	5	MANA	evasivo	95	22	12	51	36	planície	terra
+MON_0165	Orc de Gelo	Kethruun	6	NONE	gregário	113	21	15	60	43	deserto	luz
+MON_0166	Wendigo da Névoa	Orinthal	7	ELYTH	inteligente	131	25	18	69	50	oceano	sombra
+MON_0167	Formiga Gigante de Valdora	Zarim	8	MANA	corrompido	149	29	21	78	57	ruínas	metal
+MON_0168	Wraith do Deserto	Lyrien	1	NONE	territorial	47	9	4	16	16	masmorra	som
+MON_0169	Aranea de Ferro	Myrthos	2	ELYTH	caçador	65	13	7	25	23	cidade	fogo
+MON_0170	Golem de Ferro das Estradas	Aeloria	3	MANA	evasivo	83	12	10	34	30	tundra	água
+MON_0171	Balor das Montanhas	Tharun	4	NONE	gregário	74	16	13	43	28	floresta	vento
+MON_0172	Sereia das Ruínas	Nyssara	5	ELYTH	inteligente	92	20	12	52	35	pântano	terra
+MON_0173	Mimic Ancestral	Valkyrion	6	MANA	corrompido	110	24	15	61	42	montanha	luz
+MON_0174	Gomut do Pântano	Eshmara	7	NONE	territorial	128	28	18	70	49	planície	sombra
+MON_0175	Lizardfolk de Gelo	Kethruun	8	ELYTH	caçador	146	27	21	72	56	deserto	metal
+MON_0176	Golem de Lava da Névoa	Orinthal	1	MANA	evasivo	44	7	4	17	15	oceano	som
+MON_0177	Naga de Valdora	Zarim	2	NONE	gregário	62	11	7	26	22	ruínas	fogo
+MON_0178	Cavaleiros da Morte do Deserto	Lyrien	3	ELYTH	inteligente	80	15	10	35	29	masmorra	água
+MON_0179	Verme Gigante de Ferro	Myrthos	4	MANA	corrompido	98	19	13	44	36	cidade	vento
+MON_0180	Basilisco das Estradas	Aeloria	5	NONE	territorial	89	18	12	53	34	tundra	terra
+MON_0181	Bugbear das Montanhas	Tharun	6	ELYTH	caçador	107	22	15	62	41	floresta	luz
+MON_0182	Lobo das Ruínas	Nyssara	7	MANA	evasivo	125	26	18	64	48	pântano	sombra
+MON_0183	Sahuagin Ancestral	Valkyrion	8	NONE	gregário	143	30	21	73	55	montanha	metal
+MON_0184	Hobgoblin do Pântano	Eshmara	1	ELYTH	inteligente	41	10	4	18	14	planície	som
+MON_0185	Gigante de Gelo de Gelo	Kethruun	2	MANA	corrompido	59	9	7	27	21	deserto	fogo
+MON_0186	Imps da Névoa	Orinthal	3	NONE	territorial	77	13	10	36	28	oceano	água
+MON_0187	Mantícora de Valdora	Zarim	4	ELYTH	caçador	95	17	13	45	35	ruínas	vento
+MON_0188	Caranguejo Gigante do Deserto	Lyrien	5	MANA	evasivo	113	21	12	54	42	masmorra	terra
+MON_0189	Rakshasa de Ferro	Myrthos	6	NONE	gregário	104	25	15	56	40	cidade	luz
+MON_0190	Troll das Estradas	Aeloria	7	ELYTH	inteligente	122	24	18	65	47	tundra	sombra
+MON_0191	Gigante de Fogo das Montanhas	Tharun	8	MANA	corrompido	140	28	21	74	54	floresta	metal
+MON_0192	Derro das Ruínas	Nyssara	1	NONE	territorial	38	8	4	19	13	pântano	som
+MON_0193	Grifos Ancestral	Valkyrion	2	ELYTH	caçador	56	12	7	28	20	montanha	fogo
+MON_0194	Hidra do Lago Valdoris do Pântano	Eshmara	3	MANA	evasivo	74	16	10	37	27	planície	água
+MON_0195	Tritão de Gelo	Kethruun	4	NONE	gregário	92	15	13	46	34	deserto	vento
+MON_0196	Hag da Névoa	Orinthal	5	ELYTH	inteligente	110	19	12	48	41	oceano	terra
+MON_0197	Goblin de Valdora	Zarim	6	MANA	corrompido	128	23	15	57	48	ruínas	luz
+MON_0198	Esqueleto do Deserto	Lyrien	7	NONE	territorial	119	27	18	66	46	masmorra	sombra
+MON_0199	Vampiro de Ferro	Myrthos	8	ELYTH	caçador	137	31	21	75	53	cidade	metal
+MON_0200	Wyvern das Estradas	Aeloria	1	MANA	evasivo	35	6	4	20	12	tundra	som
+MON_0201	Hellhounds das Montanhas	Tharun	2	NONE	gregário	53	10	7	29	19	floresta	fogo
+MON_0202	Elemental das Ruínas	Nyssara	3	ELYTH	inteligente	71	14	10	38	26	pântano	água
+MON_0203	Tubarão Monstruoso Ancestral	Valkyrion	4	MANA	corrompido	89	18	13	40	33	montanha	vento
+MON_0204	Harpia do Pântano	Eshmara	5	NONE	territorial	107	22	12	49	40	planície	terra
+MON_0205	Aranha Monstruosa de Gelo	Kethruun	6	ELYTH	caçador	125	21	15	58	47	deserto	luz
+MON_0206	Golem da Névoa	Orinthal	7	MANA	evasivo	143	25	18	67	54	oceano	sombra
+MON_0207	Nymph de Valdora	Zarim	8	NONE	gregário	134	29	21	76	52	ruínas	metal
+MON_0208	Dragões do Deserto	Lyrien	1	ELYTH	inteligente	32	9	4	21	11	masmorra	som
+MON_0209	Sphinx de Ferro	Myrthos	2	MANA	corrompido	50	13	7	30	18	cidade	fogo
+MON_0210	Kraken das Estradas	Aeloria	3	NONE	territorial	68	12	10	32	25	tundra	água
+MON_0211	Treant das Montanhas	Tharun	4	ELYTH	caçador	86	16	13	41	32	floresta	vento
+MON_0212	Slime das Ruínas	Nyssara	5	MANA	evasivo	104	20	12	50	39	pântano	terra
+MON_0213	Morcego Vampiro Ancestral	Valkyrion	6	NONE	gregário	122	24	15	59	46	montanha	luz
+MON_0214	Yeti do Pântano	Eshmara	7	ELYTH	inteligente	140	28	18	68	53	planície	sombra
+MON_0215	Gárgula de Gelo	Kethruun	8	MANA	corrompido	158	27	21	77	60	deserto	metal
+MON_0216	Liches da Névoa	Orinthal	1	NONE	territorial	29	7	4	22	10	oceano	som
+MON_0217	Lobo de Inverno de Valdora	Zarim	2	ELYTH	caçador	47	11	7	24	17	ruínas	fogo
+MON_0218	Orc do Deserto	Lyrien	3	MANA	evasivo	65	15	10	33	24	masmorra	água
+MON_0219	Wendigo de Ferro	Myrthos	4	NONE	gregário	83	19	13	42	31	cidade	vento
+MON_0220	Formiga Gigante das Estradas	Aeloria	5	ELYTH	inteligente	101	18	12	51	38	tundra	terra
+MON_0221	Wraith das Montanhas	Tharun	6	MANA	corrompido	119	22	15	60	45	floresta	luz
+MON_0222	Aranea das Ruínas	Nyssara	7	NONE	territorial	137	26	18	69	52	pântano	sombra
+MON_0223	Golem de Ferro Ancestral	Valkyrion	8	ELYTH	caçador	155	30	21	78	59	montanha	metal
+MON_0224	Balor do Pântano	Eshmara	1	MANA	evasivo	53	10	4	16	18	planície	som
+MON_0225	Sereia de Gelo	Kethruun	2	NONE	gregário	44	9	7	25	16	deserto	fogo
+MON_0226	Mimic da Névoa	Orinthal	3	ELYTH	inteligente	62	13	10	34	23	oceano	água
+MON_0227	Gomut de Valdora	Zarim	4	MANA	corrompido	80	17	13	43	30	ruínas	vento
+MON_0228	Lizardfolk do Deserto	Lyrien	5	NONE	territorial	98	21	12	52	37	masmorra	terra
+MON_0229	Golem de Lava de Ferro	Myrthos	6	ELYTH	caçador	116	25	15	61	44	cidade	luz
+MON_0230	Naga das Estradas	Aeloria	7	MANA	evasivo	134	24	18	70	51	tundra	sombra
+MON_0231	Cavaleiros da Morte das Montanhas	Tharun	8	NONE	gregário	152	28	21	72	58	floresta	metal
+MON_0232	Verme Gigante das Ruínas	Nyssara	1	ELYTH	inteligente	50	8	4	17	17	pântano	som
+MON_0233	Basilisco Ancestral	Valkyrion	2	MANA	corrompido	68	12	7	26	24	montanha	fogo
+MON_0234	Bugbear do Pântano	Eshmara	3	NONE	territorial	59	16	10	35	22	planície	água
+MON_0235	Lobo de Gelo	Kethruun	4	ELYTH	caçador	77	15	13	44	29	deserto	vento
+MON_0236	Sahuagin da Névoa	Orinthal	5	MANA	evasivo	95	19	12	53	36	oceano	terra
+MON_0237	Hobgoblin de Valdora	Zarim	6	NONE	gregário	113	23	15	62	43	ruínas	luz
+MON_0238	Gigante de Gelo do Deserto	Lyrien	7	ELYTH	inteligente	131	27	18	64	50	masmorra	sombra
+MON_0239	Imps de Ferro	Myrthos	8	MANA	corrompido	149	31	21	73	57	cidade	metal
+MON_0240	Mantícora das Estradas	Aeloria	1	NONE	territorial	47	6	4	18	16	tundra	som
+MON_0241	Caranguejo Gigante das Montanhas	Tharun	2	ELYTH	caçador	65	10	7	27	23	floresta	fogo
+MON_0242	Rakshasa das Ruínas	Nyssara	3	MANA	evasivo	83	14	10	36	30	pântano	água
+MON_0243	Troll Ancestral	Valkyrion	4	NONE	gregário	74	18	13	45	28	montanha	vento
+MON_0244	Gigante de Fogo do Pântano	Eshmara	5	ELYTH	inteligente	92	22	12	54	35	planície	terra
+MON_0245	Derro de Gelo	Kethruun	6	MANA	corrompido	110	21	15	56	42	deserto	luz
+MON_0246	Grifos da Névoa	Orinthal	7	NONE	territorial	128	25	18	65	49	oceano	sombra
+MON_0247	Hidra do Lago Valdoris de Valdora	Zarim	8	ELYTH	caçador	146	29	21	74	56	ruínas	metal
+MON_0248	Tritão do Deserto	Lyrien	1	MANA	evasivo	44	9	4	19	15	masmorra	som
+MON_0249	Hag de Ferro	Myrthos	2	NONE	gregário	62	13	7	28	22	cidade	fogo
+MON_0250	Goblin das Estradas	Aeloria	3	ELYTH	inteligente	80	12	10	37	29	tundra	água

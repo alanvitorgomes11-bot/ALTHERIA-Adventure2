@@ -1,0 +1,21 @@
+id	name	motto	rank	benefit	specialty
+CLAN_01	Clã Aurora	A lâmina protege o juramento.	1	Benefício de ranking 1: acesso, bolsas, equipamentos e missões especiais.	defesa
+CLAN_02	Clã Brasa	Conhecimento vence o medo.	2	Benefício de ranking 2: acesso, bolsas, equipamentos e missões especiais.	estratégia
+CLAN_03	Clã Cervo	Disciplina antes da glória.	3	Benefício de ranking 3: acesso, bolsas, equipamentos e missões especiais.	exploração
+CLAN_04	Clã Dragão	O talento deve servir ao reino.	4	Benefício de ranking 4: acesso, bolsas, equipamentos e missões especiais.	estratégia
+CLAN_05	Clã Eclipse	Conhecimento vence o medo.	5	Benefício de ranking 5: acesso, bolsas, equipamentos e missões especiais.	cura
+CLAN_06	Clã Falcão	Disciplina antes da glória.	6	Benefício de ranking 6: acesso, bolsas, equipamentos e missões especiais.	exploração
+CLAN_07	Clã Grifo	Disciplina antes da glória.	7	Benefício de ranking 7: acesso, bolsas, equipamentos e missões especiais.	pesquisa
+CLAN_08	Clã Harpia	Nenhum companheiro fica para trás.	8	Benefício de ranking 8: acesso, bolsas, equipamentos e missões especiais.	defesa
+CLAN_09	Clã Jade	O talento deve servir ao reino.	9	Benefício de ranking 9: acesso, bolsas, equipamentos e missões especiais.	exploração
+CLAN_10	Clã Lótus	Disciplina antes da glória.	10	Benefício de ranking 10: acesso, bolsas, equipamentos e missões especiais.	defesa
+CLAN_11	Clã Lua	Conhecimento vence o medo.	11	Benefício de ranking 11: acesso, bolsas, equipamentos e missões especiais.	pesquisa
+CLAN_12	Clã Maré	A coragem também é saber recuar.	12	Benefício de ranking 12: acesso, bolsas, equipamentos e missões especiais.	magia
+CLAN_13	Clã Névoa	A coragem também é saber recuar.	13	Benefício de ranking 13: acesso, bolsas, equipamentos e missões especiais.	exploração
+CLAN_14	Clã Orbe	O talento deve servir ao reino.	14	Benefício de ranking 14: acesso, bolsas, equipamentos e missões especiais.	magia
+CLAN_15	Clã Runa	Disciplina antes da glória.	15	Benefício de ranking 15: acesso, bolsas, equipamentos e missões especiais.	pesquisa
+CLAN_16	Clã Sol	Conhecimento vence o medo.	16	Benefício de ranking 16: acesso, bolsas, equipamentos e missões especiais.	cura
+CLAN_17	Clã Tempestade	O talento deve servir ao reino.	17	Benefício de ranking 17: acesso, bolsas, equipamentos e missões especiais.	pesquisa
+CLAN_18	Clã Véu	Conhecimento vence o medo.	18	Benefício de ranking 18: acesso, bolsas, equipamentos e missões especiais.	pesquisa
+CLAN_19	Clã Vinha	A lâmina protege o juramento.	19	Benefício de ranking 19: acesso, bolsas, equipamentos e missões especiais.	cura
+CLAN_20	Clã Cinza	Nenhum companheiro fica para trás.	20	Benefício de ranking 20: acesso, bolsas, equipamentos e missões especiais.	estratégia
